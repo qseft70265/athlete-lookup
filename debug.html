@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DEBUG：顯示 Google Sheet 資料</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+      background: #f4f4f4;
+    }
+    pre {
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      border: 1px solid #ccc;
+    }
+  </style>
+  <script>
+    async function fetchData() {
+      const res = await fetch("https://docs.google.com/spreadsheets/d/1BgeSNwiMQHAlg_hTNT8IP1PXMIWic0VUdg8LvKVFYZE/gviz/tq?tqx=out:json");
+      const text = await res.text();
+      const json = JSON.parse(text.substring(47).slice(0, -2));
+      const cols = json.table.cols.map(col => col.label.trim());
+      const data = json.table.rows.map(row =>
+        Object.fromEntries(row.c.map((cell, i) => [cols[i], cell ? cell.v : ""]))
+      );
+      document.getElementById("output").textContent = JSON.stringify(data, null, 2);
+    }
+    window.onload = fetchData;
+  </script>
+</head>
+<body>
+  <h1>🧪 DEBUG：顯示目前 Google Sheet 抓到的資料</h1>
+  <pre id="output">資料載入中...</pre>
+</body>
+</html>
