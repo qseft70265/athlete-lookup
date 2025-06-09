@@ -1,0 +1,23 @@
+Wed Mar 18 11:21:41 CST 2020
+Package: updatePackage.awf
+   JD: JDownloader.jar/org/appwork/utils/JVMVersion.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/HTTPConnectionImpl$3.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/HTTPConnectionImpl.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/HTTPProxyHTTPConnectionImpl.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/JavaSSLSocketStreamFactory$1.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/JavaSSLSocketStreamFactory$2.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/JavaSSLSocketStreamFactory$3.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/JavaSSLSocketStreamFactory.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/KeepAliveSSLSocketStream.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/NativeHTTPConnectionImpl$3.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/NativeHTTPConnectionImpl$4.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/NativeHTTPConnectionImpl.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/SSLSocketStreamInterface.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/SSLSocketStreamOptions$1.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/SSLSocketStreamOptions.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/SocksHTTPconnection.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/TrustALLSSLFactory$1.class.removed
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/TrustALLSSLFactory.class.removed
+   JD: JDownloader.jar/org/appwork/utils/net/socketconnection/HTTPProxySocketConnection.class
+   JD: JDownloader.jar/org/appwork/utils/net/usenet/SimpleUseNet.class
+   JD: JDownloader.jar/org/jdownloader/update/gui/UpdateGui.class

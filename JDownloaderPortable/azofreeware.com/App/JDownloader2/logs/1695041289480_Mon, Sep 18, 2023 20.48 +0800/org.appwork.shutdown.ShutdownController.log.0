@@ -1,0 +1,71 @@
+------------------------Thread: 24:org.appwork.shutdown.ShutdownController.log-----------------------
+--ID:24TS:1695041291661-2023/9/18 下午 08:48:11 -  [org.appwork.shutdown.ShutdownController(log)] -> Add ShutdownVetoListener:jd.controlling.downloadcontroller.DownloadWatchDog@1c4aed6:true
+--ID:24TS:1695041292132-2023/9/18 下午 08:48:12 -  [org.appwork.shutdown.ShutdownController(log)] -> Add ShutdownVetoListener:jd.controlling.linkcollector.LinkCollector@b21c3:true
+------------------------Thread: 80:org.appwork.shutdown.ShutdownController.log-----------------------
+--ID:80TS:1695041300376-2023/9/18 下午 08:48:20 -  [org.appwork.shutdown.ShutdownController(log)] -> Add ShutdownVetoListener:org.jdownloader.extensions.antistandby.AntiStandbyExtension@2b3998:true
+------------------------Thread: 64:org.appwork.shutdown.ShutdownController.log-----------------------
+--ID:64TS:1695041300489-2023/9/18 下午 08:48:20 -  [org.appwork.shutdown.ShutdownController(log)] -> Add ShutdownVetoListener:org.jdownloader.extensions.extraction.ExtractionExtension$3@a23585:true
+------------------------Thread: 311:org.appwork.shutdown.ShutdownController.log-----------------------
+--ID:311TS:1695041819849-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> Request Shutdown: org.jdownloader.updatev2.InstallUpdatesOnExitRestartRequest@105fe95
+--ID:311TS:1695041819850-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> Remove ShutdownVetoListener:org.jdownloader.extensions.antistandby.AntiStandbyExtension@2b3998:true
+--ID:311TS:1695041819850-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> Wait for ShutdownThread:Thread[ShutdownThread:1695041819850|org.jdownloader.updatev2.InstallUpdatesOnExitRestartRequest@105fe95,6,main]|waitDuration:0
+------------------------Thread: 312:org.appwork.shutdown.ShutdownController.log-----------------------
+--ID:312TS:1695041819851-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> Exit Now(Controller): Code: 0
+--ID:312TS:1695041819851-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [1/28|Priority: 2147483548]ShutdownController: start item->ShutdownEvent: Save ArchiveController
+--ID:312TS:1695041819851-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [1/28|Priority: 2147483548]ShutdownController: item ended after->0
+--ID:312TS:1695041819851-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:1/28]
+--ID:312TS:1695041819851-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [2/28|Priority: 10000]ShutdownController: start item->ShutdownEvent: Save AuthController
+--ID:312TS:1695041819851-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [2/28|Priority: 10000]ShutdownController: item ended after->0
+--ID:312TS:1695041819851-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:2/28]
+--ID:312TS:1695041819851-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [3/28|Priority: 10000]ShutdownController: start item->org.jdownloader.controlling.hosterrule.HosterRuleController$3 Priority: 10000
+--ID:312TS:1695041819857-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [3/28|Priority: 10000]ShutdownController: item ended after->6
+--ID:312TS:1695041819857-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:3/28]
+--ID:312TS:1695041819857-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [4/28|Priority: 10000]ShutdownController: start item->org.appwork.utils.swing.locationstore.LocationStorageManager Priority: 10000
+--ID:312TS:1695041819863-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [4/28|Priority: 10000]ShutdownController: item ended after->6
+--ID:312TS:1695041819863-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:4/28]
+--ID:312TS:1695041819863-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [5/28|Priority: 10000]ShutdownController: start item->org.jdownloader.gui.packagehistorycontroller.HistoryManager$1 Priority: 10000
+--ID:312TS:1695041819866-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [5/28|Priority: 10000]ShutdownController: item ended after->3
+--ID:312TS:1695041819866-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:5/28]
+--ID:312TS:1695041819866-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [6/28|Priority: 10000]ShutdownController: start item->org.jdownloader.gui.packagehistorycontroller.HistoryManager$1 Priority: 10000
+--ID:312TS:1695041819866-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [6/28|Priority: 10000]ShutdownController: item ended after->0
+--ID:312TS:1695041819866-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:6/28]
+--ID:312TS:1695041819866-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [7/28|Priority: 10000]ShutdownController: start item->ShutdownEvent: Save Favicons
+--ID:312TS:1695041819867-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [7/28|Priority: 10000]ShutdownController: item ended after->1
+--ID:312TS:1695041819867-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:7/28]
+--ID:312TS:1695041819867-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [8/28|Priority: 10000]ShutdownController: start item->org.jdownloader.captcha.v2.solver.jac.JACSolver$1 Priority: 10000
+--ID:312TS:1695041819869-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [8/28|Priority: 10000]ShutdownController: item ended after->2
+--ID:312TS:1695041819869-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:8/28]
+--ID:312TS:1695041819869-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [9/28|Priority: 10000]ShutdownController: start item->save iconID cache to disk
+--ID:312TS:1695041819869-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [9/28|Priority: 10000]ShutdownController: item ended after->0
+--ID:312TS:1695041819869-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:9/28]
+--ID:312TS:1695041819869-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [10/28|Priority: 10000]ShutdownController: start item->save packagizer...
+--ID:312TS:1695041819877-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [10/28|Priority: 10000]ShutdownController: item ended after->8
+--ID:312TS:1695041819877-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:10/28]
+--ID:312TS:1695041819877-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [11/28|Priority: 10000]ShutdownController: start item->save filters...
+--ID:312TS:1695041819882-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [11/28|Priority: 10000]ShutdownController: item ended after->5
+--ID:312TS:1695041819882-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:11/28]
+--ID:312TS:1695041819882-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [12/28|Priority: 10000]ShutdownController: start item->ShutdownEvent: Save AccountController
+--ID:312TS:1695041819887-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [12/28|Priority: 10000]ShutdownController: item ended after->5
+--ID:312TS:1695041819887-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:12/28]
+--ID:312TS:1695041819887-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [13/28|Priority: 10000]ShutdownController: start item->jd.gui.swing.jdgui.JDGui$25 Priority: 10000
+--ID:312TS:1695041819899-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [13/28|Priority: 10000]ShutdownController: item ended after->12
+--ID:312TS:1695041819899-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:13/28]
+--ID:312TS:1695041819899-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [14/28|Priority: 10000]ShutdownController: start item->save linkcollector...
+--ID:312TS:1695041819904-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [14/28|Priority: 10000]ShutdownController: item ended after->5
+--ID:312TS:1695041819904-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:14/28]
+--ID:312TS:1695041819904-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [15/28|Priority: 10000]ShutdownController: start item->ShutdownEvent: Save Downloadlist
+--ID:312TS:1695041819908-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [15/28|Priority: 10000]ShutdownController: item ended after->4
+--ID:312TS:1695041819908-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:15/28]
+--ID:312TS:1695041819908-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [16/28|Priority: 10000]ShutdownController: start item->org.jdownloader.plugins.controller.host.HostPluginController$1 Priority: 10000
+--ID:312TS:1695041819926-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [16/28|Priority: 10000]ShutdownController: item ended after->18
+--ID:312TS:1695041819926-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:16/28]
+--ID:312TS:1695041819926-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [17/28|Priority: 10000]ShutdownController: start item->ShutdownEvent: SaveAllSubconfigurations
+--ID:312TS:1695041819927-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [17/28|Priority: 10000]ShutdownController: item ended after->1
+--ID:312TS:1695041819927-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:17/28]
+--ID:312TS:1695041819927-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [18/28|Priority: 10000]ShutdownController: start item->ProxyController: save config
+--ID:312TS:1695041819929-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [18/28|Priority: 10000]ShutdownController: item ended after->2
+--ID:312TS:1695041819929-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:18/28]
+--ID:312TS:1695041819929-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [19/28|Priority: 10000]ShutdownController: start item->org.appwork.shutdown.ShutdownRunableEvent Priority: 10000
+--ID:312TS:1695041819930-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [19/28|Priority: 10000]ShutdownController: item ended after->1
+--ID:312TS:1695041819930-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:19/28]
+--ID:312TS:1695041819930-2023/9/18 下午 08:56:59 -  [org.appwork.shutdown.ShutdownController(log)] -> [20/28|Priority: 10000]ShutdownController: start item->flushing logs to disk

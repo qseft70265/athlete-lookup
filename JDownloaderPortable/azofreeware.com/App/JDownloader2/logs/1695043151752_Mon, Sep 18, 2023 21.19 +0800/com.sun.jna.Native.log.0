@@ -1,0 +1,6 @@
+------------------------Thread: 1:java.util.logging.LogManager$RootLogger@10a1059.log-----------------------
+--ID:1TS:1695043152589-2023/9/18 下午 09:19:12 -  [com.sun.jna.Native(extractFromResourcePath)] -> Looking in classpath from sun.misc.Launcher$AppClassLoader@1f96302 for /com/sun/jna/win32-x86/jnidispatch.dll
+--ID:1TS:1695043152591-2023/9/18 下午 09:19:12 -  [com.sun.jna.Native(extractFromResourcePath)] -> Found library resource at jar:file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/libs/jna.jar!/com/sun/jna/win32-x86/jnidispatch.dll
+--ID:1TS:1695043152683-2023/9/18 下午 09:19:12 -  [com.sun.jna.Native(extractFromResourcePath)] -> Extracting library to C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\jna\jna5786842585300931567.dll
+--ID:1TS:1695043152686-2023/9/18 下午 09:19:12 -  [com.sun.jna.Native(loadNativeDispatchLibraryFromClasspath)] -> Trying C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\jna\jna5786842585300931567.dll
+--ID:1TS:1695043152715-2023/9/18 下午 09:19:12 -  [com.sun.jna.Native(loadNativeDispatchLibraryFromClasspath)] -> Found jnidispatch at C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\jna\jna5786842585300931567.dll

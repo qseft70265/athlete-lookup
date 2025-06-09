@@ -1,0 +1,13 @@
+Sat Apr 04 22:09:28 CST 2020
+Package: updatePackage.awf
+   JD: JDownloader.jar/org/appwork/sunwrapper/sun/swing/SwingUtilities2Wrapper.class
+   JD: JDownloader.jar/org/appwork/utils/ImageProvider/ImageProvider.class
+   JD: JDownloader.jar/org/appwork/utils/JVMVersion.class
+   JD: JDownloader.jar/org/appwork/utils/JarHandlerWorkaround.class
+   JD: JDownloader.jar/org/appwork/utils/JarHandlerWorkaroundOracle$2.class
+   JD: JDownloader.jar/org/appwork/utils/JarHandlerWorkaroundOracle.class
+   JD: JDownloader.jar/org/appwork/utils/logging2/extmanager/LoggerFactory$1.class
+   JD: JDownloader.jar/org/appwork/utils/logging2/extmanager/LoggerFactory.class
+   JD: JDownloader.jar/org/jdownloader/update/launcher/ByPassEntropyBlock.class
+   JD: JDownloader.jar/org/jdownloader/update/launcher/JDLauncher.class
+   JD: JDownloader.jar/org/jdownloader/update/launcher/SecondLevelLauncher.class

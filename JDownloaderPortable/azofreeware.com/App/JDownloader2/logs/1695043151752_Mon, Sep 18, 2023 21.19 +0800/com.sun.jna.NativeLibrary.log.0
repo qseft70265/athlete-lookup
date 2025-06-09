@@ -1,0 +1,22 @@
+------------------------Thread: 25:java.util.logging.LogManager$RootLogger@10a1059.log-----------------------
+--ID:25TS:1695043153143-2023/9/18 下午 09:19:13 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Looking for library 'user32'
+--ID:25TS:1695043153143-2023/9/18 下午 09:19:13 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Adding paths from jna.library.path: null
+--ID:25TS:1695043153144-2023/9/18 下午 09:19:13 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Trying user32.dll
+--ID:25TS:1695043153144-2023/9/18 下午 09:19:13 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Found library 'user32' at user32.dll
+--ID:25TS:1695043153155-2023/9/18 下午 09:19:13 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Looking for library 'kernel32'
+--ID:25TS:1695043153155-2023/9/18 下午 09:19:13 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Adding paths from jna.library.path: null
+--ID:25TS:1695043153155-2023/9/18 下午 09:19:13 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Trying kernel32.dll
+--ID:25TS:1695043153155-2023/9/18 下午 09:19:13 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Found library 'kernel32' at kernel32.dll
+------------------------Thread: 22:java.util.logging.LogManager$RootLogger@10a1059.log-----------------------
+--ID:22TS:1695043154018-2023/9/18 下午 09:19:14 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Looking for library 'psapi'
+--ID:22TS:1695043154018-2023/9/18 下午 09:19:14 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Adding paths from jna.library.path: null
+--ID:22TS:1695043154018-2023/9/18 下午 09:19:14 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Trying psapi.dll
+--ID:22TS:1695043154019-2023/9/18 下午 09:19:14 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Found library 'psapi' at psapi.dll
+--ID:22TS:1695043154019-2023/9/18 下午 09:19:14 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Looking for library 'kernel32'
+--ID:22TS:1695043154020-2023/9/18 下午 09:19:14 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Adding paths from jna.library.path: null
+--ID:22TS:1695043154020-2023/9/18 下午 09:19:14 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Trying kernel32.dll
+--ID:22TS:1695043154020-2023/9/18 下午 09:19:14 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Found library 'kernel32' at kernel32.dll
+--ID:22TS:1695043159493-2023/9/18 下午 09:19:19 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Looking for library 'user32'
+--ID:22TS:1695043159493-2023/9/18 下午 09:19:19 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Adding paths from jna.library.path: null
+--ID:22TS:1695043159493-2023/9/18 下午 09:19:19 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Trying user32.dll
+--ID:22TS:1695043159494-2023/9/18 下午 09:19:19 -  [com.sun.jna.NativeLibrary(loadLibrary)] -> Found library 'user32' at user32.dll

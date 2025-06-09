@@ -1,0 +1,13 @@
+------------------------Thread: 22:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:22TS:1695042291983-2023/9/18 下午 09:04:51 -  [jd.controlling.linkcollector.LinkCollector(<init>)] -> LinkChecker Enabled:true
+------------------------Thread: 60:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:60TS:1695042297596-2023/9/18 下午 09:04:57 -  [jd.controlling.linkcollector.LinkCollector(findAvailableCollectorLists)] -> Collect Lists
+--ID:60TS:1695042297598-2023/9/18 下午 09:04:57 -  [jd.controlling.linkcollector.LinkCollector(findAvailableCollectorLists)] -> Lists: [C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\linkcollector83.zip, C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\linkcollector82.zip, C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\linkcollector81.zip, C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\linkcollector80.zip, C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\linkcollector79.zip, C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\linkcollector78.zip]
+--ID:60TS:1695042297606-2023/9/18 下午 09:04:57 -  [jd.controlling.linkcollector.LinkCollector$17(run)] -> CollectorList found: 0/0
+------------------------Thread: 89:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:89TS:1695042301866-2023/9/18 下午 09:05:01 -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1695042301852|Origin:ADD_LINKS_DIALOG
+------------------------Thread: 70:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:70TS:1695042622626-2023/9/18 下午 09:10:22 -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1695042622625|Origin:CLIPBOARD|ChangeFlag:DETECTED|Round:1|StringContent:(true|ClipboardHash:1065850787|ClipboardLength:63)|HTMLFragment:(false|ClipboardHash:0|ClipboardLength:-1)|ListContent:(false|ClipboardHash:0|ClipboardLength:-1)
+------------------------Thread: 168:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:168TS:1695042630989-2023/9/18 下午 09:10:30 -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1695042630969|Origin:ADD_LINKS_DIALOG
+--ID:168TS:1695042631012-2023/9/18 下午 09:10:31 -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1695042630969|Origin:ADD_LINKS_DIALOG

@@ -1,0 +1,12 @@
+------------------------Thread: 63:org.jdownloader.extensions.ExtensionController.log-----------------------
+--ID:63TS:1695042297673-2023/9/18 下午 09:04:57 -  [org.jdownloader.extensions.ExtensionController(loadJared)] -> Extensions:[C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\extensions\AntiShutdown.jar, C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\extensions\Extraction.jar, C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\extensions\JDShutdown.jar]
+--ID:63TS:1695042297869-2023/9/18 下午 09:04:57 -  [org.jdownloader.extensions.ExtensionController(initModule)] -> Load Extension: antistandby.AntiStandbyExtension
+--ID:63TS:1695042297885-2023/9/18 下午 09:04:57 -  [org.jdownloader.extensions.ExtensionController(initModule)] -> Loaded Extension: antistandby.AntiStandbyExtension Load Duration:16ms
+--ID:63TS:1695042297888-2023/9/18 下午 09:04:57 -  [org.jdownloader.extensions.ExtensionController(initModule)] -> Load Extension: extraction.ExtractionExtension
+--ID:63TS:1695042298004-2023/9/18 下午 09:04:58 -  [org.jdownloader.extensions.ExtensionController(initModule)] -> Loaded Extension: extraction.ExtractionExtension Load Duration:116ms
+--ID:63TS:1695042298006-2023/9/18 下午 09:04:58 -  [org.jdownloader.extensions.ExtensionController(initModule)] -> Load Extension: shutdown.ShutdownExtension
+--ID:63TS:1695042298044-2023/9/18 下午 09:04:58 -  [org.jdownloader.extensions.ExtensionController(initModule)] -> Loaded Extension: shutdown.ShutdownExtension Load Duration:38ms
+--ID:63TS:1695042298049-2023/9/18 下午 09:04:58 -  [org.jdownloader.extensions.ExtensionController(init)] -> @ExtensionController: init in376ms :3
+--ID:63TS:1695042298049-2023/9/18 下午 09:04:58 -  [org.jdownloader.extensions.ExtensionController(init)] -> @ExtensionController:防止待機
+--ID:63TS:1695042298049-2023/9/18 下午 09:04:58 -  [org.jdownloader.extensions.ExtensionController(init)] -> @ExtensionController:壓縮檔解壓縮程式
+--ID:63TS:1695042298049-2023/9/18 下午 09:04:58 -  [org.jdownloader.extensions.ExtensionController(init)] -> @ExtensionController:JD 關機

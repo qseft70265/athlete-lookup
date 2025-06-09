@@ -1,0 +1,323 @@
+Thu Dec 22 20:38:44 CST 2022
+Package: package_1671631966720.awf
+Install
+Write Revision: 16433
+----------------Plugins----------------
+   jd/plugins/decrypter/ArtstationCom.class
+   jd/plugins/decrypter/BandCampComDecrypter.class
+   jd/plugins/decrypter/BiqleRu.class
+   jd/plugins/decrypter/CyberdropMeAlbum.class
+   jd/plugins/decrypter/DeviantArtComCrawler.class
+   jd/plugins/decrypter/EromeComCrawler.class
+   jd/plugins/decrypter/FaceBookComGallery$1.class
+   jd/plugins/decrypter/FaceBookComGallery.class
+   jd/plugins/decrypter/FileCryptCc.class
+   jd/plugins/decrypter/GenericM3u8Decrypter.class
+   jd/plugins/decrypter/GenericXFileShareProFolder.class
+   jd/plugins/decrypter/GoProCloudDecrypter$1.class
+   jd/plugins/decrypter/GoProCloudDecrypter$2.class
+   jd/plugins/decrypter/GoProCloudDecrypter.class
+   jd/plugins/decrypter/GoogleDrive$GdriveException.class.removed
+   jd/plugins/decrypter/GoogleDrive$GdriveFolderStatus.class.removed
+   jd/plugins/decrypter/GoogleDrive.class.removed
+   jd/plugins/decrypter/GoogleDriveCrawler$GdriveException.class
+   jd/plugins/decrypter/GoogleDriveCrawler$GdriveFolderStatus.class
+   jd/plugins/decrypter/GoogleDriveCrawler.class
+   jd/plugins/decrypter/GoogleDriveDirectoryIndex.class
+   jd/plugins/decrypter/GronkhTv.class
+   jd/plugins/decrypter/InstaGramComDecrypter$1.class
+   jd/plugins/decrypter/InstaGramComDecrypter.class
+   jd/plugins/decrypter/ORFMediathekDecrypter.class
+   jd/plugins/decrypter/OrfAt.class
+   jd/plugins/decrypter/PornHubComGallery.class
+   jd/plugins/decrypter/PornHubComVideoCrawler$1.class.removed
+   jd/plugins/decrypter/PornHubComVideoCrawler.class
+   jd/plugins/decrypter/PorntrexComCrawler.class
+   jd/plugins/decrypter/RedditComCrawler.class
+   jd/plugins/decrypter/ShrtflyVip.class
+   jd/plugins/decrypter/TbCmV2$1.class
+   jd/plugins/decrypter/TbCmV2$2.class
+   jd/plugins/decrypter/TbCmV2$3.class
+   jd/plugins/decrypter/TbCmV2$4.class
+   jd/plugins/decrypter/TbCmV2$5.class
+   jd/plugins/decrypter/TbCmV2$6.class
+   jd/plugins/decrypter/TbCmV2$7.class
+   jd/plugins/decrypter/TbCmV2$8.class
+   jd/plugins/decrypter/TbCmV2.class
+   jd/plugins/decrypter/TiktokComCrawler.class
+   jd/plugins/decrypter/TwitterComCrawler.class
+   jd/plugins/decrypter/UploadedToFolder.class.removed
+   jd/plugins/decrypter/VKontakteRu.class
+   jd/plugins/decrypter/VimeoComDecrypter$1.class
+   jd/plugins/decrypter/VimeoComDecrypter.class
+   jd/plugins/decrypter/VoeSxCrawler.class
+   jd/plugins/hoster/ArtstationCom$1.class
+   jd/plugins/hoster/ArtstationCom.class
+   jd/plugins/hoster/BandCampCom.class
+   jd/plugins/hoster/CamvaultXyz.class
+   jd/plugins/hoster/CopyCaseCom.class
+   jd/plugins/hoster/CyberdropMe.class
+   jd/plugins/hoster/DatanodesTo.class
+   jd/plugins/hoster/DeviantArtCom.class
+   jd/plugins/hoster/DropgalaxyIn.class
+   jd/plugins/hoster/EHentaiOrg.class
+   jd/plugins/hoster/FaceBookComVideos.class
+   jd/plugins/hoster/FileJokerNet.class
+   jd/plugins/hoster/FilebitNet.class
+   jd/plugins/hoster/FlashxNet.class
+   jd/plugins/hoster/FypttTo.class
+   jd/plugins/hoster/GoProCloud.class
+   jd/plugins/hoster/GoogleDrive$1.class
+   jd/plugins/hoster/GoogleDrive$2.class
+   jd/plugins/hoster/GoogleDrive$JsonSchemeType.class
+   jd/plugins/hoster/GoogleDrive.class
+   jd/plugins/hoster/GoogleDriveDirectoryIndex.class
+   jd/plugins/hoster/HexuploadNet.class
+   jd/plugins/hoster/HighloadTo.class
+   jd/plugins/hoster/ImageFap$1.class
+   jd/plugins/hoster/ImageFap$2.class
+   jd/plugins/hoster/ImageFap.class
+   jd/plugins/hoster/K2SApi$1.class
+   jd/plugins/hoster/K2SApi$2.class
+   jd/plugins/hoster/K2SApi$3.class
+   jd/plugins/hoster/K2SApi$CAPTCHA.class
+   jd/plugins/hoster/K2SApi.class
+   jd/plugins/hoster/KernelVideoSharingComV2$1.class
+   jd/plugins/hoster/KernelVideoSharingComV2.class
+   jd/plugins/hoster/MaxstreamVideo.class
+   jd/plugins/hoster/ORFMediathek$1.class
+   jd/plugins/hoster/ORFMediathek.class
+   jd/plugins/hoster/Offline.class
+   jd/plugins/hoster/PluralsightCom.class
+   jd/plugins/hoster/PornHubCom$1.class
+   jd/plugins/hoster/PornHubCom$2$1.class
+   jd/plugins/hoster/PornHubCom$2.class
+   jd/plugins/hoster/PornHubCom$BouncyCastleAESCounterModeDecrypt.class
+   jd/plugins/hoster/PornHubCom.class
+   jd/plugins/hoster/PornTubeClubCom.class.removed
+   jd/plugins/hoster/PorngoCom.class
+   jd/plugins/hoster/PornportalCom.class
+   jd/plugins/hoster/PorntrexCom.class
+   jd/plugins/hoster/PowVideoNet.class
+   jd/plugins/hoster/RPNetBiz$1.class
+   jd/plugins/hoster/RPNetBiz.class
+   jd/plugins/hoster/RapidGatorNet.class
+   jd/plugins/hoster/RapidrarCom.class
+   jd/plugins/hoster/RedditCom$1.class
+   jd/plugins/hoster/RedditCom$2.class
+   jd/plugins/hoster/RedditCom.class
+   jd/plugins/hoster/RomHustler.class
+   jd/plugins/hoster/TezFilesCom.class
+   jd/plugins/hoster/TiktokCom$1.class
+   jd/plugins/hoster/TiktokCom.class
+   jd/plugins/hoster/TwitchTv$1.class
+   jd/plugins/hoster/TwitchTv.class
+   jd/plugins/hoster/UflashTv.class
+   jd/plugins/hoster/UpfilesIo$MethodName.class
+   jd/plugins/hoster/UpfilesIo.class
+   jd/plugins/hoster/Uploadedto$1.class.removed
+   jd/plugins/hoster/Uploadedto$Sec.class.removed
+   jd/plugins/hoster/Uploadedto.class.removed
+   jd/plugins/hoster/UpvideoTo.class
+   jd/plugins/hoster/VKontakteRuHoster$1.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$1.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$2.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$3.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$4.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$5.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$6.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$7.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$8.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality.class
+   jd/plugins/hoster/VKontakteRuHoster$QualitySelectionMode$1.class
+   jd/plugins/hoster/VKontakteRuHoster$QualitySelectionMode$2.class
+   jd/plugins/hoster/VKontakteRuHoster$QualitySelectionMode$3.class
+   jd/plugins/hoster/VKontakteRuHoster$QualitySelectionMode$4.class
+   jd/plugins/hoster/VKontakteRuHoster$QualitySelectionMode.class
+   jd/plugins/hoster/VKontakteRuHoster.class
+   jd/plugins/hoster/VidbmCom.class
+   jd/plugins/hoster/VimeoCom$1.class
+   jd/plugins/hoster/VimeoCom$VIMEO_URL_TYPE.class
+   jd/plugins/hoster/VimeoCom$WrongRefererException.class
+   jd/plugins/hoster/VimeoCom.class
+   jd/plugins/hoster/YoutubeDashV2$1.class
+   jd/plugins/hoster/YoutubeDashV2$10.class
+   jd/plugins/hoster/YoutubeDashV2$11.class
+   jd/plugins/hoster/YoutubeDashV2$12.class
+   jd/plugins/hoster/YoutubeDashV2$13.class
+   jd/plugins/hoster/YoutubeDashV2$14.class
+   jd/plugins/hoster/YoutubeDashV2$15.class
+   jd/plugins/hoster/YoutubeDashV2$16.class
+   jd/plugins/hoster/YoutubeDashV2$17$1.class
+   jd/plugins/hoster/YoutubeDashV2$17.class
+   jd/plugins/hoster/YoutubeDashV2$18.class
+   jd/plugins/hoster/YoutubeDashV2$2.class
+   jd/plugins/hoster/YoutubeDashV2$3.class
+   jd/plugins/hoster/YoutubeDashV2$4.class
+   jd/plugins/hoster/YoutubeDashV2$5.class
+   jd/plugins/hoster/YoutubeDashV2$6$1.class
+   jd/plugins/hoster/YoutubeDashV2$6.class
+   jd/plugins/hoster/YoutubeDashV2$7.class
+   jd/plugins/hoster/YoutubeDashV2$8.class
+   jd/plugins/hoster/YoutubeDashV2$9.class
+   jd/plugins/hoster/YoutubeDashV2$DashDownloadPluginProgress.class
+   jd/plugins/hoster/YoutubeDashV2$YoutubeProperties.class
+   jd/plugins/hoster/YoutubeDashV2.class
+   jd/plugins/hoster/ZeveraCore$1.class
+   jd/plugins/hoster/ZeveraCore$2.class
+   jd/plugins/hoster/ZeveraCore$3.class
+   jd/plugins/hoster/ZeveraCore.class
+----------------Extensions----------------
+   extensions/Extraction.jar
+----------------Direct Files----------------
+   build.json
+   translations/org/appwork/utils/logging2/sendlogs/LogSenderTranslation.zh_CN.lng
+   translations/org/jdownloader/extensions/shutdown/translate/ShutdownTranslation.zh_CN.lng
+   translations/org/jdownloader/gui/translate/GuiTranslation.zh_CN.lng
+   translations/org/jdownloader/translate/JdownloaderTranslation.zh_CN.lng
+----------------Core Files----------------
+   Core.jar
+   JD: Core.jar/jd/controlling/AccountController.class
+   JD: Core.jar/jd/plugins/components/gopro/GoProConfig.class
+   JD: Core.jar/jd/plugins/components/gopro/Media.class
+   JD: Core.jar/jd/plugins/download/DownloadLinkDownloadable$2.class
+   JD: Core.jar/jd/plugins/download/DownloadLinkDownloadable$3.class
+   JD: Core.jar/jd/plugins/download/DownloadLinkDownloadable$4.class
+   JD: Core.jar/jd/plugins/download/DownloadLinkDownloadable.class
+   JD: Core.jar/jd/plugins/download/HashInfo$TYPE.class
+   JD: Core.jar/jd/plugins/download/HashInfo.class
+   JD: Core.jar/org/jdownloader/api/captcha/CaptchaAPIManualRemoteSolverService$1$1.class
+   JD: Core.jar/org/jdownloader/api/captcha/CaptchaAPIManualRemoteSolverService$1.class
+   JD: Core.jar/org/jdownloader/api/captcha/CaptchaAPIManualRemoteSolverService.class
+   JD: Core.jar/org/jdownloader/captcha/v2/ChallengeResponseController$1.class
+   JD: Core.jar/org/jdownloader/captcha/v2/ChallengeResponseController.class
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/myjd.removed
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/myjd/CaptchaMyJDCESResponse.class.removed
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/myjd/CaptchaMyJDSolver$1.class.removed
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/myjd/CaptchaMyJDSolver$Request.class.removed
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/myjd/CaptchaMyJDSolver.class.removed
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/myjd/CaptchaMyJDSolverConfig.class.removed
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/myjd/CaptchaMyJDSolverService$1.class.removed
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/myjd/CaptchaMyJDSolverService$2.class.removed
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/myjd/CaptchaMyJDSolverService$3$1.class.removed
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/myjd/CaptchaMyJDSolverService$3.class.removed
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/myjd/CaptchaMyJDSolverService.class.removed
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/myjd/MyJDCESInfo.class.removed
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/myjd/MyJDCESStatus.class.removed
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/myjd/ServicePanelMyJDCESTooltip$1$1.class.removed
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/myjd/ServicePanelMyJDCESTooltip$1$2.class.removed
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/myjd/ServicePanelMyJDCESTooltip$1.class.removed
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/myjd/ServicePanelMyJDCESTooltip.class.removed
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/service/BrowserSolverService$1$1.class
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/service/BrowserSolverService$1.class
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/service/BrowserSolverService$2.class
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/service/BrowserSolverService.class
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/service/DialogSolverService$1.class
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/service/DialogSolverService.class
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/solver9kw/AbstractCaptcha9kwSolver.class
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/twocaptcha/TwoCaptchaSolver$2.class
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/twocaptcha/TwoCaptchaSolver$3.class
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/twocaptcha/TwoCaptchaSolver$4.class
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/twocaptcha/TwoCaptchaSolver$BalanceResponse.class
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/twocaptcha/TwoCaptchaSolver.class
+   JD: Core.jar/org/jdownloader/controlling/ffmpeg/AbstractFFmpegBinary$4.class
+   JD: Core.jar/org/jdownloader/controlling/ffmpeg/AbstractFFmpegBinary$5.class
+   JD: Core.jar/org/jdownloader/controlling/ffmpeg/AbstractFFmpegBinary$6.class
+   JD: Core.jar/org/jdownloader/controlling/ffmpeg/AbstractFFmpegBinary$7.class
+   JD: Core.jar/org/jdownloader/controlling/ffmpeg/AbstractFFmpegBinary$AccessibleByteArrayOutputStream.class
+   JD: Core.jar/org/jdownloader/controlling/ffmpeg/AbstractFFmpegBinary.class
+   JD: Core.jar/org/jdownloader/downloader/hls/HLSDownloader$1.class
+   JD: Core.jar/org/jdownloader/downloader/hls/HLSDownloader$10.class
+   JD: Core.jar/org/jdownloader/downloader/hls/HLSDownloader$2.class
+   JD: Core.jar/org/jdownloader/downloader/hls/HLSDownloader$3.class
+   JD: Core.jar/org/jdownloader/downloader/hls/HLSDownloader$4.class
+   JD: Core.jar/org/jdownloader/downloader/hls/HLSDownloader$5.class
+   JD: Core.jar/org/jdownloader/downloader/hls/HLSDownloader$6.class
+   JD: Core.jar/org/jdownloader/downloader/hls/HLSDownloader$7.class
+   JD: Core.jar/org/jdownloader/downloader/hls/HLSDownloader$8.class
+   JD: Core.jar/org/jdownloader/downloader/hls/HLSDownloader$9.class
+   JD: Core.jar/org/jdownloader/downloader/hls/HLSDownloader$M3U8SEGMENTSTATE.class
+   JD: Core.jar/org/jdownloader/downloader/hls/HLSDownloader$PartFile.class
+   JD: Core.jar/org/jdownloader/downloader/hls/HLSDownloader.class
+   JD: Core.jar/org/jdownloader/downloader/hls/M3U8Playlist.class
+   JD: Core.jar/org/jdownloader/gui/IconKey.class
+   JD: Core.jar/org/jdownloader/gui/mainmenu/MenuManagerMainmenu$1.class
+   JD: Core.jar/org/jdownloader/gui/mainmenu/MenuManagerMainmenu.class
+   JD: Core.jar/org/jdownloader/gui/toolbar/MenuManagerMainToolbar.class
+   JD: Core.jar/org/jdownloader/gui/toolbar/action/CaptchaToogleMyJDAutoAction.class.removed
+   JD: Core.jar/org/jdownloader/gui/views/components/packagetable/context/rename/RenameDialog$1.class
+   JD: Core.jar/org/jdownloader/gui/views/components/packagetable/context/rename/RenameDialog$2.class
+   JD: Core.jar/org/jdownloader/gui/views/components/packagetable/context/rename/RenameDialog.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/columns/FileColumn$1.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/columns/FileColumn$2.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/columns/FileColumn.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/columns/PriorityColumn$2.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/columns/PriorityColumn$3.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/columns/PriorityColumn$4.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/columns/PriorityColumn$5.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/columns/PriorityColumn.class
+   JD: Core.jar/org/jdownloader/plugins/components/FilebitNetAccountFactory$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/FilebitNetAccountFactory.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$XFSApiAccountFactory$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$XFSApiAccountFactory.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasicSpecialFilejoker.class
+   JD: Core.jar/org/jdownloader/plugins/components/abstractSafeLinking.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/GenericM3u8DecrypterConfig$CrawlSpeedMode$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/GenericM3u8DecrypterConfig$CrawlSpeedMode$2.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/GenericM3u8DecrypterConfig$CrawlSpeedMode$3.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/GenericM3u8DecrypterConfig$CrawlSpeedMode$4.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/GenericM3u8DecrypterConfig$CrawlSpeedMode$5.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/GenericM3u8DecrypterConfig$CrawlSpeedMode.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/GenericM3u8DecrypterConfig$TRANSLATION.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/GenericM3u8DecrypterConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/GoogleConfig$TRANSLATION.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/GoogleConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/InstagramConfig$TRANSLATION.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/InstagramConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/UploadedNetConfig.class.removed
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/YT_STATICS$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/YT_STATICS.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/YoutubeFinalLinkResource.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/YoutubeHelper.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/variants/SubtitleVariant.class
+   JD: Core.jar/org/jdownloader/settings/GeneralSettings$CreateFolderTrigger$1.class
+   JD: Core.jar/org/jdownloader/settings/GeneralSettings$CreateFolderTrigger$2.class
+   JD: Core.jar/org/jdownloader/settings/GeneralSettings$CreateFolderTrigger.class
+   JD: Core.jar/org/jdownloader/settings/GeneralSettings$CustomDownloadFolderGetter.class
+   JD: Core.jar/org/jdownloader/settings/GeneralSettings$DefaultDownloadFolder.class
+   JD: Core.jar/org/jdownloader/settings/GeneralSettings$DeleteContainerAction.class
+   JD: Core.jar/org/jdownloader/settings/GeneralSettings$OnSkipDueToAlreadyExistsAction$1.class
+   JD: Core.jar/org/jdownloader/settings/GeneralSettings$OnSkipDueToAlreadyExistsAction$2.class
+   JD: Core.jar/org/jdownloader/settings/GeneralSettings$OnSkipDueToAlreadyExistsAction$3.class
+   JD: Core.jar/org/jdownloader/settings/GeneralSettings$OnSkipDueToAlreadyExistsAction.class
+   JD: Core.jar/org/jdownloader/settings/GeneralSettings.class
+   JD: Core.jar/org/jdownloader/settings/staticreferences/CFG_GENERAL.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/multi/Multi$1.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/multi/Multi$2.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/multi/Multi$3.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/multi/Multi.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$1$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$2$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$2.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$3.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$4.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$5.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$6$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$6.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/ProxyDialog.class
+   JD: libs/JDHttp.jar/jd/http/Request.class
+   libs/JDGUI.jar
+   libs/JDHttp.jar
+   themes/standard/org/jdownloader/images/banner/uploaded.to_de.png.removed
+   themes/standard/org/jdownloader/images/banner/uploaded.to_en.png.removed
+   themes/standard/org/jdownloader/images/fav/big.netload.in.png.removed
+   themes/standard/org/jdownloader/images/fav/big.share-online.biz.png.removed
+   themes/standard/org/jdownloader/images/fav/big.uploaded.to.png.removed
+   themes/standard/org/jdownloader/images/fav/footer.uploaded.to.png.removed
+   themes/standard/org/jdownloader/images/fav/large.netload.in.png.removed
+   themes/standard/org/jdownloader/images/fav/large.share-online.biz.png.removed
+   themes/standard/org/jdownloader/images/fav/large.uploaded.to.png.removed

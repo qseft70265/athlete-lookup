@@ -1,0 +1,683 @@
+------------------------Thread: 1:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:1TS:1695053346172-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> ClientSetup 6
+------------------------Thread: 17:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:17TS:1695053346213-2023/9/19 上午 12:09:06 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Installed Extensions: [shutdown, antishutdown, ffmpeg]
+--ID:17TS:1695053346213-2023/9/19 上午 12:09:06 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Requested Extension Installations: []
+--ID:17TS:1695053346213-2023/9/19 上午 12:09:06 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Requested Extension Uninstalls: []
+--ID:17TS:1695053346213-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.JDUpdateClient$JDExtensionManager(init)] -> Installed Extensions: [shutdown, antishutdown, ffmpeg]
+--ID:17TS:1695053346214-2023/9/19 上午 12:09:06 -  [org.appwork.updatesys.client.FileList(<init>)] -> FileList at C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\update\versioninfo\JD\filelist.txt Size: 519915
+------------------------Thread: 1:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:1TS:1695053346222-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> Client 50
+------------------------Thread: 17:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:17TS:1695053346225-2023/9/19 上午 12:09:06 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Installed Extensions: []
+--ID:17TS:1695053346225-2023/9/19 上午 12:09:06 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Requested Extension Installations: []
+--ID:17TS:1695053346225-2023/9/19 上午 12:09:06 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Requested Extension Uninstalls: []
+--ID:17TS:1695053346225-2023/9/19 上午 12:09:06 -  [org.appwork.updatesys.client.FileList(<init>)] -> FileList at C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\update\versioninfo\JDU\filelist.txt Size: 98
+------------------------Thread: 1:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:1TS:1695053346225-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> selfUpdateClient 3
+--ID:1TS:1695053346225-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> LastChanceInit 0
+--ID:1TS:1695053346225-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> setUpdateOnExitFlag 0
+--ID:1TS:1695053346229-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> CreateGui 3
+--ID:1TS:1695053346230-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> DefaultHandler 0
+--ID:1TS:1695053346231-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> SetDefaultHandler 1
+--ID:1TS:1695053346231-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> ProxySelector 0
+--ID:1TS:1695053346231-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(finish)] -> Current State: 
+--ID:1TS:1695053346231-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(finish)] -> Do Not ask Flag: true
+--ID:1TS:1695053346232-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(finish)] -> Settings: {
+ "countdownforinstallupdatesonexitbubble"         : 10000,
+ "autohideguiiftherearenoupdatesenabled"          : false,
+ "proxydialogonnoconnectionenabled"               : true,
+ "selftestwritetimeout"                           : 60000,
+ "lastsuccessfulconnection"                       : 1695045850922,
+ "updateinterval"                                 : 600000,
+ "autohideguiifsilentupdateswereinstalledenabled" : false,
+ "doaskmebeforeinstallinganupdateenabled"         : false,
+ "jardiffenabled"                                 : true,
+ "updateguialwaysontop"                           : true,
+ "installupdatesonexitenabled"                    : true,
+ "doaskbeforedownloadinganupdate"                 : false,
+ "installupdatessilentlyifpossibleenabled"        : true,
+ "autoupdatecheckenabled"                         : true,
+ "installupdatesonexitpanelvisible"               : true,
+ "selftestpolltimeout"                            : 60000
+}
+--ID:1TS:1695053346233-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(finish)] -> Client Revision: 16856
+--ID:1TS:1695053346235-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(finish)] -> Client Revision incl. Pending Installpackages: 16857
+--ID:1TS:1695053346235-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(finish)] -> Updater Client Revision: 16891
+--ID:1TS:1695053346235-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(finish)] -> Updater Client Revision incl. Pending Installpackages: 16892
+--ID:1TS:1695053346237-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(finish)] -> AWF Packages pending: [package_1695048855764.awf]
+--ID:1TS:1695053346237-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager(finish)] -> SelfUpdate pending: true ([self_15442_to_15573.log, self_15573_to_15861.log, self_15861_to_15896.log, self_15896_to_15955.log, self_15955_to_16294.log, self_16294_to_16438.log, self_16438_to_16469.log, self_16469_to_16482.log, self_16482_to_16489.log, self_16489_to_16722.log, self_16722_to_16891.log, self_16891_to_16892.log])
+------------------------Thread: 18:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:18TS:1695053346274-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager$8(run)] -> Waiting for Core.jar
+--ID:18TS:1695053346278-2023/9/19 上午 12:09:06 -  [org.jdownloader.update.UpdateManager$8(run)] -> Install AWF Files
+--ID:18TS:1695053346283-2023/9/19 上午 12:09:06 -  [org.appwork.updatesys.client.UpdateClient(getUpdateOptions)] -> org.jdownloader.update.JDUpdateClient:getDefaultUpdateOptions:{
+ "deduplicationMode" : "INTRA",
+ "retryCauses"       : null,
+ "jarDiffEnabled"    : true
+}
+--ID:18TS:1695053346300-2023/9/19 上午 12:09:06 -  [org.appwork.updatesys.client.UpdateClient(batchRequest)] -> [Update Client:JD@update.jdownloader.org] Batch Request ( 70 bytes):
+{
+ "jobs" : [
+           {
+            "id"   : 1695053346292,
+            "json" : null,
+            "name" : "TIME_SYNC"
+           }
+          ]
+}
+--ID:18TS:1695053347691-2023/9/19 上午 12:09:07 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/batch?jobs=TIME_SYNC&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16891&ct=Normal&1695053346293.1695053346293&lng=zh_TW via [直接連線]
+--ID:18TS:1695053347691-2023/9/19 上午 12:09:07 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy 直接連線
+--ID:18TS:1695053349588-2023/9/19 上午 12:09:09 -  [] -> Exception thrown at org.appwork.updatesys.client.defaultimpl.http.HttpBackend.createInvalidResponseCodeException(HttpBackend.java:108):
+java.io.IOException: 400 Bad Request
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.getInputStream(HTTPConnectionImpl.java:1478)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpBackend.createInvalidResponseCodeException(HttpBackend.java:103)
+	at org.appwork.utils.net.BasicHTTP.BasicHTTP.checkResponseCode(BasicHTTP.java:101)
+	at org.appwork.utils.net.BasicHTTP.BasicHTTP.postPage(BasicHTTP.java:742)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.internalPostWithProxy(HttpClientImpl.java:316)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.post(HttpClientImpl.java:376)
+	at org.appwork.updatesys.client.UpdateClient.batchRequest(UpdateClient.java:5693)
+	at org.appwork.updatesys.client.UpdateClient.ensureTimeSync(UpdateClient.java:2956)
+	at org.appwork.updatesys.client.UpdateClient.ensureSessionInit(UpdateClient.java:5801)
+	at org.appwork.updatesys.client.UpdateClient.get(UpdateClient.java:2823)
+	at org.appwork.updatesys.client.UpdateClient.downloadPackage(UpdateClient.java:5188)
+	at org.appwork.updatesys.client.UpdateClient.runUpdateCheck(UpdateClient.java:5108)
+	at org.appwork.updatesys.client.UpdateClient.runPackageRequestAndServerSelection(UpdateClient.java:5334)
+	at org.appwork.updatesys.client.UpdateClient.runUpdateCheck(UpdateClient.java:5249)
+	at org.jdownloader.update.UpdateManager.runUpdateLoop(UpdateManager.java:1024)
+	at org.jdownloader.update.UpdateManager$8.run(UpdateManager.java:413)
+	at java.lang.Thread.run(Thread.java:748)
+
+--ID:18TS:1695053349596-2023/9/19 上午 12:09:09 -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/batch?jobs=TIME_SYNC&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16891&ct=Normal&1695053346293.1695053346293&lng=zh_TW
+URL-Parameters:
+   jobs   : TIME_SYNC (BATCH_JOBS)
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : WINDOWS (OPERATING_SYSTEM)
+   osr    : WINDOWS_10 (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 0 (JVM_64BIT)
+   java   : 18181013 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 16892 (UPDATER_REVISION)
+   srev   : 16856 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 16891 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+          : 1695053346293.1695053346293
+   lng    : zh_TW (LANGUAGE)
+SSLCipher: JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@47fde4=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------ConnectionExceptions-------------------------
+0:update.jdownloader.org/136.243.5.58|javax.net.ssl.SSLHandshakeException(Received fatal alert: handshake_failure)|retrySSL:Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@47fde4=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3
+----------------Request-------------------------
+POST /jcgi/batch?jobs=TIME_SYNC&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16891&ct=Normal&1695053346293.1695053346293&lng=zh_TW HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: zh_TW
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Content-Length: 70
+Accept-Encoding: gzip
+Content-Type: application/json; charset=utf-8
+Content-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 227ms
+Request-Time: 232ms
+----------------Response------------------------
+HTTP/1.1 400 Bad Request
+Server: nginx
+Date: Mon, 18 Sep 2023 16:11:54 GMT
+Content-Type: text/html
+Content-Length: 150
+Connection: close
+JCGI: 1 (HTTP_HEADER_FCGI)
+------------------------------------------------
+
+
+--ID:18TS:1695053349597-2023/9/19 上午 12:09:09 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(checkTryNextProxyOrGiveUp)] -> Check if we can leave 
+--ID:18TS:1695053349597-2023/9/19 上午 12:09:09 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(checkTryNextProxyOrGiveUp)] -> Invalid Response Code: org.appwork.utils.net.BasicHTTP.InvalidResponseCode: Invalid ResponseCode: 400
+--ID:18TS:1695053349598-2023/9/19 上午 12:09:09 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(throwServerExceptions)] -> Handle BasicHTTPException org.appwork.utils.net.BasicHTTP.BasicHTTPException: org.appwork.utils.net.BasicHTTP.ReadIOException: org.appwork.utils.net.BasicHTTP.InvalidResponseCode: Invalid ResponseCode: 400
+--ID:18TS:1695053349598-2023/9/19 上午 12:09:09 -  [org.appwork.updatesys.client.UpdateClient(ensureTimeSync)] -> Time Sync: Unsupported Server:update.jdownloader.org
+--ID:18TS:1695053349599-2023/9/19 上午 12:09:09 -  [org.appwork.updatesys.client.UpdateClient(batchRequest)] -> [Update Client:JD@update.jdownloader.org] Batch Request ( 84 bytes):
+{
+ "jobs" : [
+           {
+            "id"   : 1695053349598,
+            "json" : "null",
+            "name" : "SESSION_INIT"
+           }
+          ]
+}
+--ID:18TS:1695053349599-2023/9/19 上午 12:09:09 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/batch?jobs=SESSION_INIT&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16891&ct=Normal&1695053349598.1695053349598&lng=zh_TW via [直接連線]
+--ID:18TS:1695053349599-2023/9/19 上午 12:09:09 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy 直接連線
+--ID:18TS:1695053350781-2023/9/19 上午 12:09:10 -  [] -> Exception thrown at org.appwork.updatesys.client.defaultimpl.http.HttpBackend.createInvalidResponseCodeException(HttpBackend.java:108):
+java.io.IOException: 400 Bad Request
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.getInputStream(HTTPConnectionImpl.java:1478)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpBackend.createInvalidResponseCodeException(HttpBackend.java:103)
+	at org.appwork.utils.net.BasicHTTP.BasicHTTP.checkResponseCode(BasicHTTP.java:101)
+	at org.appwork.utils.net.BasicHTTP.BasicHTTP.postPage(BasicHTTP.java:742)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.internalPostWithProxy(HttpClientImpl.java:316)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.post(HttpClientImpl.java:376)
+	at org.appwork.updatesys.client.UpdateClient.batchRequest(UpdateClient.java:5693)
+	at org.appwork.updatesys.client.UpdateClient.ensureSessionInit(UpdateClient.java:5806)
+	at org.appwork.updatesys.client.UpdateClient.get(UpdateClient.java:2823)
+	at org.appwork.updatesys.client.UpdateClient.downloadPackage(UpdateClient.java:5188)
+	at org.appwork.updatesys.client.UpdateClient.runUpdateCheck(UpdateClient.java:5108)
+	at org.appwork.updatesys.client.UpdateClient.runPackageRequestAndServerSelection(UpdateClient.java:5334)
+	at org.appwork.updatesys.client.UpdateClient.runUpdateCheck(UpdateClient.java:5249)
+	at org.jdownloader.update.UpdateManager.runUpdateLoop(UpdateManager.java:1024)
+	at org.jdownloader.update.UpdateManager$8.run(UpdateManager.java:413)
+	at java.lang.Thread.run(Thread.java:748)
+
+--ID:18TS:1695053350787-2023/9/19 上午 12:09:10 -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/batch?jobs=SESSION_INIT&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16891&ct=Normal&1695053349598.1695053349598&lng=zh_TW
+URL-Parameters:
+   jobs   : SESSION_INIT (BATCH_JOBS)
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : WINDOWS (OPERATING_SYSTEM)
+   osr    : WINDOWS_10 (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 0 (JVM_64BIT)
+   java   : 18181013 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 16892 (UPDATER_REVISION)
+   srev   : 16856 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 16891 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+          : 1695053349598.1695053349598
+   lng    : zh_TW (LANGUAGE)
+SSLCipher: JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@47fde4=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+POST /jcgi/batch?jobs=SESSION_INIT&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16891&ct=Normal&1695053349598.1695053349598&lng=zh_TW HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: zh_TW
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Content-Length: 84
+Accept-Encoding: gzip
+Content-Type: application/json; charset=utf-8
+Content-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 228ms
+Request-Time: 225ms
+----------------Response------------------------
+HTTP/1.1 400 Bad Request
+Server: nginx
+Date: Mon, 18 Sep 2023 16:11:56 GMT
+Content-Type: text/html
+Content-Length: 150
+Connection: close
+JCGI: 1 (HTTP_HEADER_FCGI)
+------------------------------------------------
+
+
+--ID:18TS:1695053350788-2023/9/19 上午 12:09:10 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(checkTryNextProxyOrGiveUp)] -> Check if we can leave 
+--ID:18TS:1695053350788-2023/9/19 上午 12:09:10 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(checkTryNextProxyOrGiveUp)] -> Invalid Response Code: org.appwork.utils.net.BasicHTTP.InvalidResponseCode: Invalid ResponseCode: 400
+--ID:18TS:1695053350788-2023/9/19 上午 12:09:10 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(throwServerExceptions)] -> Handle BasicHTTPException org.appwork.utils.net.BasicHTTP.BasicHTTPException: org.appwork.utils.net.BasicHTTP.ReadIOException: org.appwork.utils.net.BasicHTTP.InvalidResponseCode: Invalid ResponseCode: 400
+--ID:18TS:1695053350788-2023/9/19 上午 12:09:10 -  [org.appwork.updatesys.client.UpdateClient(ensureSessionInit)] -> Session Init: Unsupported Server:update.jdownloader.org
+--ID:18TS:1695053350790-2023/9/19 上午 12:09:10 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16891&ct=Normal&rev=16857&jdiff=1&eid=shutdown%2Cantishutdown%2Cffmpeg&lng=zh_TW&chlg=0&awfcxz=1&dedup=INTRA&dst=-1&1695053350790.1695053350789 via [直接連線]
+--ID:18TS:1695053350790-2023/9/19 上午 12:09:10 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy 直接連線
+--ID:18TS:1695053351981-2023/9/19 上午 12:09:11 -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16891&ct=Normal&rev=16857&jdiff=1&eid=shutdown%2Cantishutdown%2Cffmpeg&lng=zh_TW&chlg=0&awfcxz=1&dedup=INTRA&dst=-1&1695053350790.1695053350789
+URL-Parameters:
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : WINDOWS (OPERATING_SYSTEM)
+   osr    : WINDOWS_10 (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 0 (JVM_64BIT)
+   java   : 18181013 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 16892 (UPDATER_REVISION)
+   srev   : 16856 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 16891 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+   rev    : 16857 (REPO_REVISION)
+   jdiff  : 1 (JAR_DIFF_ENABLED)
+   eid    : shutdown,antishutdown,ffmpeg (EXTENSIONS_INSTALLED)
+   lng    : zh_TW (LANGUAGE)
+   chlg   : 0 (CHANGELOG_REQUESTED) (NAMESPACE_CHLG)
+   awfcxz : 1 (AWFC_XZ_ENABLED)
+   dedup  : INTRA (DEDUPE_MODE)
+   dst    : -1 (REQUESTED_DEST_REVISION)
+          : 1695053350790.1695053350789
+SSLCipher: JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@47fde4=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16891&ct=Normal&rev=16857&jdiff=1&eid=shutdown%2Cantishutdown%2Cffmpeg&lng=zh_TW&chlg=0&awfcxz=1&dedup=INTRA&dst=-1&1695053350790.1695053350789 HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: zh_TW
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Accept-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 226ms
+Request-Time: 227ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Date: Mon, 18 Sep 2023 16:11:57 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 163
+Connection: close
+Server: AppWork GmbH FcgiServer
+JCGI: 1 (HTTP_HEADER_FCGI)
+UPD_SRV: 1
+Strict-Transport-Security: max-age=15638400
+------------------------------------------------
+
+
+--ID:18TS:1695053351981-2023/9/19 上午 12:09:11 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Connection OK: 163 Bytes loaded
+--ID:18TS:1695053351982-2023/9/19 上午 12:09:11 -  [org.appwork.updatesys.transport.Pkg(parseServerResponse)] -> Serverresponse: {
+ "timeStamp"    : 1695053519061,
+ "uid"          : null,
+ "revisionName" : null,
+ "destRevision" : 16857,
+ "pong"         : null,
+ "status"       : "OK"
+}
+--ID:18TS:1695053351984-2023/9/19 上午 12:09:11 -  [org.appwork.updatesys.client.servertime.ServerTimeHandler(sync)] -> [Update Client:JD@update.jdownloader.org]: Sync offset: -167077
+--ID:18TS:1695053352000-2023/9/19 上午 12:09:12 -  [org.appwork.updatesys.client.servertime.ServerTimeHandler(sync)] -> [Update Client:JD@update.jdownloader.org]: After: Tue Sep 19 00:11:59 CST 2023 +00s = Tue Sep 19 00:11:59 CST 2023.61 (SRV)
+--ID:18TS:1695053352000-2023/9/19 上午 12:09:12 -  [org.appwork.updatesys.client.servertime.ServerTimeHandler(sync)] -> [Update Client:JD@update.jdownloader.org]: Diff: -167077/167077
+--ID:18TS:1695053352004-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.DefaultCallbackHandler(onResults)] -> OnResult
+--ID:18TS:1695053352004-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.DefaultCallbackHandler(onResults)] -> Confirmed: true
+--ID:18TS:1695053352004-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.DefaultCallbackHandler(onResults)] -> Selfupdate
+--ID:18TS:1695053352006-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> Added argument -Xmx512m
+--ID:18TS:1695053352016-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(move)] -> Copy from src:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\libs\laf\synthetica.jar -> dest:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\libs\laf\synthetica.jar
+--ID:18TS:1695053352016-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(move)] -> File exists: true 697353 bytes - C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\libs\laf\synthetica.jar
+--ID:18TS:1695053352051-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(move)] -> Copy from src:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\libs\laf\syntheticaJDCustom.jar -> dest:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\libs\laf\syntheticaJDCustom.jar
+--ID:18TS:1695053352051-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(move)] -> File exists: true 16129 bytes - C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\libs\laf\syntheticaJDCustom.jar
+--ID:18TS:1695053352057-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(move)] -> Copy from src:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\libs\laf\syntheticaSimple2D.jar -> dest:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\libs\laf\syntheticaSimple2D.jar
+--ID:18TS:1695053352058-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(move)] -> File exists: true 122768 bytes - C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\libs\laf\syntheticaSimple2D.jar
+--ID:18TS:1695053352059-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(move)] -> Copy from src:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.InternetConnectionSettings.json -> dest:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\org.jdownloader.settings.InternetConnectionSettings.json
+--ID:18TS:1695053352059-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(move)] -> File exists: true 173 bytes - C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\org.jdownloader.settings.InternetConnectionSettings.json
+--ID:18TS:1695053352060-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(move)] -> Copy from src:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.InternetConnectionSettings.customproxylist.json -> dest:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\org.jdownloader.settings.InternetConnectionSettings.customproxylist.json
+--ID:18TS:1695053352060-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(move)] -> File exists: true 270 bytes - C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\org.jdownloader.settings.InternetConnectionSettings.customproxylist.json
+--ID:18TS:1695053352060-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> Call [C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\bin\javaw.exe, -Xmx512m, -jar, C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\JDownloader.jar, -selftest, tmp/selftest_1695053352005, C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2] in C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2
+--ID:18TS:1695053352060-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\bin\javaw.exe
+--ID:18TS:1695053352060-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> -Xmx512m
+--ID:18TS:1695053352060-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> -jar
+--ID:18TS:1695053352060-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\JDownloader.jar
+--ID:18TS:1695053352060-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> -selftest
+--ID:18TS:1695053352060-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> tmp/selftest_1695053352005
+--ID:18TS:1695053352060-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2
+--ID:18TS:1695053352061-2023/9/19 上午 12:09:12 -  [org.jdownloader.update.DefaultCallbackHandler(runExeAsynch)] -> Call: [C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\bin\javaw.exe, -Xmx512m, -jar, C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\JDownloader.jar, -selftest, tmp/selftest_1695053352005, C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2, -updateonexit] in C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2
+------------------------Thread: 34:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:34TS:1695053352144-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> JarHandlerWorkaroundOracle:setURLStreamHandlerFactory
+--ID:34TS:1695053352146-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> JarHandlerWorkaroundOracle:replaceLauncherFactory
+--ID:34TS:1695053352147-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> JarHandlerWorkaroundOracle:replaceURLClassPath
+--ID:34TS:1695053352147-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> JarHandlerWorkaroundOracle:replacejarHandler
+--ID:34TS:1695053352147-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> JarHandlerWorkaroundOracle:replaceLoaders:1
+--ID:34TS:1695053352147-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> JarHandlerWorkaroundOracle:replaceLoader:0:handler
+--ID:34TS:1695053352147-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> JarHandlerWorkaroundOracle:replaceLoader:0:handler:jar:file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/tmp/update/self/JDU/JDownloader.jar!/
+------------------------Thread: 33:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:33TS:1695053352220-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> java.lang.NumberFormatException: null
+--ID:33TS:1695053352221-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at java.lang.Integer.parseInt(Integer.java:542)
+--ID:33TS:1695053352221-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at java.lang.Integer.parseInt(Integer.java:615)
+--ID:33TS:1695053352221-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at org.appwork.utils.os.CrossSystem.getWindowsRelease(CrossSystem.java:723)
+--ID:33TS:1695053352221-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at org.appwork.utils.os.CrossSystem.getOSByString(CrossSystem.java:1090)
+--ID:33TS:1695053352221-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at org.appwork.utils.os.CrossSystem.<clinit>(CrossSystem.java:368)
+--ID:33TS:1695053352221-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at org.appwork.utils.logging.LogFormatter.<init>(LogFormatter.java:58)
+--ID:33TS:1695053352221-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at org.appwork.utils.logging2.LogConsoleHandler$1.<init>(LogConsoleHandler.java:54)
+--ID:33TS:1695053352221-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at org.appwork.utils.logging2.LogConsoleHandler.<init>(LogConsoleHandler.java:54)
+--ID:33TS:1695053352222-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at org.appwork.utils.logging2.LogSourceProvider.<init>(LogSourceProvider.java:137)
+--ID:33TS:1695053352222-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at org.appwork.utils.logging2.extmanager.LoggerFactory.<init>(LoggerFactory.java:160)
+--ID:33TS:1695053352222-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at org.appwork.utils.logging2.extmanager.LoggerFactory.initialize(LoggerFactory.java:69)
+--ID:33TS:1695053352222-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at org.appwork.utils.logging2.extmanager.LoggerFactory.<clinit>(LoggerFactory.java:54)
+--ID:33TS:1695053352222-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at org.appwork.utils.logging2.LogSourceRedirector.getDefaultLogger(LogSourceRedirector.java:53)
+--ID:33TS:1695053352222-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at org.appwork.loggingv3.LogV3.info(LogV3.java:108)
+--ID:33TS:1695053352222-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at org.jdownloader.update.launcher.SecondLevelLauncher.<clinit>(SecondLevelLauncher.java:102)
+--ID:33TS:1695053352222-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at org.jdownloader.update.launcher.JDLauncherViaClassLoader.main(JDLauncherViaClassLoader.java:18)
+--ID:33TS:1695053352222-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+--ID:33TS:1695053352222-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+--ID:33TS:1695053352222-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+--ID:33TS:1695053352222-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at java.lang.reflect.Method.invoke(Method.java:498)
+--ID:33TS:1695053352222-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at org.jdownloader.updatev2.JDClassLoaderLauncher.main(JDClassLoaderLauncher.java:152)
+--ID:33TS:1695053352222-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 	at org.jdownloader.update.launcher.JDLauncher.main(JDLauncher.java:8)
+------------------------Thread: 34:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:34TS:1695053352257-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> INFO >> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\org.appwork.utils.logging2.LogConfig.json
+------------------------Thread: 33:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:33TS:1695053352291-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 
+--ID:33TS:1695053352291-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> THREAD: 1
+--ID:33TS:1695053352291-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|Log.L.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.loggingv3.LogV3(info) ] -> Application Root: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU
+------------------------Thread: 34:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:34TS:1695053352321-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> SystemEntropyWorkaround:true
+--ID:34TS:1695053352323-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Multiple LogControllers Detected: org.appwork.utils.logging2.extmanager.LoggerFactory|Mode:NORMAL
+--ID:34TS:1695053352323-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Multiple LogControllers Detected: org.jdownloader.logging.LogController|org.jdownloader.logging.LogController@1412c2f
+------------------------Thread: 33:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:33TS:1695053352326-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|Log.L.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.storage.JsonKeyValueStorage(<init>) ] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\org.jdownloader.update.lastchance.LastChanceConfig.json
+--ID:33TS:1695053352334-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 
+--ID:33TS:1695053352334-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> THREAD: 1
+--ID:33TS:1695053352334-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.runtime.name: Java(TM) SE Runtime Environment
+--ID:33TS:1695053352334-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: sun.boot.library.path: C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\bin
+--ID:33TS:1695053352335-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.vm.version: 25.181-b13
+--ID:33TS:1695053352335-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: sun.awt.nopixfmt: true
+--ID:33TS:1695053352335-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: sun.java2d.d3d: false
+--ID:33TS:1695053352335-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.vm.vendor: Oracle Corporation
+--ID:33TS:1695053352335-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.vendor.url: http://java.oracle.com/
+--ID:33TS:1695053352335-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: path.separator: ;
+--ID:33TS:1695053352335-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.vm.name: Java HotSpot(TM) Client VM
+--ID:33TS:1695053352335-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: file.encoding.pkg: sun.io
+--ID:33TS:1695053352335-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: com.sun.jndi.rmi.object.trustURLCodebase: false
+--ID:33TS:1695053352335-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: user.country: TW
+--ID:33TS:1695053352335-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: user.script: 
+--ID:33TS:1695053352335-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: sun.java.launcher: SUN_STANDARD
+--ID:33TS:1695053352335-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: sun.os.patch.level: 
+--ID:33TS:1695053352335-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: extlogmanager.avoidsystemclassloader.hack: sun.misc.Launcher$AppClassLoader@1f96302
+--ID:33TS:1695053352335-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.vm.specification.name: Java Virtual Machine Specification
+--ID:33TS:1695053352335-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: user.dir: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2
+--ID:33TS:1695053352336-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.runtime.version: 1.8.0_181-b13
+--ID:33TS:1695053352336-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.awt.graphicsenv: sun.awt.Win32GraphicsEnvironment
+--ID:33TS:1695053352336-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.util.Arrays.useLegacyMergeSort: true
+--ID:33TS:1695053352336-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.endorsed.dirs: C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\endorsed
+--ID:33TS:1695053352336-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: os.arch: x86
+--ID:33TS:1695053352336-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.io.tmpdir: C:\Users\User\AppData\Local\Temp\
+--ID:33TS:1695053352336-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: line.separator: 
+--ID:33TS:1695053352336-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 
+--ID:33TS:1695053352336-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.vm.specification.vendor: Oracle Corporation
+--ID:33TS:1695053352336-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.util.logging.manager: org.appwork.utils.logging2.extmanager.ExtLogManager
+--ID:33TS:1695053352336-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: user.variant: 
+--ID:33TS:1695053352336-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: os.name: Windows 10
+--ID:33TS:1695053352336-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: com.sun.jndi.ldap.object.trustURLCodebase: false
+--ID:33TS:1695053352336-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: sun.jnu.encoding: MS950
+--ID:33TS:1695053352336-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.net.preferIPv6Addresses: system
+--ID:33TS:1695053352336-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> AUTO_WRAPPED>
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> SysProp: java.library.path: C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Wind
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> ows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.specification.name: Java Platform API Specification
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.class.version: 52.0
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: sun.management.compiler: HotSpot Client Compiler
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: org.appwork.LoggerFactory: org.appwork.utils.logging2.LogSourceRedirector
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: os.version: 10.0
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: classloader_00000001: org.jdownloader.update.launcher.CL2
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.rmi.server.useCodebaseOnly: true
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: classloader_00000000: org.jdownloader.update.launcher.ClassLoaderExtensionImpl
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: user.home: C:\Users\User
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: user.timezone: Asia/Taipei
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.awt.printerjob: sun.awt.windows.WPrinterJob
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: file.encoding: MS950
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.specification.version: 1.8
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.class.path: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\JDownloader.jar
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: user.name: User
+--ID:33TS:1695053352337-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.vm.specification.version: 1.8
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: sun.java.command: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\JDownloader.jar -selftest tmp/selftest_1695053352005 C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2 -updateonexit
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.home: C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: sun.arch.data.model: 32
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: user.language: zh
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.specification.vendor: Oracle Corporation
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: awt.toolkit: sun.awt.windows.WToolkit
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.vm.info: mixed mode
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.version: 1.8.0_181
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.ext.dirs: C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\ext;C:\Windows\Sun\Java\lib\ext
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> AUTO_WRAPPED>
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> SysProp: sun.boot.class.path: C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\resources.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\rt.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\sunrsasign.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\jsse.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\jce.jar;C:
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> \Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\charsets.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\jfr.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\classe
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.vendor: Oracle Corporation
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: file.separator: \
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: k: 0dd0ecf7f742873d745106adea00b64a
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: com.sun.jndi.cosnaming.object.trustURLCodebase: false
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: java.vendor.url.bug: http://bugreport.sun.com/bugreport/
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: LOG_INIT_DONE: 2 instances
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: sun.io.unicode.encoding: UnicodeLittle
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: sun.cpu.endian: little
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: sun.desktop: windows
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysProp: sun.cpu.isalist: 
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: configsetroot: C:\Windows\ConfigSetRoot
+--ID:33TS:1695053352338-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: USERDOMAIN_ROAMINGPROFILE: DESKTOP-38EGLAP
+--ID:33TS:1695053352339-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: LOCALAPPDATA: C:\Users\User\AppData\Local
+--ID:33TS:1695053352339-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: PROCESSOR_LEVEL: 25
+--ID:33TS:1695053352339-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: USERDOMAIN: DESKTOP-38EGLAP
+--ID:33TS:1695053352339-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: LOGONSERVER: \\DESKTOP-38EGLAP
+--ID:33TS:1695053352339-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: ALLUSERSPROFILE: C:\ProgramData
+--ID:33TS:1695053352339-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: INTEL_DEV_REDIST: C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+--ID:33TS:1695053352339-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: PROCESSOR_ARCHITECTURE: x86
+--ID:33TS:1695053352339-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: AMDRMSDKPATH: C:\Program Files\AMD\RyzenMasterSDK\
+--ID:33TS:1695053352339-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: MIC_LD_LIBRARY_PATH: C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+--ID:33TS:1695053352339-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: __COMPAT_LAYER: Installer
+--ID:33TS:1695053352339-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: PSModulePath: C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+--ID:33TS:1695053352339-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: SystemDrive: C:
+--ID:33TS:1695053352339-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: OneDrive: C:\Users\User\OneDrive
+--ID:33TS:1695053352339-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: APPDATA: C:\Users\User\AppData\Roaming
+--ID:33TS:1695053352339-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: USERNAME: User
+--ID:33TS:1695053352339-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: ProgramFiles(x86): C:\Program Files (x86)
+--ID:33TS:1695053352339-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: CommonProgramFiles: C:\Program Files (x86)\Common Files
+--ID:33TS:1695053352340-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> AUTO_WRAPPED>
+--ID:33TS:1695053352340-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> SysEnv: Path: C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program 
+--ID:33TS:1695053352340-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Files\dotnet\;C:\Users\User\AppData\Local\Microsoft\WindowsApp
+--ID:33TS:1695053352340-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: PATHEXT: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+--ID:33TS:1695053352340-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: DriverData: C:\Windows\System32\Drivers\DriverData
+--ID:33TS:1695053352340-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: OS: Windows_NT
+--ID:33TS:1695053352340-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: OneDriveConsumer: C:\Users\User\OneDrive
+--ID:33TS:1695053352340-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: PROCESSOR_ARCHITEW6432: AMD64
+--ID:33TS:1695053352340-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: COMPUTERNAME: DESKTOP-38EGLAP
+--ID:33TS:1695053352340-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: PROCESSOR_REVISION: 2100
+--ID:33TS:1695053352340-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: CommonProgramW6432: C:\Program Files\Common Files
+--ID:33TS:1695053352340-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: ComSpec: C:\Windows\system32\cmd.exe
+--ID:33TS:1695053352340-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: ProgramData: C:\ProgramData
+--ID:33TS:1695053352340-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: ProgramW6432: C:\Program Files
+--ID:33TS:1695053352340-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: HOMEPATH: \Users\User
+--ID:33TS:1695053352340-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: SystemRoot: C:\Windows
+--ID:33TS:1695053352340-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: TEMP: C:\Users\User\AppData\Local\Temp
+--ID:33TS:1695053352341-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: HOMEDRIVE: C:
+--ID:33TS:1695053352341-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: PROCESSOR_IDENTIFIER: AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD
+--ID:33TS:1695053352341-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: USERPROFILE: C:\Users\User
+--ID:33TS:1695053352341-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: TMP: C:\Users\User\AppData\Local\Temp
+--ID:33TS:1695053352341-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: CommonProgramFiles(x86): C:\Program Files (x86)\Common Files
+--ID:33TS:1695053352341-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: ProgramFiles: C:\Program Files (x86)
+--ID:33TS:1695053352341-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: PUBLIC: C:\Users\Public
+--ID:33TS:1695053352341-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: NUMBER_OF_PROCESSORS: 16
+--ID:33TS:1695053352341-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: windir: C:\Windows
+--ID:33TS:1695053352341-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> SysEnv: =::: ::\
+--ID:33TS:1695053352341-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.utils.Application(printSystemProperties) ] -> jar:file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/tmp/update/self/JDU/JDownloader.jar!/version.nfo:
+--ID:33TS:1695053352341-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> ${updateclient.revision}
+--ID:33TS:1695053352341-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.jdownloader.update.launcher.SecondLevelLauncher(init) ] -> Args: [-selftest, tmp/selftest_1695053352005, C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2, -updateonexit]
+--ID:33TS:1695053352344-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.updatev2.restart.WindowsRestarter.log 2023/9/19 �W�� 12:09:12 - INFO [ org.jdownloader.updatev2.restart.Restarter(<init>) ] -> Create Restarter
+--ID:33TS:1695053352373-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.jdownloader.update.launcher.SecondLevelLauncher(init) ] -> Restart Controller init done in 32
+--ID:33TS:1695053352373-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.jdownloader.update.launcher.SecondLevelLauncher(init) ] -> Parse Arguments
+--ID:33TS:1695053352373-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.jdownloader.update.launcher.SecondLevelLauncher(init) ] -> Parameter Parse done in 0
+--ID:33TS:1695053352373-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.jdownloader.update.launcher.SecondLevelLauncher(init) ] -> Single Instance Controller
+--ID:33TS:1695053352395-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.jdownloader.update.launcher.SecondLevelLauncher(init) ] -> Single Instance init done in 22
+--ID:33TS:1695053352395-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.jdownloader.update.launcher.SecondLevelLauncher(init) ] -> Init UpdateManager
+--ID:33TS:1695053352395-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|Log.L.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.storage.JsonKeyValueStorage(<init>) ] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\org.jdownloader.updatev2.UpdateSettings.json
+--ID:33TS:1695053352417-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|Log.L.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.storage.JsonKeyValueStorage(<init>) ] -> Load JSon Storage from Classpath url: jar:file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/tmp/update/self/JDU/JDownloader.jar!/cfg/updateclient/Setup.json
+--ID:33TS:1695053352417-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|Log.L.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.storage.JsonKeyValueStorage(<init>) ] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\updateclient\Setup.json
+--ID:33TS:1695053352418-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|Log.L.log 2023/9/19 �W�� 12:09:12 - FINER [ org.appwork.loggingv3.LogV3(finer) ] -> Init StorageHandler for Interface:org.appwork.updatesys.client.Setup|Path:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\updateclient\Setup
+--ID:33TS:1695053352422-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - FINE [ org.jdownloader.update.UpdateManager(<init>) ] -> ClientSetup 6
+--ID:33TS:1695053352427-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 
+--ID:33TS:1695053352427-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> THREAD: 15
+--ID:33TS:1695053352427-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|Log.L.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.storage.JsonKeyValueStorage(<init>) ] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\org.jdownloader.settings.InternetConnectionSettings.json
+--ID:33TS:1695053352428-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|Log.L.log 2023/9/19 �W�� 12:09:12 - FINER [ org.appwork.loggingv3.LogV3(finer) ] -> Init StorageHandler for Interface:org.jdownloader.updatev2.InternetConnectionSettings|Path:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\org.jdownloader.settings.InternetConnectionSettings
+--ID:33TS:1695053352440-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|Log.L.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.storage.JsonKeyValueStorage(<init>) ] -> Load JSon Storage from Classpath url: jar:file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/tmp/update/self/JDU/JDownloader.jar!/cfg/updateclient/HttpSettings.json
+--ID:33TS:1695053352441-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|Log.L.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.storage.JsonKeyValueStorage(<init>) ] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\updateclient\HttpSettings.json
+--ID:33TS:1695053352441-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|Log.L.log 2023/9/19 �W�� 12:09:12 - FINER [ org.appwork.loggingv3.LogV3(finer) ] -> Init StorageHandler for Interface:org.appwork.updatesys.client.defaultimpl.http.UpdateHttpClientOptions|Path:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\updateclient\HttpSettings
+--ID:33TS:1695053352444-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|Log.L.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.storage.JsonKeyValueStorage(<init>) ] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\ProxySelector.json
+--ID:33TS:1695053352444-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|Log.L.log 2023/9/19 �W�� 12:09:12 - FINER [ org.appwork.loggingv3.LogV3(finer) ] -> Init StorageHandler for Interface:org.appwork.updatesys.client.defaultimpl.http.ProxySelectorSettings|Path:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\ProxySelector
+--ID:33TS:1695053352445-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|Log.L.log 2023/9/19 �W�� 12:09:12 - FINER [ org.appwork.loggingv3.LogV3(finer) ] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\ProxySelector.proxies.json
+--ID:33TS:1695053352459-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|Log.L.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.storage.JsonKeyValueStorage(<init>) ] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\update\versioninfo\JD\extensions.json
+--ID:33TS:1695053352459-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|Log.L.log 2023/9/19 �W�� 12:09:12 - FINER [ org.appwork.loggingv3.LogV3(finer) ] -> Init StorageHandler for Interface:org.appwork.updatesys.client.extensions.ExtensionsStorage|Path:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\update\versioninfo\JD\extensions
+--ID:33TS:1695053352460-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 
+--ID:33TS:1695053352460-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> THREAD: 15
+--ID:33TS:1695053352460-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.updatesys.client.extensions.ExtensionManager(init) ] -> Installed Extensions: []
+--ID:33TS:1695053352460-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.updatesys.client.extensions.ExtensionManager(init) ] -> Requested Extension Installations: []
+--ID:33TS:1695053352461-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.updatesys.client.extensions.ExtensionManager(init) ] -> Requested Extension Uninstalls: []
+--ID:33TS:1695053352461-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - INFO [ org.jdownloader.update.JDUpdateClient$JDExtensionManager(init) ] -> Installed Extensions: []
+--ID:33TS:1695053352462-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.updatesys.client.FileList(<init>) ] -> FileList at C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\update\versioninfo\JD\filelist.txt Size: 0
+--ID:33TS:1695053352464-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|Log.L.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.storage.JsonKeyValueStorage(<init>) ] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\org.appwork.updatesys.client.tracker.TrackConfig.json
+--ID:33TS:1695053352465-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 
+--ID:33TS:1695053352465-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> THREAD: 1
+--ID:33TS:1695053352465-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - FINE [ org.jdownloader.update.UpdateManager(<init>) ] -> Client 42
+--ID:33TS:1695053352467-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|Log.L.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.storage.JsonKeyValueStorage(<init>) ] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\update\versioninfo\JDU\extensions.json
+--ID:33TS:1695053352467-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|Log.L.log 2023/9/19 �W�� 12:09:12 - FINER [ org.appwork.loggingv3.LogV3(finer) ] -> Init StorageHandler for Interface:org.appwork.updatesys.client.extensions.ExtensionsStorage|Path:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\update\versioninfo\JDU\extensions
+--ID:33TS:1695053352467-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 
+--ID:33TS:1695053352467-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> THREAD: 15
+--ID:33TS:1695053352467-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.updatesys.client.extensions.ExtensionManager(init) ] -> Installed Extensions: []
+--ID:33TS:1695053352467-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.updatesys.client.extensions.ExtensionManager(init) ] -> Requested Extension Installations: []
+--ID:33TS:1695053352467-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.updatesys.client.extensions.ExtensionManager(init) ] -> Requested Extension Uninstalls: []
+--ID:33TS:1695053352468-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 15|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.updatesys.client.FileList(<init>) ] -> FileList at C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\update\versioninfo\JDU\filelist.txt Size: 0
+--ID:33TS:1695053352468-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 
+--ID:33TS:1695053352468-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> THREAD: 1
+--ID:33TS:1695053352468-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - FINE [ org.jdownloader.update.UpdateManager(<init>) ] -> selfUpdateClient 3
+--ID:33TS:1695053352468-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - FINE [ org.jdownloader.update.UpdateManager(<init>) ] -> LastChanceInit 0
+--ID:33TS:1695053352468-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - FINE [ org.jdownloader.update.UpdateManager(<init>) ] -> setUpdateOnExitFlag 0
+--ID:33TS:1695053352472-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - FINE [ org.jdownloader.update.UpdateManager(<init>) ] -> CreateGui 3
+--ID:33TS:1695053352473-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - FINE [ org.jdownloader.update.UpdateManager(<init>) ] -> DefaultHandler 2
+--ID:33TS:1695053352473-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - FINE [ org.jdownloader.update.UpdateManager(<init>) ] -> SetDefaultHandler 0
+--ID:33TS:1695053352473-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - FINE [ org.jdownloader.update.UpdateManager(<init>) ] -> ProxySelector 0
+--ID:33TS:1695053352473-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.jdownloader.update.launcher.SecondLevelLauncher(init) ] -> Update Manager init done in 78
+--ID:33TS:1695053352473-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SecondLevelLauncher.log 2023/9/19 �W�� 12:09:12 - INFO [ org.jdownloader.update.launcher.SecondLevelLauncher(init) ] -> Run Selftest
+--ID:33TS:1695053352475-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SelfTest.log 2023/9/19 �W�� 12:09:12 - INFO [ org.jdownloader.update.launcher.SelfTest(copyOptionalLAf) ] -> Copy C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\libs\laf\synthetica.jar to C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\libs\laf\synthetica.jar
+--ID:33TS:1695053352477-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SelfTest.log 2023/9/19 �W�� 12:09:12 - INFO [ org.jdownloader.update.launcher.SelfTest(copyOptionalLAf) ] -> Copy C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\libs\laf\syntheticaJDCustom.jar to C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\libs\laf\syntheticaJDCustom.jar
+--ID:33TS:1695053352478-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SelfTest.log 2023/9/19 �W�� 12:09:12 - INFO [ org.jdownloader.update.launcher.SelfTest(copyOptionalLAf) ] -> Copy C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\libs\laf\syntheticaSimple2D.jar to C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\libs\laf\syntheticaSimple2D.jar
+--ID:33TS:1695053352560-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 
+--ID:33TS:1695053352560-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> THREAD: 16
+--ID:33TS:1695053352560-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 16|Log.L.log 2023/9/19 �W�� 12:09:12 - FINER [ org.appwork.loggingv3.LogV3(finer) ] -> Read Config(URL): jar:file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/tmp/update/self/JDU/JDownloader.jar!/cfg/updateclient/Setup.updateservers.json
+--ID:33TS:1695053352580-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 16|Log.L.log 2023/9/19 �W�� 12:09:12 - FINER [ org.appwork.loggingv3.LogV3(finer) ] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\cfg\org.jdownloader.settings.InternetConnectionSettings.customproxylist.json
+--ID:33TS:1695053352583-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Detected ProxyVole Crash!
+------------------------Thread: 34:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:34TS:1695053352583-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> UpdateClient Proxy Vole 0
+------------------------Thread: 33:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:33TS:1695053352588-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 16|Log.L.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.loggingv3.LogV3(info) ] -> Translation file missing:org/appwork/utils/locale/AWUTranslation.en.lngUse Annotation Dev fallback
+--ID:33TS:1695053352595-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 
+--ID:33TS:1695053352595-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> THREAD: 16
+--ID:33TS:1695053352595-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 16|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info) ] -> GET https://update.jdownloader.org/jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=392261ed1deedefe19234bf2f6c37fc1&rev=-1&srev=-1&urev=-1&surev=-1&rt=ST&st=1 via [Direct]
+--ID:33TS:1695053352595-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 16|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(internalDownloadWithProxy) ] -> Try Proxy: Direct
+--ID:33TS:1695053352595-2023/9/19 上午 12:09:12 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 16|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:12 - INFO [ org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info) ] -> Download to C:\Users\User\AppData\Local\Temp\lastChanceSrc16950533524744122918818230804027lch Size before: 0 bytes
+------------------------Thread: 18:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:18TS:1695053353081-2023/9/19 上午 12:09:13 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> Test 
+--ID:18TS:1695053353081-2023/9/19 上午 12:09:13 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> Running 
+--ID:18TS:1695053354087-2023/9/19 上午 12:09:14 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> Test 
+--ID:18TS:1695053354087-2023/9/19 上午 12:09:14 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> Running 
+------------------------Thread: 33:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:33TS:1695053354649-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 16|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:14 - INFO [ org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log) ] -> ----------------Request Information-------------
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> URL: https://update.jdownloader.org/jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=392261ed1deedefe19234bf2f6c37fc1&rev=-1&srev=-1&urev=-1&surev=-1&rt=ST&st=1
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> URL-Parameters:
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] ->    app   : JD (REPO_NAME)
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] ->    pkh   : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] ->    jh    : 392261ed1deedefe19234bf2f6c37fc1
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] ->    rev   : -1 (REPO_REVISION)
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] ->    srev  : -1 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] ->    urev  : -1 (UPDATER_REVISION)
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] ->    surev : -1 (UPDATER_SUPER_REVISION)
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] ->    rt    : ST (RUNTYPE)
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] ->    st    : 1 (SELFTEST)
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> SSLCipher: JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@78f5b4=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> ConnectIP: update.jdownloader.org/136.243.5.58:443
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Connection-Timeout: 20000ms
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Read-Timeout: 60000ms
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> ----------------ConnectionExceptions-------------------------
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 0:update.jdownloader.org/136.243.5.58|javax.net.ssl.SSLHandshakeException(Received fatal alert: handshake_failure)|retrySSL:Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@78f5b4=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3
+--ID:33TS:1695053354650-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> ----------------Request-------------------------
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> GET /jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=392261ed1deedefe19234bf2f6c37fc1&rev=-1&srev=-1&urev=-1&surev=-1&rt=ST&st=1 HTTP/1.1
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Host: update.jdownloader.org
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Accept-Language: zh_TW
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> User-Agent: JDownloader/201707061810
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Connection: Close
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Cache-Control: no-cache, no-store
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Pragma: no-cache
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> ----------------Response Information------------
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Connection-Time: 227ms
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Request-Time: 227ms
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> ----------------Response------------------------
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> HTTP/1.1 302 Found
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Date: Mon, 18 Sep 2023 16:11:59 GMT
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Content-Length: 0
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Connection: close
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Server: AppWork GmbH FcgiServer
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> JCGI: 1 (HTTP_HEADER_FCGI)
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> UPD_SRV: 1
+--ID:33TS:1695053354651-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Location: http://cdn4.appwork.org/JD/JD_lastChanceRescueMe.jar.enc
+--ID:33TS:1695053354652-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Strict-Transport-Security: max-age=15638400
+--ID:33TS:1695053354652-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> ------------------------------------------------
+--ID:33TS:1695053354652-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 
+--ID:33TS:1695053354652-2023/9/19 上午 12:09:14 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 
+------------------------Thread: 18:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:18TS:1695053355088-2023/9/19 上午 12:09:15 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> Test 
+--ID:18TS:1695053355088-2023/9/19 上午 12:09:15 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> Running 
+------------------------Thread: 33:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:33TS:1695053355141-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 16|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:15 - INFO [ org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log) ] -> ----------------Request Information-------------
+--ID:33TS:1695053355141-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> URL: http://cdn4.appwork.org/JD/JD_lastChanceRescueMe.jar.enc
+--ID:33TS:1695053355141-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> ConnectIP: cdn4.appwork.org/176.9.34.43:80
+--ID:33TS:1695053355141-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Connection-Timeout: 20000ms
+--ID:33TS:1695053355141-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Read-Timeout: 60000ms
+--ID:33TS:1695053355141-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> ----------------Request-------------------------
+--ID:33TS:1695053355141-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> GET /JD/JD_lastChanceRescueMe.jar.enc HTTP/1.1
+--ID:33TS:1695053355141-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Host: cdn4.appwork.org
+--ID:33TS:1695053355141-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Accept-Language: zh_TW
+--ID:33TS:1695053355141-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> User-Agent: JDownloader/201707061810
+--ID:33TS:1695053355141-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+--ID:33TS:1695053355141-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Connection: Close
+--ID:33TS:1695053355141-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Cache-Control: no-cache, no-store
+--ID:33TS:1695053355141-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+--ID:33TS:1695053355142-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Pragma: no-cache
+--ID:33TS:1695053355142-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> ----------------Response Information------------
+--ID:33TS:1695053355142-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Connection-Time: 259ms
+--ID:33TS:1695053355142-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Request-Time: 228ms
+--ID:33TS:1695053355142-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> ----------------Response------------------------
+--ID:33TS:1695053355142-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> HTTP/1.1 200 OK
+--ID:33TS:1695053355142-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Server: nginx/1.15.12
+--ID:33TS:1695053355142-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Date: Mon, 18 Sep 2023 16:12:02 GMT
+--ID:33TS:1695053355142-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Content-Type: application/octet-stream
+--ID:33TS:1695053355142-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Content-Length: 1696
+--ID:33TS:1695053355142-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Last-Modified: Wed, 03 Apr 2013 12:41:08 GMT
+--ID:33TS:1695053355142-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Connection: close
+--ID:33TS:1695053355143-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> ETag: "515c2364-6a0"
+--ID:33TS:1695053355143-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> X-CDN: 30_0_9_21
+--ID:33TS:1695053355143-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> X-CDN-SIGNATURE: .Nanachi.
+--ID:33TS:1695053355143-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> Accept-Ranges: bytes
+--ID:33TS:1695053355143-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> ------------------------------------------------
+--ID:33TS:1695053355143-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 
+--ID:33TS:1695053355143-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 
+--ID:33TS:1695053355143-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 16|org.jdownloader.update.UpdateManager.log 2023/9/19 �W�� 12:09:15 - INFO [ org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info) ] -> Connection ok. Downloaded C:\Users\User\AppData\Local\Temp\lastChanceSrc16950533524744122918818230804027lch: 1696 bytes
+--ID:33TS:1695053355508-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 
+--ID:33TS:1695053355508-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> THREAD: 1
+--ID:33TS:1695053355508-2023/9/19 上午 12:09:15 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> 1|org.jdownloader.update.launcher.SelfTest.log 2023/9/19 �W�� 12:09:15 - INFO [ org.jdownloader.update.launcher.SelfTest(onSelfTestOK) ] -> Write PollFile: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\selftest_1695053352005
+------------------------Thread: 18:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:18TS:1695053356094-2023/9/19 上午 12:09:16 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> Test 
+--ID:18TS:1695053356094-2023/9/19 上午 12:09:16 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> Running 
+--ID:18TS:1695053356094-2023/9/19 上午 12:09:16 -  [org.jdownloader.update.SelfUpdateClient(finishSelfUpdate)] -> File exists 
+--ID:18TS:1695053358104-2023/9/19 上午 12:09:18 -  [org.jdownloader.update.SelfUpdateClient(validateSelfTestFile)] -> Validate:  OK
+--ID:18TS:1695053358105-2023/9/19 上午 12:09:18 -  [org.jdownloader.update.SelfUpdateClient(validateSelfTestFile)] -> SelfTest Results: 
+OK
+--ID:18TS:1695053358105-2023/9/19 上午 12:09:18 -  [org.jdownloader.update.SelfUpdateClient(validateSelfTestFile)] -> OK
+--ID:18TS:1695053358105-2023/9/19 上午 12:09:18 -  [org.jdownloader.update.SelfUpdateClient(validateSelfTestFile)] -> Self Update successful

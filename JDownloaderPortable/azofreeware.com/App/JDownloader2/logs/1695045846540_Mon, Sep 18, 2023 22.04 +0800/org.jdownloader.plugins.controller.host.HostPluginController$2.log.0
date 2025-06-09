@@ -1,0 +1,15 @@
+------------------------Thread: 17:org.jdownloader.plugins.controller.host.HostPluginController$2.log-----------------------
+--ID:17TS:1695045848441-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> HostPluginController: init
+--ID:17TS:1695045848503-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPluginController: loadFromCache took 62ms for 3825|LastModified:1695043153727
+--ID:17TS:1695045848510-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.PluginScannerNIO(scan)] -> @PluginController(NIO): lastModified timestamp change test: successful
+--ID:17TS:1695045848512-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.PluginScannerNIO(scan)] -> @PluginController(NIO): plugin cache valid|Size:3825|LastModified:1695045848510
+--ID:17TS:1695045848512-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.PluginScannerNIO(scan)] -> @PluginController(NIO): scan took 8ms for 3825
+--ID:17TS:1695045848512-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPluginController: update took 9ms for 3825|LastModified:1695045848510
+--ID:17TS:1695045848516-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPluginController: sort took 4ms for 3825
+--ID:17TS:1695045848516-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPlugin keep:DailyMotionComV2@47865|3:47865 instead DailyMotionCom@48281|2:48281
+--ID:17TS:1695045848516-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPlugin replaced:FileFactory@47663|2:47663 with PowerFileCom@46119|3:46119
+--ID:17TS:1695045848517-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPlugin replaced:EvilangelGangbangcreampieCom@48310|3:48310 with EvilangelGloryholesecretsCom@48310|3:48310
+--ID:17TS:1695045848517-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPlugin replaced:Offline@48281|3:48281 with Offline@48281|3:48281
+--ID:17TS:1695045848517-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPlugin replaced:Offline@48281|3:48281 with Offline@48281|3:48281
+--ID:17TS:1695045848517-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPluginController: mapping took 1ms for 3825
+--ID:17TS:1695045848517-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPluginController: init took 76ms for 3819

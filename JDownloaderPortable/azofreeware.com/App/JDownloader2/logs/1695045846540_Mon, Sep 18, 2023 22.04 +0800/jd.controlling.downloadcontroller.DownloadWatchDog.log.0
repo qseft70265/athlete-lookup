@@ -1,0 +1,146 @@
+------------------------Thread: 22:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:22TS:1695045848030-2023/9/18 下午 10:04:08 -  [jd.controlling.downloadcontroller.DownloadWatchDog(<init>)] -> USE_AVAILABLE_ACCOUNTS: true
+------------------------Thread: 33:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:33TS:1695045872873-2023/9/18 下午 10:04:32 -  [jd.controlling.downloadcontroller.DownloadWatchDog$25(execute)] -> DownloadWatchDog: start
+------------------------Thread: 141:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:141TS:1695045872898-2023/9/18 下午 10:04:32 -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:C:\Users\User\Desktop\318e5087a21b866637a52d0369e4fd571d6dd5f3d72103db9d98b59bfda7a6169921f11e97d0da21 (1080p_aac).mp4.part|Root(s):[C:\]|Requestor:null|RequestedSpace:2.95 GB|UsableSpace:162.36 GB
+--ID:141TS:1695045872899-2023/9/18 下午 10:04:32 -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:318e5087a21b866637a52d0369e4fd571d6dd5f3d72103db9d98b59bfda7a6169921f11e97d0da21 (1080p_aac).mp4@m3u8|Host m3u8|Account:Plugin:m3u8|Version:47248|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 138:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:138TS:1695045872902-2023/9/18 下午 10:04:32 -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: C:\Users\User\Desktop\318e5087a21b866637a52d0369e4fd571d6dd5f3d72103db9d98b59bfda7a6169921f11e97d0da21 (1080p_aac).mp4
+------------------------Thread: 141:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:141TS:1695045911036-2023/9/18 下午 10:05:11 -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:C:\Users\User\Desktop\738845e23ab490d584e789d1d674d4b1bc28285fb62ecd2669fda40511680a1e9921f11e97d0da21 (1080p_aac).mp4.part|Root(s):[C:\]|Requestor:null|RequestedSpace:4.01 GB|UsableSpace:162.35 GB
+--ID:141TS:1695045911036-2023/9/18 下午 10:05:11 -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:738845e23ab490d584e789d1d674d4b1bc28285fb62ecd2669fda40511680a1e9921f11e97d0da21 (1080p_aac).mp4@m3u8|Host m3u8|Account:Plugin:m3u8|Version:47248|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 181:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:181TS:1695045911036-2023/9/18 下午 10:05:11 -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: C:\Users\User\Desktop\738845e23ab490d584e789d1d674d4b1bc28285fb62ecd2669fda40511680a1e9921f11e97d0da21 (1080p_aac).mp4
+------------------------Thread: 141:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:141TS:1695048068606-2023/9/18 下午 10:41:08 -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:738845e23ab490d584e789d1d674d4b1bc28285fb62ecd2669fda40511680a1e9921f11e97d0da21 (1080p_aac).mp4@m3u8|Host m3u8|Account:Plugin:m3u8|Version:47248|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->FINISHED
+--ID:141TS:1695052425206-2023/9/18 下午 11:53:45 -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:318e5087a21b866637a52d0369e4fd571d6dd5f3d72103db9d98b59bfda7a6169921f11e97d0da21 (1080p_aac).mp4@m3u8|Host m3u8|Account:Plugin:m3u8|Version:47248|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->FILE_UNAVAILABLE
+--ID:141TS:1695052425209-2023/9/18 下午 11:53:45 -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:318e5087a21b866637a52d0369e4fd571d6dd5f3d72103db9d98b59bfda7a6169921f11e97d0da21 (1080p_aac).mp4@m3u8|Host m3u8|Account:Plugin:m3u8|Version:47248|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->FILE_UNAVAILABLE
+--ID:141TS:1695052543863-2023/9/18 下午 11:55:43 -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:318e5087a21b866637a52d0369e4fd571d6dd5f3d72103db9d98b59bfda7a6169921f11e97d0da21 (1080p_aac).mp4@m3u8|Host m3u8|Account:Plugin:m3u8|Version:47248|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->FILE_UNAVAILABLE
+--ID:141TS:1695053340828-2023/9/19 上午 12:09:00 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 3747 for new ActivationRequests
+--ID:141TS:1695053342083-2023/9/19 上午 12:09:02 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 2492 for new ActivationRequests
+--ID:141TS:1695053343340-2023/9/19 上午 12:09:03 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 1235 for new ActivationRequests
+--ID:141TS:1695053344597-2023/9/19 上午 12:09:04 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 0 for new ActivationRequests
+--ID:141TS:1695053344597-2023/9/19 上午 12:09:04 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Waited 5022 but no new ActivationRequests are available->Stop DownloadWatchDog
+--ID:141TS:1695053344597-2023/9/19 上午 12:09:04 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> DownloadWatchDog: stopping
+--ID:141TS:1695053344598-2023/9/19 上午 12:09:04 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> DownloadWatchDog: stopped

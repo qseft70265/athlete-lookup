@@ -1,0 +1,54 @@
+Thu Dec 22 21:44:17 CST 2022
+Package: package_1671716632512.awf
+Install
+Write Revision: 16433
+----------------Plugins----------------
+----------------Extensions----------------
+----------------Direct Files----------------
+----------------Core Files----------------
+   tools/Windows/ffmpeg/licenses/bzip2.txt
+   tools/Windows/ffmpeg/licenses/fontconfig.txt
+   tools/Windows/ffmpeg/licenses/freetype.txt
+   tools/Windows/ffmpeg/licenses/frei0r.txt
+   tools/Windows/ffmpeg/licenses/gnutls.txt
+   tools/Windows/ffmpeg/licenses/lame.txt
+   tools/Windows/ffmpeg/licenses/libass.txt
+   tools/Windows/ffmpeg/licenses/libbluray.txt
+   tools/Windows/ffmpeg/licenses/libcaca.txt
+   tools/Windows/ffmpeg/licenses/libgsm.txt
+   tools/Windows/ffmpeg/licenses/libiconv.txt
+   tools/Windows/ffmpeg/licenses/libilbc.txt
+   tools/Windows/ffmpeg/licenses/libmodplug.txt
+   tools/Windows/ffmpeg/licenses/libtheora.txt
+   tools/Windows/ffmpeg/licenses/libvorbis.txt
+   tools/Windows/ffmpeg/licenses/libvpx.txt
+   tools/Windows/ffmpeg/licenses/opencore-amr.txt
+   tools/Windows/ffmpeg/licenses/openjpeg.txt
+   tools/Windows/ffmpeg/licenses/opus.txt
+   tools/Windows/ffmpeg/licenses/rtmpdump.txt
+   tools/Windows/ffmpeg/licenses/schroedinger.txt
+   tools/Windows/ffmpeg/licenses/soxr.txt
+   tools/Windows/ffmpeg/licenses/speex.txt
+   tools/Windows/ffmpeg/licenses/twolame.txt
+   tools/Windows/ffmpeg/licenses/vid.stab.txt
+   tools/Windows/ffmpeg/licenses/vo-aacenc.txt
+   tools/Windows/ffmpeg/licenses/vo-amrwbenc.txt
+   tools/Windows/ffmpeg/licenses/wavpack.txt
+   tools/Windows/ffmpeg/licenses/x264.txt
+   tools/Windows/ffmpeg/licenses/xavs.txt
+   tools/Windows/ffmpeg/licenses/xvid.txt
+   tools/Windows/ffmpeg/licenses/zlib.txt
+   tools/Windows/ffmpeg/x64/LICENSE.txt
+   tools/Windows/ffmpeg/x64/README.txt
+   tools/Windows/ffmpeg/x64/avcodec-58.dll
+   tools/Windows/ffmpeg/x64/avdevice-58.dll
+   tools/Windows/ffmpeg/x64/avfilter-7.dll
+   tools/Windows/ffmpeg/x64/avformat-58.dll
+   tools/Windows/ffmpeg/x64/avutil-56.dll
+   tools/Windows/ffmpeg/x64/ffmpeg.exe
+   tools/Windows/ffmpeg/x64/ffmpeg.info
+   tools/Windows/ffmpeg/x64/ffplay.exe
+   tools/Windows/ffmpeg/x64/ffprobe.exe
+   tools/Windows/ffmpeg/x64/postproc-55.dll
+   tools/Windows/ffmpeg/x64/swresample-3.dll
+   tools/Windows/ffmpeg/x64/swscale-5.dll

@@ -1,0 +1,399 @@
+------------------------Thread: 24:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:24TS:1695041291644-2023/9/18 下午 08:48:11 -  [jd.controlling.downloadcontroller.DownloadWatchDog(<init>)] -> USE_AVAILABLE_ACCOUNTS: true
+------------------------Thread: 35:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:35TS:1695041343983-2023/9/18 下午 08:49:03 -  [jd.controlling.downloadcontroller.DownloadWatchDog$25(execute)] -> DownloadWatchDog: start
+------------------------Thread: 128:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:128TS:1695041344003-2023/9/18 下午 08:49:04 -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:C:\Users\User\Desktop\玉水站之鬼.mp4.part|Root(s):[C:\]|Requestor:null|RequestedSpace:3.55 GB|UsableSpace:164.61 GB
+--ID:128TS:1695041344004-2023/9/18 下午 08:49:04 -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:玉水站之鬼.mp4@pan.baidu.com|Host pan.baidu.com|Account:Plugin:pan.baidu.com|Version:47949|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 125:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:125TS:1695041344007-2023/9/18 下午 08:49:04 -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: C:\Users\User\Desktop\玉水站之鬼.mp4
+------------------------Thread: 128:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:128TS:1695041345303-2023/9/18 下午 08:49:05 -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:玉水站之鬼.mp4@pan.baidu.com|Host pan.baidu.com|Account:Plugin:pan.baidu.com|Version:47949|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->ACCOUNT_REQUIRED
+--ID:128TS:1695041345307-2023/9/18 下午 08:49:05 -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:玉水站之鬼.mp4@pan.baidu.com|Host pan.baidu.com|Account:Plugin:pan.baidu.com|Version:47949|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->ACCOUNT_REQUIRED
+--ID:128TS:1695041345307-2023/9/18 下午 08:49:05 -  [jd.controlling.downloadcontroller.DownloadWatchDog(printDownloadLinkCandidateHistory)] -> DownloadCandidate:玉水站之鬼.mp4@pan.baidu.com|Host pan.baidu.com|Account:Plugin:pan.baidu.com|Version:47949|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->ACCOUNT_REQUIRED
+--ID:128TS:1695041345309-2023/9/18 下午 08:49:05 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 5000 for new ActivationRequests
+--ID:128TS:1695041346560-2023/9/18 下午 08:49:06 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 3749 for new ActivationRequests
+--ID:128TS:1695041347810-2023/9/18 下午 08:49:07 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 2499 for new ActivationRequests
+--ID:128TS:1695041349061-2023/9/18 下午 08:49:09 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 1248 for new ActivationRequests
+--ID:128TS:1695041350312-2023/9/18 下午 08:49:10 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 0 for new ActivationRequests
+--ID:128TS:1695041350312-2023/9/18 下午 08:49:10 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Waited 5003 but no new ActivationRequests are available->Stop DownloadWatchDog
+--ID:128TS:1695041350312-2023/9/18 下午 08:49:10 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> DownloadWatchDog: stopping
+--ID:128TS:1695041350317-2023/9/18 下午 08:49:10 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> DownloadWatchDog: stopped
+------------------------Thread: 136:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:136TS:1695041366423-2023/9/18 下午 08:49:26 -  [jd.controlling.downloadcontroller.DownloadWatchDog$25(execute)] -> DownloadWatchDog: start
+------------------------Thread: 148:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:148TS:1695041366428-2023/9/18 下午 08:49:26 -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:C:\Users\User\Desktop\玉水站之鬼.mp4.part|Root(s):[C:\]|Requestor:null|RequestedSpace:3.55 GB|UsableSpace:164.61 GB
+--ID:148TS:1695041366428-2023/9/18 下午 08:49:26 -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:玉水站之鬼.mp4@pan.baidu.com|Host pan.baidu.com|Account:Plugin:pan.baidu.com|Version:47949|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 125:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:125TS:1695041366428-2023/9/18 下午 08:49:26 -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: C:\Users\User\Desktop\玉水站之鬼.mp4
+------------------------Thread: 148:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:148TS:1695041368208-2023/9/18 下午 08:49:28 -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:玉水站之鬼.mp4@pan.baidu.com|Host pan.baidu.com|Account:Plugin:pan.baidu.com|Version:47949|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->ACCOUNT_REQUIRED
+--ID:148TS:1695041368209-2023/9/18 下午 08:49:28 -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:玉水站之鬼.mp4@pan.baidu.com|Host pan.baidu.com|Account:Plugin:pan.baidu.com|Version:47949|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->ACCOUNT_REQUIRED
+--ID:148TS:1695041368209-2023/9/18 下午 08:49:28 -  [jd.controlling.downloadcontroller.DownloadWatchDog(printDownloadLinkCandidateHistory)] -> DownloadCandidate:玉水站之鬼.mp4@pan.baidu.com|Host pan.baidu.com|Account:Plugin:pan.baidu.com|Version:47949|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->ACCOUNT_REQUIRED
+--ID:148TS:1695041369459-2023/9/18 下午 08:49:29 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 3750 for new ActivationRequests
+--ID:148TS:1695041370709-2023/9/18 下午 08:49:30 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 2500 for new ActivationRequests
+--ID:148TS:1695041371960-2023/9/18 下午 08:49:31 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 1249 for new ActivationRequests
+--ID:148TS:1695041373210-2023/9/18 下午 08:49:33 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 0 for new ActivationRequests
+--ID:148TS:1695041373210-2023/9/18 下午 08:49:33 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Waited 5001 but no new ActivationRequests are available->Stop DownloadWatchDog
+--ID:148TS:1695041373210-2023/9/18 下午 08:49:33 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> DownloadWatchDog: stopping
+--ID:148TS:1695041373210-2023/9/18 下午 08:49:33 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> DownloadWatchDog: stopped
+------------------------Thread: 154:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:154TS:1695041378295-2023/9/18 下午 08:49:38 -  [jd.controlling.downloadcontroller.DownloadWatchDog$25(execute)] -> DownloadWatchDog: start
+------------------------Thread: 156:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:156TS:1695041378301-2023/9/18 下午 08:49:38 -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:C:\Users\User\Desktop\玉水站之鬼.mp4.part|Root(s):[C:\]|Requestor:null|RequestedSpace:3.55 GB|UsableSpace:164.62 GB
+--ID:156TS:1695041378302-2023/9/18 下午 08:49:38 -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:玉水站之鬼.mp4@pan.baidu.com|Host pan.baidu.com|Account:Plugin:pan.baidu.com|Version:47949|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 125:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:125TS:1695041378302-2023/9/18 下午 08:49:38 -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: C:\Users\User\Desktop\玉水站之鬼.mp4
+------------------------Thread: 156:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:156TS:1695041380816-2023/9/18 下午 08:49:40 -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:玉水站之鬼.mp4@pan.baidu.com|Host pan.baidu.com|Account:Plugin:pan.baidu.com|Version:47949|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->ACCOUNT_REQUIRED
+--ID:156TS:1695041380818-2023/9/18 下午 08:49:40 -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:玉水站之鬼.mp4@pan.baidu.com|Host pan.baidu.com|Account:Plugin:pan.baidu.com|Version:47949|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->ACCOUNT_REQUIRED
+--ID:156TS:1695041380818-2023/9/18 下午 08:49:40 -  [jd.controlling.downloadcontroller.DownloadWatchDog(printDownloadLinkCandidateHistory)] -> DownloadCandidate:玉水站之鬼.mp4@pan.baidu.com|Host pan.baidu.com|Account:Plugin:pan.baidu.com|Version:47949|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->ACCOUNT_REQUIRED
+--ID:156TS:1695041382068-2023/9/18 下午 08:49:42 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 3750 for new ActivationRequests
+--ID:156TS:1695041383318-2023/9/18 下午 08:49:43 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 2500 for new ActivationRequests
+--ID:156TS:1695041384569-2023/9/18 下午 08:49:44 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 1249 for new ActivationRequests
+--ID:156TS:1695041386380-2023/9/18 下午 08:49:46 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 3750 for new ActivationRequests
+--ID:156TS:1695041387630-2023/9/18 下午 08:49:47 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 2500 for new ActivationRequests
+--ID:156TS:1695041388881-2023/9/18 下午 08:49:48 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 1249 for new ActivationRequests
+--ID:156TS:1695041390132-2023/9/18 下午 08:49:50 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 0 for new ActivationRequests
+--ID:156TS:1695041390132-2023/9/18 下午 08:49:50 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Waited 5002 but no new ActivationRequests are available->Stop DownloadWatchDog
+--ID:156TS:1695041390132-2023/9/18 下午 08:49:50 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> DownloadWatchDog: stopping
+--ID:156TS:1695041390132-2023/9/18 下午 08:49:50 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> DownloadWatchDog: stopped
+------------------------Thread: 163:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:163TS:1695041446991-2023/9/18 下午 08:50:46 -  [jd.controlling.downloadcontroller.DownloadWatchDog$25(execute)] -> DownloadWatchDog: start
+------------------------Thread: 234:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:234TS:1695041446996-2023/9/18 下午 08:50:46 -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:C:\Users\azo\Downloads\玉水站之鬼\玉水站之鬼.mp4.part|Root(s):[C:\]|Requestor:null|RequestedSpace:3.55 GB|UsableSpace:164.62 GB
+--ID:234TS:1695041446998-2023/9/18 下午 08:50:46 -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:玉水站之鬼.mp4@pan.baidu.com|Host pan.baidu.com|Account:Plugin:pan.baidu.com|Version:47949|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 231:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:231TS:1695041446998-2023/9/18 下午 08:50:46 -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: C:\Users\azo\Downloads\玉水站之鬼\玉水站之鬼.mp4
+------------------------Thread: 234:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:234TS:1695041448248-2023/9/18 下午 08:50:48 -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:玉水站之鬼.mp4@pan.baidu.com|Host pan.baidu.com|Account:Plugin:pan.baidu.com|Version:47949|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->ACCOUNT_REQUIRED
+--ID:234TS:1695041448249-2023/9/18 下午 08:50:48 -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:玉水站之鬼.mp4@pan.baidu.com|Host pan.baidu.com|Account:Plugin:pan.baidu.com|Version:47949|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->ACCOUNT_REQUIRED
+--ID:234TS:1695041448250-2023/9/18 下午 08:50:48 -  [jd.controlling.downloadcontroller.DownloadWatchDog(printDownloadLinkCandidateHistory)] -> DownloadCandidate:玉水站之鬼.mp4@pan.baidu.com|Host pan.baidu.com|Account:Plugin:pan.baidu.com|Version:47949|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->ACCOUNT_REQUIRED
+--ID:234TS:1695041448250-2023/9/18 下午 08:50:48 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 5000 for new ActivationRequests
+--ID:234TS:1695041449501-2023/9/18 下午 08:50:49 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 3749 for new ActivationRequests
+--ID:234TS:1695041450752-2023/9/18 下午 08:50:50 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 2498 for new ActivationRequests
+--ID:234TS:1695041452003-2023/9/18 下午 08:50:52 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 1247 for new ActivationRequests
+--ID:234TS:1695041453253-2023/9/18 下午 08:50:53 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 0 for new ActivationRequests
+--ID:234TS:1695041453253-2023/9/18 下午 08:50:53 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Waited 5003 but no new ActivationRequests are available->Stop DownloadWatchDog
+--ID:234TS:1695041453253-2023/9/18 下午 08:50:53 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> DownloadWatchDog: stopping
+--ID:234TS:1695041453253-2023/9/18 下午 08:50:53 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> DownloadWatchDog: stopped

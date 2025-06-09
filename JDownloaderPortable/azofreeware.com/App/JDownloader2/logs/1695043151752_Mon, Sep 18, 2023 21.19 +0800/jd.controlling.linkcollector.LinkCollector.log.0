@@ -1,0 +1,11 @@
+------------------------Thread: 22:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:22TS:1695043153618-2023/9/18 下午 09:19:13 -  [jd.controlling.linkcollector.LinkCollector(<init>)] -> LinkChecker Enabled:true
+------------------------Thread: 52:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:52TS:1695043153807-2023/9/18 下午 09:19:13 -  [jd.controlling.linkcollector.LinkCollector(findAvailableCollectorLists)] -> Collect Lists
+--ID:52TS:1695043153810-2023/9/18 下午 09:19:13 -  [jd.controlling.linkcollector.LinkCollector(findAvailableCollectorLists)] -> Lists: [C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\linkcollector88.zip, C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\linkcollector87.zip, C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\linkcollector86.zip, C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\linkcollector85.zip, C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\linkcollector84.zip, C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\linkcollector83.zip]
+--ID:52TS:1695043153845-2023/9/18 下午 09:19:13 -  [jd.controlling.linkcollector.LinkCollector$17(run)] -> CollectorList found: 5/6
+------------------------Thread: 87:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:87TS:1695043158290-2023/9/18 下午 09:19:18 -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1695043158276|Origin:ADD_LINKS_DIALOG
+--ID:87TS:1695043158406-2023/9/18 下午 09:19:18 -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1695043158276|Origin:ADD_LINKS_DIALOG
+------------------------Thread: 68:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:68TS:1695043748134-2023/9/18 下午 09:29:08 -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1695043748134|Origin:CLIPBOARD|ChangeFlag:DETECTED|Round:1|StringContent:(false|ClipboardHash:-1030273619|ClipboardLength:35)|HTMLFragment:(false|ClipboardHash:0|ClipboardLength:-1)|ListContent:(true|ClipboardHash:1976448210|ClipboardLength:72)

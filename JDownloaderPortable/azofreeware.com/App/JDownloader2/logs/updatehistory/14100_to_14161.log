@@ -1,0 +1,443 @@
+Tue Sep 01 22:50:57 CST 2020
+Package: package_1598971842633.awf
+Install
+Write Revision: 14161
+----------------Plugins----------------
+   jd/plugins/decrypter/AdriveComDecrypter.class
+   jd/plugins/decrypter/Afdah.class.removed
+   jd/plugins/decrypter/AkvideoStreamCrawler.class
+   jd/plugins/decrypter/AlbumEE.class
+   jd/plugins/decrypter/AnimeTheHyliaCom.class
+   jd/plugins/decrypter/AnimexdMe.class.removed
+   jd/plugins/decrypter/ArchiveOrg.class
+   jd/plugins/decrypter/ArtstationCom.class
+   jd/plugins/decrypter/BangbrosCom.class
+   jd/plugins/decrypter/Brds4Chnrg.class
+   jd/plugins/decrypter/BrightcoveDecrypter$BrightcoveClipData.class
+   jd/plugins/decrypter/BrightcoveDecrypter$BrightcoveEdgeContainer$Protocol.class
+   jd/plugins/decrypter/BrightcoveDecrypter$BrightcoveEdgeContainer.class
+   jd/plugins/decrypter/BrightcoveDecrypter.class
+   jd/plugins/decrypter/CamseekTv.class
+   jd/plugins/decrypter/ChoMikujPl.class
+   jd/plugins/decrypter/CouchTuner.class
+   jd/plugins/decrypter/FaceBookComGallery.class
+   jd/plugins/decrypter/FileCryptCc.class
+   jd/plugins/decrypter/FuraffinityNet.class
+   jd/plugins/decrypter/GooglePhotos.class
+   jd/plugins/decrypter/Hamburg1De.class
+   jd/plugins/decrypter/ImageHosterDecrypter.class
+   jd/plugins/decrypter/IssuuCom.class
+   jd/plugins/decrypter/JavdoeCom.class
+   jd/plugins/decrypter/KirmiziturkOrgDecrypter.class.removed
+   jd/plugins/decrypter/KisAmeCm$1.class.removed
+   jd/plugins/decrypter/KisAmeCm$HostType.class.removed
+   jd/plugins/decrypter/KisAmeCm.class.removed
+   jd/plugins/decrypter/LimitsizamcaOrg.class
+   jd/plugins/decrypter/MagentaMusik360.class
+   jd/plugins/decrypter/MangaparkCom.class
+   jd/plugins/decrypter/MegaOtrDe.class.removed
+   jd/plugins/decrypter/MegabooruCom.class.removed
+   jd/plugins/decrypter/MightyScriptAdLinkFly.class
+   jd/plugins/decrypter/NudespreeCom.class
+   jd/plugins/decrypter/OneInkCc.class
+   jd/plugins/decrypter/OracleCom.class
+   jd/plugins/decrypter/PasteItTop.class
+   jd/plugins/decrypter/PornComixInfo.class
+   jd/plugins/decrypter/PornHubCom.class
+   jd/plugins/decrypter/PornZeCom.class.removed
+   jd/plugins/decrypter/PornozavrNet.class
+   jd/plugins/decrypter/PornsexwankCom.class.removed
+   jd/plugins/decrypter/PorntrexComCrawler.class
+   jd/plugins/decrypter/QiannaoComFolder.class.removed
+   jd/plugins/decrypter/RaiItDecrypter.class
+   jd/plugins/decrypter/RggwrldcrwNet$1.class.removed
+   jd/plugins/decrypter/RggwrldcrwNet.class.removed
+   jd/plugins/decrypter/SafeadultsiteCom.class.removed
+   jd/plugins/decrypter/SexCom.class
+   jd/plugins/decrypter/ShotzonCom.class
+   jd/plugins/decrypter/SmvTo.class.removed
+   jd/plugins/decrypter/SourceForgeNet.class
+   jd/plugins/decrypter/StcPrnCom.class.removed
+   jd/plugins/decrypter/StreamMdhBiz.class.removed
+   jd/plugins/decrypter/ThumbzillaCom.class
+   jd/plugins/decrypter/TimeKillerEroticCom.class.removed
+   jd/plugins/decrypter/TwitterCom.class
+   jd/plugins/decrypter/UdemyComDecrypter.class
+   jd/plugins/decrypter/UpdupNet.class.removed
+   jd/plugins/decrypter/VKontakteRu$1.class
+   jd/plugins/decrypter/VKontakteRu.class
+   jd/plugins/decrypter/VepornNet.class
+   jd/plugins/decrypter/VoaYeursCom.class.removed
+   jd/plugins/decrypter/XvideosComProfile.class
+   jd/plugins/decrypter/XxxBunkerCom.class
+   jd/plugins/hoster/AdriveCom.class
+   jd/plugins/hoster/AllnetcorpCom.class.removed
+   jd/plugins/hoster/AnavidsCom.class
+   jd/plugins/hoster/AniStreamCom.class
+   jd/plugins/hoster/AnimeTheHyliaCom.class
+   jd/plugins/hoster/AnonFilesCom.class
+   jd/plugins/hoster/ArchiveOrg.class
+   jd/plugins/hoster/ArchivosMe.class
+   jd/plugins/hoster/BangbrosCom$1.class
+   jd/plugins/hoster/BangbrosCom.class
+   jd/plugins/hoster/BitpornoCom.class
+   jd/plugins/hoster/BoxCaCom.class
+   jd/plugins/hoster/BoyzTubeCom.class
+   jd/plugins/hoster/BrfilesCom.class
+   jd/plugins/hoster/ChoMikujPl$1.class
+   jd/plugins/hoster/ChoMikujPl.class
+   jd/plugins/hoster/CloudMailRu.class
+   jd/plugins/hoster/DebridFileCom.class
+   jd/plugins/hoster/DeepbridCom.class
+   jd/plugins/hoster/DropboxCom$DropboxAccountFactory$1.class
+   jd/plugins/hoster/DropboxCom$DropboxAccountFactory.class
+   jd/plugins/hoster/DropboxCom.class
+   jd/plugins/hoster/EasyfilecloudCom.class.removed
+   jd/plugins/hoster/EnterVideo.class.removed
+   jd/plugins/hoster/EvoloadIo$1.class
+   jd/plugins/hoster/EvoloadIo.class
+   jd/plugins/hoster/FaceBookComVideos.class
+   jd/plugins/hoster/FileddCom.class
+   jd/plugins/hoster/FilefoxCc.class
+   jd/plugins/hoster/FileupOrg.class
+   jd/plugins/hoster/FirefileCc$1.class
+   jd/plugins/hoster/FirefileCc$2.class
+   jd/plugins/hoster/FirefileCc$3.class
+   jd/plugins/hoster/FirefileCc$4.class
+   jd/plugins/hoster/FirefileCc.class
+   jd/plugins/hoster/FreshfilePl.class
+   jd/plugins/hoster/FuraffinityNet.class
+   jd/plugins/hoster/GetfilelicCf.class.removed
+   jd/plugins/hoster/GigaDownCom.class
+   jd/plugins/hoster/GofileIo.class
+   jd/plugins/hoster/GoogleDrive.class
+   jd/plugins/hoster/GooglePhotos.class
+   jd/plugins/hoster/GounlimitedTo.class
+   jd/plugins/hoster/HearthisAt.class
+   jd/plugins/hoster/HighWayMe$1.class
+   jd/plugins/hoster/HighWayMe.class
+   jd/plugins/hoster/HitFileNet.class
+   jd/plugins/hoster/HogTv.class
+   jd/plugins/hoster/HotlinkCc.class
+   jd/plugins/hoster/ImgurComHoster$1.class
+   jd/plugins/hoster/ImgurComHoster$2.class
+   jd/plugins/hoster/ImgurComHoster$3.class
+   jd/plugins/hoster/ImgurComHoster$4.class
+   jd/plugins/hoster/ImgurComHoster$5.class
+   jd/plugins/hoster/ImgurComHoster$RESPONSE_TYPE.class
+   jd/plugins/hoster/ImgurComHoster$TYPE.class
+   jd/plugins/hoster/ImgurComHoster.class
+   jd/plugins/hoster/IssuuCom.class
+   jd/plugins/hoster/ItEbooksDirectory.class.removed
+   jd/plugins/hoster/JetloadNet$1.class
+   jd/plugins/hoster/JetloadNet.class
+   jd/plugins/hoster/KaztubeKz.class.removed
+   jd/plugins/hoster/KernelVideoSharingCom.class
+   jd/plugins/hoster/KirmiziturkOrg.class.removed
+   jd/plugins/hoster/KissAnimeTo.class.removed
+   jd/plugins/hoster/LetsuploadCo.class
+   jd/plugins/hoster/MajorgeeksCom.class
+   jd/plugins/hoster/MamasijayaMe.class.removed
+   jd/plugins/hoster/MammutMailCom.class.removed
+   jd/plugins/hoster/MegaConz$1.class
+   jd/plugins/hoster/MegaConz$2.class
+   jd/plugins/hoster/MegaConz$3.class
+   jd/plugins/hoster/MegaConz$MegaDownloadLinkDownloadable.class
+   jd/plugins/hoster/MegaConz$MegaHashCheck$1.class
+   jd/plugins/hoster/MegaConz$MegaHashCheck.class
+   jd/plugins/hoster/MegaConz.class
+   jd/plugins/hoster/MegaOtrDe.class.removed
+   jd/plugins/hoster/MegabooruCom.class.removed
+   jd/plugins/hoster/MilffoxCom.class
+   jd/plugins/hoster/MkxkCom.class.removed
+   jd/plugins/hoster/MyStoreTo.class
+   jd/plugins/hoster/MyqloudOrg.class
+   jd/plugins/hoster/MyzcloudMe.class
+   jd/plugins/hoster/NetdiskSk.class.removed
+   jd/plugins/hoster/NofileIo.class.removed
+   jd/plugins/hoster/NurKz.class.removed
+   jd/plugins/hoster/Offline.class
+   jd/plugins/hoster/OracleCom.class
+   jd/plugins/hoster/OsUpCom.class.removed
+   jd/plugins/hoster/OxycloudCom.class
+   jd/plugins/hoster/OxycloudPl.class
+   jd/plugins/hoster/PanBaiduwpCom.class.removed
+   jd/plugins/hoster/PimpRollHostedTube.class
+   jd/plugins/hoster/PornologoCom.class.removed
+   jd/plugins/hoster/PornonodCom.class
+   jd/plugins/hoster/PornsexwankCom.class.removed
+   jd/plugins/hoster/PorntrexCom.class
+   jd/plugins/hoster/PreFilesCom.class
+   jd/plugins/hoster/ProchanCom.class.removed
+   jd/plugins/hoster/QiannaoCom.class.removed
+   jd/plugins/hoster/RaiTv.class
+   jd/plugins/hoster/RapidGatorNet.class
+   jd/plugins/hoster/RealDebridCom$2.class
+   jd/plugins/hoster/RealDebridCom$3.class
+   jd/plugins/hoster/RealDebridCom$4.class
+   jd/plugins/hoster/RealDebridCom$5.class
+   jd/plugins/hoster/RealDebridCom$6.class
+   jd/plugins/hoster/RealDebridCom$7.class
+   jd/plugins/hoster/RealDebridCom.class
+   jd/plugins/hoster/ReggaeWorldCrewNet.class.removed
+   jd/plugins/hoster/SexvclPw.class
+   jd/plugins/hoster/ShareXXpgComBr.class.removed
+   jd/plugins/hoster/SharingWtf.class
+   jd/plugins/hoster/SourceForgeNet.class
+   jd/plugins/hoster/SpeedVideoNet.class
+   jd/plugins/hoster/StartfilesOrg.class.removed
+   jd/plugins/hoster/StiahnitoSk.class
+   jd/plugins/hoster/StileProjectCom.class
+   jd/plugins/hoster/StreamsbNet.class
+   jd/plugins/hoster/SubdesuhNet.class.removed
+   jd/plugins/hoster/TagteleCom.class.removed
+   jd/plugins/hoster/TempShareCom.class.removed
+   jd/plugins/hoster/ToutCom.class.removed
+   jd/plugins/hoster/TrannyOne.class
+   jd/plugins/hoster/TriLuLiLuRo.class.removed
+   jd/plugins/hoster/TuTv.class.removed
+   jd/plugins/hoster/TuneScoopCom.class.removed
+   jd/plugins/hoster/TwobayOrg.class
+   jd/plugins/hoster/UberuploadNet.class.removed
+   jd/plugins/hoster/UdemyCom.class
+   jd/plugins/hoster/UdropNet.class.removed
+   jd/plugins/hoster/UlozTo.class
+   jd/plugins/hoster/UltimboxCom.class
+   jd/plugins/hoster/UnknownPornScript3.class
+   jd/plugins/hoster/UnknownPornScript5.class
+   jd/plugins/hoster/UpToBoxCom$1.class
+   jd/plugins/hoster/UpToBoxCom$UptoboxAccountFactory$1.class
+   jd/plugins/hoster/UpToBoxCom$UptoboxAccountFactory.class
+   jd/plugins/hoster/UpToBoxCom.class
+   jd/plugins/hoster/UpdupNet.class.removed
+   jd/plugins/hoster/UploadEarnCom.class.removed
+   jd/plugins/hoster/UploadTwoCom.class.removed
+   jd/plugins/hoster/UploadgigCom.class
+   jd/plugins/hoster/UploadoceanCom.class.removed
+   jd/plugins/hoster/VKontakteRuHoster.class
+   jd/plugins/hoster/VastampleCom.class.removed
+   jd/plugins/hoster/VidiVodoCom.class.removed
+   jd/plugins/hoster/VidsharTv.class
+   jd/plugins/hoster/VoeSx.class
+   jd/plugins/hoster/VoidCat.class.removed
+   jd/plugins/hoster/WeTransferCom.class
+   jd/plugins/hoster/WickedsickTv.class
+   jd/plugins/hoster/WobzipOrg.class.removed
+   jd/plugins/hoster/XHamsterCom$1.class
+   jd/plugins/hoster/XHamsterCom.class
+   jd/plugins/hoster/XTubeCom.class
+   jd/plugins/hoster/XXXAPornCom.class
+   jd/plugins/hoster/XfilesIo.class.removed
+   jd/plugins/hoster/XnXxCom.class
+   jd/plugins/hoster/XxxBunkerCom.class
+   jd/plugins/hoster/XxxkingtubeCom.class.removed
+   jd/plugins/hoster/ZeveraCore.class
+----------------Extensions----------------
+   extensions/AntiShutdown.jar
+   extensions/Extraction.jar
+   extensions/JDShutdown.jar
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------
+   Core.jar
+   JD: Core.jar/META-INF/MANIFEST.MF
+   JD: Core.jar/jd/PluginWrapper.class
+   JD: Core.jar/jd/SecondLevelLaunch$1.class
+   JD: Core.jar/jd/SecondLevelLaunch$10$1$1.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$10$1$2.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$10$1$3.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$10$1$4$1$1.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$10$1$4$1$2.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$10$1$4$1$3.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$10$1$4$1.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$10$1$4$2.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$10$1$4.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$10$1$5$1$1.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$10$1$5$1$2.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$10$1$5$1.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$10$1$5.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$10$1$6$1.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$10$1$6.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$10$1$7.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$10$1.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$10.class
+   JD: Core.jar/jd/SecondLevelLaunch$11.class
+   JD: Core.jar/jd/SecondLevelLaunch$12.class
+   JD: Core.jar/jd/SecondLevelLaunch$13.class
+   JD: Core.jar/jd/SecondLevelLaunch$14.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$2.class
+   JD: Core.jar/jd/SecondLevelLaunch$3.class
+   JD: Core.jar/jd/SecondLevelLaunch$4.class
+   JD: Core.jar/jd/SecondLevelLaunch$5.class
+   JD: Core.jar/jd/SecondLevelLaunch$6.class
+   JD: Core.jar/jd/SecondLevelLaunch$7$1.class
+   JD: Core.jar/jd/SecondLevelLaunch$7.class
+   JD: Core.jar/jd/SecondLevelLaunch$8$1.class.removed
+   JD: Core.jar/jd/SecondLevelLaunch$8.class
+   JD: Core.jar/jd/SecondLevelLaunch$9$1$1.class
+   JD: Core.jar/jd/SecondLevelLaunch$9$1$2.class
+   JD: Core.jar/jd/SecondLevelLaunch$9$1$3.class
+   JD: Core.jar/jd/SecondLevelLaunch$9$1$4$1$1.class
+   JD: Core.jar/jd/SecondLevelLaunch$9$1$4$1$2.class
+   JD: Core.jar/jd/SecondLevelLaunch$9$1$4$1$3.class
+   JD: Core.jar/jd/SecondLevelLaunch$9$1$4$1.class
+   JD: Core.jar/jd/SecondLevelLaunch$9$1$4$2.class
+   JD: Core.jar/jd/SecondLevelLaunch$9$1$4.class
+   JD: Core.jar/jd/SecondLevelLaunch$9$1$5$1$1.class
+   JD: Core.jar/jd/SecondLevelLaunch$9$1$5$1$2.class
+   JD: Core.jar/jd/SecondLevelLaunch$9$1$5$1.class
+   JD: Core.jar/jd/SecondLevelLaunch$9$1$5.class
+   JD: Core.jar/jd/SecondLevelLaunch$9$1$6$1.class
+   JD: Core.jar/jd/SecondLevelLaunch$9$1$6.class
+   JD: Core.jar/jd/SecondLevelLaunch$9$1$7.class
+   JD: Core.jar/jd/SecondLevelLaunch$9$1.class
+   JD: Core.jar/jd/SecondLevelLaunch$9.class
+   JD: Core.jar/jd/SecondLevelLaunch.class
+   JD: Core.jar/jd/plugins/AccountInfo.class
+   JD: Core.jar/jd/utils/JDUtilities.class
+   JD: Core.jar/org/jdownloader/api/jd/JDAPI.class
+   JD: Core.jar/org/jdownloader/api/jd/JDAPIImpl$1.class
+   JD: Core.jar/org/jdownloader/api/jd/JDAPIImpl$2.class.removed
+   JD: Core.jar/org/jdownloader/api/jd/JDAPIImpl.class
+   JD: Core.jar/org/jdownloader/captcha/v2/solver/gui/Header.class
+   JD: Core.jar/org/jdownloader/controlling/contextmenu/gui/Header.class
+   JD: Core.jar/org/jdownloader/gui/jdtrayicon/TrayExtension$4.class
+   JD: Core.jar/org/jdownloader/gui/jdtrayicon/TrayExtension$5.class
+   JD: Core.jar/org/jdownloader/gui/jdtrayicon/TrayExtension$6.class
+   JD: Core.jar/org/jdownloader/gui/jdtrayicon/TrayExtension$7.class
+   JD: Core.jar/org/jdownloader/gui/jdtrayicon/TrayExtension$8.class
+   JD: Core.jar/org/jdownloader/gui/jdtrayicon/TrayExtension$9.class
+   JD: Core.jar/org/jdownloader/gui/jdtrayicon/TrayExtension.class
+   JD: Core.jar/org/jdownloader/gui/toolbar/action/AbstractToolBarAction.class
+   JD: Core.jar/org/jdownloader/gui/views/components/HeaderScrollPane$1.class
+   JD: Core.jar/org/jdownloader/gui/views/components/HeaderScrollPane$2.class
+   JD: Core.jar/org/jdownloader/gui/views/components/HeaderScrollPane.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/overviewpanel/DownloadOverViewHeader.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/LinkGrabberPanel$6.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/LinkGrabberPanel$7.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/LinkGrabberPanel$8.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/LinkGrabberPanel$9.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/LinkGrabberPanel.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/LinkGrabberSideBarHeader.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/properties/AbstractPanelHeader$1.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/properties/AbstractPanelHeader$2.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/properties/AbstractPanelHeader$3.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/properties/AbstractPanelHeader.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$XFSApiAccountFactory$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$XFSApiAccountFactory.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic.class
+   JD: Core.jar/org/jdownloader/plugins/components/YetiShareCore$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/YetiShareCore.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/IssuuComConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RapidGatorConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/XvideosComConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/firefile/
+   JD: Core.jar/org/jdownloader/plugins/components/firefile/FirefileCipherOutputStream.class
+   JD: Core.jar/org/jdownloader/plugins/components/firefile/FirefileLink.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$1.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$CLIPBOARD_SKIP_MODE.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$ConfirmIncompleteArchiveAction$1.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$ConfirmIncompleteArchiveAction$2.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$ConfirmIncompleteArchiveAction$3.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$ConfirmIncompleteArchiveAction$4.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$ConfirmIncompleteArchiveAction.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$CustomIsConfigViewVisible.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DeleteFileOptions$1.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DeleteFileOptions$2.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DeleteFileOptions$3.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DeleteFileOptions.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DockingPosition$1.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DockingPosition$2.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DockingPosition.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DonateButtonState$1.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DonateButtonState$2.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DonateButtonState$3.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DonateButtonState$4.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DonateButtonState.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DownloadFolderChooserDialogDefaultPath$1.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DownloadFolderChooserDialogDefaultPath$2.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DownloadFolderChooserDialogDefaultPath$3.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DownloadFolderChooserDialogDefaultPath.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DownloadFolderChooserDialogSubfolder.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$LinkDoubleClickAction.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$LookAndFeelType.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$MacDockProgressDisplay$1.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$MacDockProgressDisplay$2.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$MacDockProgressDisplay.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$NewLinksInLinkgrabberAction.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$PackageDoubleClickAction.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$Position.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$PremiumStatusBarDisplay.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$RlyWarnLevel.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$SIZEUNIT.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$ShowSpeedInWindowTitleTrigger.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$StartButtonAction.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$WindowsTaskBarProgressDisplay$1.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$WindowsTaskBarProgressDisplay$2.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$WindowsTaskBarProgressDisplay$3.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$WindowsTaskBarProgressDisplay.class
+   JD: extensions/AntiShutdown.jar/META-INF/MANIFEST.MF
+   JD: extensions/AntiShutdown.jar/org/jdownloader/extensions/antistandby/AntiStandbyExtension$1$1.class
+   JD: extensions/AntiShutdown.jar/org/jdownloader/extensions/antistandby/AntiStandbyExtension$1.class
+   JD: extensions/AntiShutdown.jar/org/jdownloader/extensions/antistandby/AntiStandbyExtension$2.class
+   JD: extensions/AntiShutdown.jar/org/jdownloader/extensions/antistandby/AntiStandbyExtension$3.class
+   JD: extensions/AntiShutdown.jar/org/jdownloader/extensions/antistandby/AntiStandbyExtension.class
+   JD: extensions/Extraction.jar/META-INF/MANIFEST.MF
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/ExtractionExtension$1$1.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/ExtractionExtension$1.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/ExtractionExtension$2$1.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/ExtractionExtension$2.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/ExtractionExtension$3.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/ExtractionExtension$4$1.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/ExtractionExtension$4.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/ExtractionExtension$5.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/ExtractionExtension$6.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/ExtractionExtension.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/multi/Multi.class
+   JD: extensions/JDShutdown.jar/META-INF/MANIFEST.MF
+   JD: extensions/JDShutdown.jar/org/jdownloader/extensions/shutdown/ShutdownExtension$1.class
+   JD: extensions/JDShutdown.jar/org/jdownloader/extensions/shutdown/ShutdownExtension$2.class
+   JD: extensions/JDShutdown.jar/org/jdownloader/extensions/shutdown/ShutdownExtension$3.class
+   JD: extensions/JDShutdown.jar/org/jdownloader/extensions/shutdown/ShutdownExtension.class
+   JD: libs/Dynamics.jar/META-INF/MANIFEST.MF
+   JD: libs/JAntiCaptcha.jar/META-INF/MANIFEST.MF
+   JD: libs/JDGUI.jar/META-INF/MANIFEST.MF
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$1$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$2.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$3.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$4$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$4.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/components/IconedProcessIndicator.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/components/toolbar/actions/UpdateAction$1$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/components/toolbar/actions/UpdateAction$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/components/toolbar/actions/UpdateAction$2.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/components/toolbar/actions/UpdateAction$Button$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/components/toolbar/actions/UpdateAction$Button$2.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/components/toolbar/actions/UpdateAction$Button.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/components/toolbar/actions/UpdateAction.class
+   JD: libs/JDHttp.jar/META-INF/MANIFEST.MF
+   JD: libs/JDHttp.jar/jd/http/Browser$1.class
+   JD: libs/JDHttp.jar/jd/http/Browser$2.class
+   JD: libs/JDHttp.jar/jd/http/Browser$BrowserException.class
+   JD: libs/JDHttp.jar/jd/http/Browser.class
+   JD: libs/JDUtils.jar/META-INF/MANIFEST.MF
+   JD: libs/cons.jar/META-INF/MANIFEST.MF
+   JD: libs/laf/syntheticaJDCustom.jar/META-INF/MANIFEST.MF
+   libs/Dynamics.jar
+   libs/JAntiCaptcha.jar
+   libs/JDGUI.jar
+   libs/JDHttp.jar
+   libs/JDUtils.jar
+   libs/cons.jar
+   libs/hsqldb.jar.serverOptions.removed
+   libs/laf/flatlaf.license
+   libs/laf/substance-swingx.jar.serverOptions.removed
+   libs/laf/substance.jar.serverOptions.removed
+   libs/laf/syntheticaJDCustom.jar
+   libs/laf/trident.jar.serverOptions.removed
+   libs/neembuu.removed
+   libs/neembuu.serverOptions.removed
+   licenses/zip4j.jar.info

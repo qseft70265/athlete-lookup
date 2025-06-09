@@ -1,0 +1,25 @@
+Thu Dec 01 15:01:06 CST 2022
+Package: package_1669878014104.awf
+Install
+----------------Exception!----------------
+org.appwork.updatesys.client.InstallException: org.appwork.updatesys.client.FailedActionException: org.appwork.updatesys.client.jardelta.JarMergeException: extensions/JDShutdown.jar
+	at org.appwork.updatesys.client.InstallException.wrap(InstallException.java:65)
+	at org.appwork.updatesys.client.UpdateClient.installPackage(UpdateClient.java:3529)
+	at org.appwork.updatesys.client.UpdateClient.runPackageInstallation(UpdateClient.java:4768)
+	at org.jdownloader.update.JDUpdateClient.runPackageInstallation(JDUpdateClient.java:262)
+	at org.jdownloader.update.UpdateManager.installPendingAWFFiles(UpdateManager.java:719)
+	at org.jdownloader.update.DefaultCallbackHandler.onResults(DefaultCallbackHandler.java:341)
+	at org.jdownloader.update.UpdateManager.runUpdateLoop(UpdateManager.java:1042)
+	at org.jdownloader.update.UpdateManager$8.run(UpdateManager.java:411)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.appwork.updatesys.client.FailedActionException: org.appwork.updatesys.client.jardelta.JarMergeException: extensions/JDShutdown.jar
+	at org.appwork.updatesys.client.UpdateClient.installJar(UpdateClient.java:3356)
+	at org.jdownloader.update.JDUpdateClient.installJar(JDUpdateClient.java:548)
+	at org.appwork.updatesys.client.UpdateClient.installPackage(UpdateClient.java:3466)
+	... 7 more
+Caused by: org.appwork.updatesys.client.jardelta.JarMergeException: extensions/JDShutdown.jar
+	... 10 more
+Caused by: org.appwork.utils.crypto.SignatureViolationException: Path:extensions/JDShutdown.jar|Signatur Check Failed
+	at org.appwork.updatesys.transport.exchange.JarSignature.verify(JarSignature.java:285)
+	at org.appwork.updatesys.client.UpdateClient.installJar(UpdateClient.java:3348)
+	... 9 more

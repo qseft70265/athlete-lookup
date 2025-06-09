@@ -1,0 +1,73 @@
+{
+ "deduplicationMode"   : "INTRA",
+ "dest"                : 16402,
+ "extensions"          : ["antishutdown","shutdown"],
+ "extensionsInstall"   : [],
+ "extensionsUninstall" : [],
+ "hash"                : "7b83692e272a5ea896576f194591ef7c1281f0a340c878e89dd5028972c9cf11",
+ "path"                : "C:\\Users\\seven\\Desktop\\JDownloaderPortable\\azofreeware.com\\App\\JDownloader2\\tmp\\update\\JD\\updatePackage",
+ "pkg"                 : {
+                          "changeLogContentSize" : -1,
+                          "changeLogHash"        : null,
+                          "changeLogSize"        : -1,
+                          "changeLogText"        : null,
+                          "changeLogUrls"        : null,
+                          "contentSize"          : 18453157,
+                          "destRevision"         : 16402,
+                          "diskSpaceChanges"     : {
+                                                    "" : {
+                                                          "changed"  : 462968,
+                                                          "required" : 29272333
+                                                         }
+                                                   },
+                          "downloadID"           : -1,
+                          "hash"                 : "7b83692e272a5ea896576f194591ef7c1281f0a340c878e89dd5028972c9cf11",
+                          "revisionName"         : null,
+                          "size"                 : 9168896,
+                          "updateFlags"          : null,
+                          "urls"                 : [
+                                                    {
+                                                     "priority" : 80,
+                                                     "url"      : "http://cdn9.appwork.org/JD/16402/16694252796022f3ca24bd89856aa2e6b1e799c2b7588_072b66ef75b9aa59ac6173d61007e1e51131dfb71-16258"
+                                                    },
+                                                    {
+                                                     "priority" : 80,
+                                                     "url"      : "http://cdn7.appwork.org/JD/16402/16694252796022f3ca24bd89856aa2e6b1e799c2b7588_072b66ef75b9aa59ac6173d61007e1e51131dfb71-16258"
+                                                    },
+                                                    {
+                                                     "priority" : 80,
+                                                     "url"      : "http://cdn1.appwork.org/JD/16402/16694252796022f3ca24bd89856aa2e6b1e799c2b7588_072b66ef75b9aa59ac6173d61007e1e51131dfb71-16258"
+                                                    },
+                                                    {
+                                                     "priority" : 80,
+                                                     "url"      : "http://cdn4.appwork.org/JD/16402/16694252796022f3ca24bd89856aa2e6b1e799c2b7588_072b66ef75b9aa59ac6173d61007e1e51131dfb71-16258"
+                                                    },
+                                                    {
+                                                     "priority" : 80,
+                                                     "url"      : "http://cdn6.appwork.org/JD/16402/16694252796022f3ca24bd89856aa2e6b1e799c2b7588_072b66ef75b9aa59ac6173d61007e1e51131dfb71-16258"
+                                                    },
+                                                    {
+                                                     "priority" : 80,
+                                                     "url"      : "http://cdn8.appwork.org/JD/16402/16694252796022f3ca24bd89856aa2e6b1e799c2b7588_072b66ef75b9aa59ac6173d61007e1e51131dfb71-16258"
+                                                    },
+                                                    {
+                                                     "priority" : 80,
+                                                     "url"      : "http://cdn10.appwork.org/JD/16402/16694252796022f3ca24bd89856aa2e6b1e799c2b7588_072b66ef75b9aa59ac6173d61007e1e51131dfb71-16258"
+                                                    },
+                                                    {
+                                                     "priority" : 80,
+                                                     "url"      : "http://cdn11.appwork.org/JD/16402/16694252796022f3ca24bd89856aa2e6b1e799c2b7588_072b66ef75b9aa59ac6173d61007e1e51131dfb71-16258"
+                                                    },
+                                                    {
+                                                     "priority" : 80,
+                                                     "url"      : "http://cdn12.appwork.org/JD/16402/16694252796022f3ca24bd89856aa2e6b1e799c2b7588_072b66ef75b9aa59ac6173d61007e1e51131dfb71-16258"
+                                                    }
+                                                   ],
+                          "encrypted"            : true,
+                          "status"               : "URL",
+                          "timeStamp"            : 1669877981311
+                         },
+ "size"                : 9168896,
+ "src"                 : 16258,
+ "jarDiff"             : true
+}

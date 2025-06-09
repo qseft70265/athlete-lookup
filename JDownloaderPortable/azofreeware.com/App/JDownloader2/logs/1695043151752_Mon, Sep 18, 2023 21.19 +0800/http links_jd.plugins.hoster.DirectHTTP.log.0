@@ -1,0 +1,233 @@
+------------------------Thread: 99:http links_jd.plugins.hoster.DirectHTTP-----------------------
+--ID:99TS:1695043159497-2023/9/18 下午 09:19:19 -  [jd.controlling.linkchecker.LinkChecker(updateAvailableStatus)] -> Check FileInformation: https://img.wolongimg.com:65/upload/vod/20230519-1/e65da5232d182de79d0ac37797d50054.jpg
+--ID:99TS:1695043159497-2023/9/18 下午 09:19:19 -  [jd.plugins.hoster.DirectHTTP(requestFileInformation)] -> OptionSet:[]
+--ID:99TS:1695043162639-2023/9/18 下午 09:19:22 -  [jd.http.Browser(openRequestConnection)] -> 
+Caller: org.jdownloader.plugins.components.antiDDoSForHost.openAntiDDoSRequestConnection(antiDDoSForHost.java:363)
+jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:631)
+jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:598)
+jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:943)
+jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:712)
+jd.plugins.PluginForHost.checkLink(PluginForHost.java:2198)
+jd.controlling.linkchecker.LinkChecker.updateAvailableStatus(LinkChecker.java:568)
+jd.controlling.linkchecker.LinkChecker.access$200(LinkChecker.java:38)
+jd.controlling.linkchecker.LinkChecker$1.run(LinkChecker.java:429)
+BrowserID:2|BrowserParentID:-1|RequestID:1|URL:https://img.wolongimg.com:65/upload/vod/20230519-1/e65da5232d182de79d0ac37797d50054.jpg
+----------------Request Information-------------
+URL: https://img.wolongimg.com:65/upload/vod/20230519-1/e65da5232d182de79d0ac37797d50054.jpg
+Host: img.wolongimg.com
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------ConnectionExceptions-------------------------
+0:img.wolongimg.com/50.28.59.161:65|java.net.ConnectException(Connection refused: connect)|retrySSL:null
+----------------Request-------------------------
+-------------Not Connected Yet!-----------------
+
+----------------Response Information------------
+-------------Not Connected Yet!------------------
+
+
+--ID:99TS:1695043162639-2023/9/18 下午 09:19:22 -  [] -> Exception thrown at jd.http.Browser.openRequestConnection(Browser.java:2064):
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.connect(HTTPConnectionImpl.java:950)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.finalizeConnect(HTTPConnectionImpl.java:1329)
+	at jd.http.Request.connect(Request.java:374)
+	at jd.http.Request.connect(Request.java:361)
+	at jd.http.Browser.openRequestConnection(Browser.java:2027)
+	at jd.http.Browser.openRequestConnection(Browser.java:1883)
+	at org.jdownloader.plugins.components.antiDDoSForHost.openAntiDDoSRequestConnection(antiDDoSForHost.java:363)
+	at jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:631)
+	at jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:598)
+	at jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:943)
+	at jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:712)
+	at jd.plugins.PluginForHost.checkLink(PluginForHost.java:2198)
+	at jd.controlling.linkchecker.LinkChecker.updateAvailableStatus(LinkChecker.java:568)
+	at jd.controlling.linkchecker.LinkChecker.access$200(LinkChecker.java:38)
+	at jd.controlling.linkchecker.LinkChecker$1.run(LinkChecker.java:429)
+
+--ID:99TS:1695043165782-2023/9/18 下午 09:19:25 -  [jd.http.Browser(openRequestConnection)] -> 
+Caller: org.jdownloader.plugins.components.antiDDoSForHost.openAntiDDoSRequestConnection(antiDDoSForHost.java:363)
+jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:679)
+jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:598)
+jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:943)
+jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:712)
+jd.plugins.PluginForHost.checkLink(PluginForHost.java:2198)
+jd.controlling.linkchecker.LinkChecker.updateAvailableStatus(LinkChecker.java:568)
+jd.controlling.linkchecker.LinkChecker.access$200(LinkChecker.java:38)
+jd.controlling.linkchecker.LinkChecker$1.run(LinkChecker.java:429)
+BrowserID:2|BrowserParentID:-1|RequestID:2|URL:https://img.wolongimg.com:65/upload/vod/20230519-1/e65da5232d182de79d0ac37797d50054.jpg
+----------------Request Information-------------
+URL: https://img.wolongimg.com:65/upload/vod/20230519-1/e65da5232d182de79d0ac37797d50054.jpg
+Host: img.wolongimg.com
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------ConnectionExceptions-------------------------
+0:img.wolongimg.com/50.28.59.161:65|java.net.ConnectException(Connection refused: connect)|retrySSL:null
+----------------Request-------------------------
+-------------Not Connected Yet!-----------------
+
+----------------Response Information------------
+-------------Not Connected Yet!------------------
+
+
+--ID:99TS:1695043165782-2023/9/18 下午 09:19:25 -  [] -> Exception thrown at jd.http.Browser.openRequestConnection(Browser.java:2064):
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.connect(HTTPConnectionImpl.java:950)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.finalizeConnect(HTTPConnectionImpl.java:1329)
+	at jd.http.Request.connect(Request.java:374)
+	at jd.http.Request.connect(Request.java:361)
+	at jd.http.Browser.openRequestConnection(Browser.java:2027)
+	at jd.http.Browser.openRequestConnection(Browser.java:1883)
+	at org.jdownloader.plugins.components.antiDDoSForHost.openAntiDDoSRequestConnection(antiDDoSForHost.java:363)
+	at jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:679)
+	at jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:598)
+	at jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:943)
+	at jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:712)
+	at jd.plugins.PluginForHost.checkLink(PluginForHost.java:2198)
+	at jd.controlling.linkchecker.LinkChecker.updateAvailableStatus(LinkChecker.java:568)
+	at jd.controlling.linkchecker.LinkChecker.access$200(LinkChecker.java:38)
+	at jd.controlling.linkchecker.LinkChecker$1.run(LinkChecker.java:429)
+
+--ID:99TS:1695043165782-2023/9/18 下午 09:19:25 -  [] -> Exception thrown at jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:1308):
+jd.http.Browser$BrowserException: Caller: org.jdownloader.plugins.components.antiDDoSForHost.openAntiDDoSRequestConnection(antiDDoSForHost.java:363)
+jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:679)
+jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:598)
+jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:943)
+jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:712)
+jd.plugins.PluginForHost.checkLink(PluginForHost.java:2198)
+jd.controlling.linkchecker.LinkChecker.updateAvailableStatus(LinkChecker.java:568)
+jd.controlling.linkchecker.LinkChecker.access$200(LinkChecker.java:38)
+jd.controlling.linkchecker.LinkChecker$1.run(LinkChecker.java:429)
+BrowserID:2|BrowserParentID:-1|RequestID:2|URL:https://img.wolongimg.com:65/upload/vod/20230519-1/e65da5232d182de79d0ac37797d50054.jpg
+----------------Request Information-------------
+URL: https://img.wolongimg.com:65/upload/vod/20230519-1/e65da5232d182de79d0ac37797d50054.jpg
+Host: img.wolongimg.com
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------ConnectionExceptions-------------------------
+0:img.wolongimg.com/50.28.59.161:65|java.net.ConnectException(Connection refused: connect)|retrySSL:null
+----------------Request-------------------------
+-------------Not Connected Yet!-----------------
+
+----------------Response Information------------
+-------------Not Connected Yet!------------------
+
+
+	at jd.http.Browser.openRequestConnection(Browser.java:2075)
+	at jd.http.Browser.openRequestConnection(Browser.java:1883)
+	at org.jdownloader.plugins.components.antiDDoSForHost.openAntiDDoSRequestConnection(antiDDoSForHost.java:363)
+	at jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:679)
+	at jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:598)
+	at jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:943)
+	at jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:712)
+	at jd.plugins.PluginForHost.checkLink(PluginForHost.java:2198)
+	at jd.controlling.linkchecker.LinkChecker.updateAvailableStatus(LinkChecker.java:568)
+	at jd.controlling.linkchecker.LinkChecker.access$200(LinkChecker.java:38)
+	at jd.controlling.linkchecker.LinkChecker$1.run(LinkChecker.java:429)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.connect(HTTPConnectionImpl.java:950)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.finalizeConnect(HTTPConnectionImpl.java:1329)
+	at jd.http.Request.connect(Request.java:374)
+	at jd.http.Request.connect(Request.java:361)
+	at jd.http.Browser.openRequestConnection(Browser.java:2027)
+	... 10 more
+
+--ID:99TS:1695043165783-2023/9/18 下午 09:19:25 -  [jd.http.Browser(setProxySelector)] -> Use local proxy: 直接連線 wished: 直接連線
+--ID:99TS:1695043166243-2023/9/18 下午 09:19:26 -  [] -> Exception thrown at jd.controlling.linkchecker.LinkChecker.updateAvailableStatus(LinkChecker.java:570):
+jd.plugins.PluginException: Network problem: Caller: org.jdownloader.plugins.components.antiDDoSForHost.openAntiDDoSRequestConnection(antiDDoSForHost.java:363)
+jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:679)
+jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:598)
+jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:943)
+jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:712)
+jd.plugins.PluginForHost.checkLink(PluginForHost.java:2198)
+jd.controlling.linkchecker.LinkChecker.updateAvailableStatus(LinkChecker.java:568)
+jd.controlling.linkchecker.LinkChecker.access$200(LinkChecker.java:38)
+jd.controlling.linkchecker.LinkChecker$1.run(LinkChecker.java:429)
+BrowserID:2|BrowserParentID:-1|RequestID:2|URL:https://img.wolongimg.com:65/upload/vod/20230519-1/e65da5232d182de79d0ac37797d50054.jpg
+----------------Request Information-------------
+URL: https://img.wolongimg.com:65/upload/vod/20230519-1/e65da5232d182de79d0ac37797d50054.jpg
+Host: img.wolongimg.com
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------ConnectionExceptions-------------------------
+0:img.wolongimg.com/50.28.59.161:65|java.net.ConnectException(Connection refused: connect)|retrySSL:null
+----------------Request-------------------------
+-------------Not Connected Yet!-----------------
+
+----------------Response Information------------
+-------------Not Connected Yet!------------------
+
+->ERROR_TEMPORARILY_UNAVAILABLE|Value:1800000
+	at jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:1332)
+	at jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:712)
+	at jd.plugins.PluginForHost.checkLink(PluginForHost.java:2198)
+	at jd.controlling.linkchecker.LinkChecker.updateAvailableStatus(LinkChecker.java:568)
+	at jd.controlling.linkchecker.LinkChecker.access$200(LinkChecker.java:38)
+	at jd.controlling.linkchecker.LinkChecker$1.run(LinkChecker.java:429)
+Caused by: jd.http.Browser$BrowserException: Caller: org.jdownloader.plugins.components.antiDDoSForHost.openAntiDDoSRequestConnection(antiDDoSForHost.java:363)
+jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:679)
+jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:598)
+jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:943)
+jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:712)
+jd.plugins.PluginForHost.checkLink(PluginForHost.java:2198)
+jd.controlling.linkchecker.LinkChecker.updateAvailableStatus(LinkChecker.java:568)
+jd.controlling.linkchecker.LinkChecker.access$200(LinkChecker.java:38)
+jd.controlling.linkchecker.LinkChecker$1.run(LinkChecker.java:429)
+BrowserID:2|BrowserParentID:-1|RequestID:2|URL:https://img.wolongimg.com:65/upload/vod/20230519-1/e65da5232d182de79d0ac37797d50054.jpg
+----------------Request Information-------------
+URL: https://img.wolongimg.com:65/upload/vod/20230519-1/e65da5232d182de79d0ac37797d50054.jpg
+Host: img.wolongimg.com
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------ConnectionExceptions-------------------------
+0:img.wolongimg.com/50.28.59.161:65|java.net.ConnectException(Connection refused: connect)|retrySSL:null
+----------------Request-------------------------
+-------------Not Connected Yet!-----------------
+
+----------------Response Information------------
+-------------Not Connected Yet!------------------
+
+
+	at jd.http.Browser.openRequestConnection(Browser.java:2075)
+	at jd.http.Browser.openRequestConnection(Browser.java:1883)
+	at org.jdownloader.plugins.components.antiDDoSForHost.openAntiDDoSRequestConnection(antiDDoSForHost.java:363)
+	at jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:679)
+	at jd.plugins.hoster.DirectHTTP.prepareConnection(DirectHTTP.java:598)
+	at jd.plugins.hoster.DirectHTTP.requestFileInformation(DirectHTTP.java:943)
+	... 5 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.connect(HTTPConnectionImpl.java:950)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.finalizeConnect(HTTPConnectionImpl.java:1329)
+	at jd.http.Request.connect(Request.java:374)
+	at jd.http.Request.connect(Request.java:361)
+	at jd.http.Browser.openRequestConnection(Browser.java:2027)
+	... 10 more
+
+--ID:99TS:1695043166243-2023/9/18 下午 09:19:26 -  [jd.controlling.linkchecker.LinkChecker(updateAvailableStatus)] -> Link https://img.wolongimg.com:65/upload/vod/20230519-1/e65da5232d182de79d0ac37797d50054.jpg is UNCHECKABLE

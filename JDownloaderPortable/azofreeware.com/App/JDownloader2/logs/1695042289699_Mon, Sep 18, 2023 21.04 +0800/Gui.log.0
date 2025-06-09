@@ -1,0 +1,34 @@
+------------------------Thread: 22:Gui.log-----------------------
+--ID:22TS:1695042292031-2023/9/18 下午 09:04:52 -  [jd.gui.swing.jdgui.JDGui(internalInitLocationAndDimension)] -> Check if Screen Location are ok java.awt.Point[x=597,y=318] - java.awt.Dimension[width=1789,height=728]
+------------------------Thread: 41:Gui.log-----------------------
+--ID:41TS:1695042292110-2023/9/18 下午 09:04:52 -  [jd.gui.swing.jdgui.JDGui$27(run)] -> Update bug Finder
+--ID:41TS:1695042292110-2023/9/18 下午 09:04:52 -  [jd.gui.swing.jdgui.JDGui$27(run)] -> Find Counter
+--ID:41TS:1695042292111-2023/9/18 下午 09:04:52 -  [jd.gui.swing.jdgui.JDGui$27(run)] -> C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\JDownloader.jar
+--ID:41TS:1695042292111-2023/9/18 下午 09:04:52 -  [jd.gui.swing.jdgui.JDGui$27(run)] -> Done: 1
+--ID:41TS:1695042293117-2023/9/18 下午 09:04:53 -  [jd.gui.swing.jdgui.JDGui$27(run)] -> Gogogo 1
+------------------------Thread: 22:Gui.log-----------------------
+--ID:22TS:1695042300245-2023/9/18 下午 09:05:00 -  [jd.gui.swing.jdgui.JDGui$24(edtRun)] -> SilentMode: Mainframe has Focus: 
+--ID:22TS:1695042301858-2023/9/18 下午 09:05:01 -  [jd.gui.swing.jdgui.JDGui$24(edtRun)] -> SilentMode: Mainframe has Focus: 
+--ID:22TS:1695042301859-2023/9/18 下午 09:05:01 -  [jd.gui.swing.jdgui.JDGui$24(edtRun)] -> SilentMode: Mainframe has Focus: 
+--ID:22TS:1695042307746-2023/9/18 下午 09:05:07 -  [jd.gui.swing.jdgui.JDGui$24(edtRun)] -> SilentMode: No SilentMode. Active Window: org.appwork.utils.swing.dialog.AbstractDialog$10[正在爬行取得下載,897,622,455x121,invalid,layout=java.awt.BorderLayout,MODELESS,title=正在爬行取得下載,defaultCloseOperation=DO_NOTHING_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,439x82,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.synth.SynthBorder@1abe16,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]
+--ID:22TS:1695042313083-2023/9/18 下午 09:05:13 -  [jd.gui.swing.jdgui.JDGui$24(edtRun)] -> SilentMode: Mainframe has Focus: 
+--ID:22TS:1695042365454-2023/9/18 下午 09:06:05 -  [jd.gui.swing.jdgui.JDGui$24(edtRun)] -> SilentMode: auto false
+--ID:22TS:1695042629373-2023/9/18 下午 09:10:29 -  [jd.gui.swing.jdgui.JDGui$24(edtRun)] -> SilentMode: Mainframe has Focus: 
+--ID:22TS:1695042630983-2023/9/18 下午 09:10:30 -  [jd.gui.swing.jdgui.JDGui$24(edtRun)] -> SilentMode: Mainframe has Focus: 
+--ID:22TS:1695042630985-2023/9/18 下午 09:10:30 -  [jd.gui.swing.jdgui.JDGui$24(edtRun)] -> SilentMode: Mainframe has Focus: 
+--ID:22TS:1695042633716-2023/9/18 下午 09:10:33 -  [jd.gui.swing.jdgui.JDGui$24(edtRun)] -> SilentMode: No SilentMode. Active Window: org.appwork.utils.swing.dialog.AbstractDialog$10[正在爬行取得下載,897,622,439x121,invalid,layout=java.awt.BorderLayout,MODELESS,title=正在爬行取得下載,defaultCloseOperation=DO_NOTHING_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,423x82,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.synth.SynthBorder@f92723,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]
+--ID:22TS:1695042746151-2023/9/18 下午 09:12:26 -  [jd.gui.swing.jdgui.JDGui$24(edtRun)] -> SilentMode: Mainframe has Focus: 
+--ID:22TS:1695042747516-2023/9/18 下午 09:12:27 -  [jd.gui.swing.jdgui.JDGui$34(edtRun)] -> Reset frame to 
+{
+ "extendedState"  : "NORMAL",
+ "height"         : 728,
+ "screenID"       : "\\Display0",
+ "width"          : 1430,
+ "x"              : 597,
+ "y"              : 318,
+ "active"         : false,
+ "focus"          : false,
+ "locationSet"    : true,
+ "silentShutdown" : false,
+ "visible"        : true
+}

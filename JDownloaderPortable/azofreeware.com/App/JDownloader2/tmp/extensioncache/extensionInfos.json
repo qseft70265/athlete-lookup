@@ -1,0 +1,50 @@
+[
+ {
+  "classname"        : "org.jdownloader.extensions.antistandby.AntiStandbyExtension",
+  "configInterface"  : "org.jdownloader.extensions.antistandby.AntiStandbyConfig",
+  "description"      : "簡單的防止您的電腦進入待機或休眠模式，以保持下載動作。",
+  "iconPath"         : "settings",
+  "jarPath"          : "C:\\Users\\User\\Desktop\\JDownloaderPortable\\azofreeware.com\\App\\JDownloader2\\extensions\\AntiShutdown.jar",
+  "lng"              : "zh_TW",
+  "name"             : "防止待機",
+  "version"          : -1,
+  "headlessRunnable" : true,
+  "linuxRunnable"    : false,
+  "macRunnable"      : true,
+  "quickToggle"      : true,
+  "settings"         : true,
+  "windowsRunnable"  : true
+ },
+ {
+  "classname"        : "org.jdownloader.extensions.extraction.ExtractionExtension",
+  "configInterface"  : "org.jdownloader.extensions.extraction.ExtractionConfig",
+  "description"      : "解壓縮所有常用類型的壓縮檔 (zip、rar、7zip、......)",
+  "iconPath"         : "extract",
+  "jarPath"          : "C:\\Users\\User\\Desktop\\JDownloaderPortable\\azofreeware.com\\App\\JDownloader2\\extensions\\Extraction.jar",
+  "lng"              : "zh_TW",
+  "name"             : "壓縮檔解壓縮程式",
+  "version"          : -1,
+  "headlessRunnable" : true,
+  "linuxRunnable"    : true,
+  "macRunnable"      : true,
+  "quickToggle"      : false,
+  "settings"         : true,
+  "windowsRunnable"  : true
+ },
+ {
+  "classname"        : "org.jdownloader.extensions.shutdown.ShutdownExtension",
+  "configInterface"  : "org.jdownloader.extensions.shutdown.ShutdownConfig",
+  "description"      : "當下載完成時將會自動關機、暫停、休眠您的電腦或關閉 JDownloader。",
+  "iconPath"         : "logout",
+  "jarPath"          : "C:\\Users\\User\\Desktop\\JDownloaderPortable\\azofreeware.com\\App\\JDownloader2\\extensions\\JDShutdown.jar",
+  "lng"              : "zh_TW",
+  "name"             : "JD 關機",
+  "version"          : -1,
+  "headlessRunnable" : true,
+  "linuxRunnable"    : true,
+  "macRunnable"      : true,
+  "quickToggle"      : false,
+  "settings"         : true,
+  "windowsRunnable"  : true
+ }
+]

@@ -1,0 +1,196 @@
+------------------------Thread: 22:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:22TS:1695042291498-2023/9/18 下午 09:04:51 -  [jd.controlling.downloadcontroller.DownloadWatchDog(<init>)] -> USE_AVAILABLE_ACCOUNTS: true
+------------------------Thread: 33:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:33TS:1695042313073-2023/9/18 下午 09:05:13 -  [jd.controlling.downloadcontroller.DownloadWatchDog$25(execute)] -> DownloadWatchDog: start
+------------------------Thread: 124:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:124TS:1695042313093-2023/9/18 下午 09:05:13 -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:C:\Users\User\Desktop\《玉水站之鬼》完整版 2023年金宝罗、金宰铉主演的恐怖片 《옥수역귀신》#2023youtube (192kbit_AAC).m4a.part|Root(s):[C:\]|Requestor:null|RequestedSpace:313.14 MB|UsableSpace:99.29 GB
+--ID:124TS:1695042313094-2023/9/18 下午 09:05:13 -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:《玉水站之鬼》完整版 2023年金宝罗、金宰铉主演的恐怖片 《옥수역귀신》#2023youtube (192kbit_AAC).m4a@youtube.com|Host youtube.com|Account:Plugin:youtube.com|Version:48194|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 121:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:121TS:1695042313097-2023/9/18 下午 09:05:13 -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: C:\Users\User\Desktop\《玉水站之鬼》完整版 2023年金宝罗、金宰铉主演的恐怖片 《옥수역귀신》#2023youtube (192kbit_AAC).m4a
+------------------------Thread: 124:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:124TS:1695042313102-2023/9/18 下午 09:05:13 -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:C:\Users\User\Desktop\《玉水站之鬼》完整版 2023年金宝罗、金宰铉主演的恐怖片 《옥수역귀신》#2023youtube (1080p_30fps_H264-128kbit_AAC).mp4.part|Root(s):[C:\]|Requestor:null|RequestedSpace:599.91 MB|UsableSpace:99.29 GB
+--ID:124TS:1695042313102-2023/9/18 下午 09:05:13 -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:《玉水站之鬼》完整版 2023年金宝罗、金宰铉主演的恐怖片 《옥수역귀신》#2023youtube (1080p_30fps_H264-128kbit_AAC).mp4@youtube.com|Host youtube.com|Account:Plugin:youtube.com|Version:48194|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 121:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:121TS:1695042313102-2023/9/18 下午 09:05:13 -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: C:\Users\User\Desktop\《玉水站之鬼》完整版 2023年金宝罗、金宰铉主演的恐怖片 《옥수역귀신》#2023youtube (1080p_30fps_H264-128kbit_AAC).mp4
+------------------------Thread: 124:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:124TS:1695042313116-2023/9/18 下午 09:05:13 -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:C:\Users\User\Desktop\《玉水站之鬼》完整版 2023年金宝罗、金宰铉主演的恐怖片 《옥수역귀신》#2023youtube (HQ).jpg.part|Root(s):[C:\]|Requestor:null|RequestedSpace:128.04 MB|UsableSpace:99.29 GB
+--ID:124TS:1695042313116-2023/9/18 下午 09:05:13 -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:《玉水站之鬼》完整版 2023年金宝罗、金宰铉主演的恐怖片 《옥수역귀신》#2023youtube (HQ).jpg@youtube.com|Host youtube.com|Account:Plugin:youtube.com|Version:48194|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 121:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:121TS:1695042313116-2023/9/18 下午 09:05:13 -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: C:\Users\User\Desktop\《玉水站之鬼》完整版 2023年金宝罗、金宰铉主演的恐怖片 《옥수역귀신》#2023youtube (HQ).jpg
+------------------------Thread: 124:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:124TS:1695042313189-2023/9/18 下午 09:05:13 -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:《玉水站之鬼》完整版 2023年金宝罗、金宰铉主演的恐怖片 《옥수역귀신》#2023youtube (HQ).jpg@youtube.com|Host youtube.com|Account:Plugin:youtube.com|Version:48194|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->FINISHED
+--ID:124TS:1695042313196-2023/9/18 下午 09:05:13 -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:C:\Users\User\Desktop\《玉水站之鬼》完整版 2023年金宝罗、金宰铉主演的恐怖片 《옥수역귀신》#2023youtube (描述).txt.part|Root(s):[C:\]|Requestor:null|RequestedSpace:128.00 MB|UsableSpace:99.29 GB
+--ID:124TS:1695042313197-2023/9/18 下午 09:05:13 -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:《玉水站之鬼》完整版 2023年金宝罗、金宰铉主演的恐怖片 《옥수역귀신》#2023youtube (描述).txt@youtube.com|Host youtube.com|Account:Plugin:youtube.com|Version:48194|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 121:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:121TS:1695042313197-2023/9/18 下午 09:05:13 -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: C:\Users\User\Desktop\《玉水站之鬼》完整版 2023年金宝罗、金宰铉主演的恐怖片 《옥수역귀신》#2023youtube (描述).txt
+------------------------Thread: 124:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:124TS:1695042313222-2023/9/18 下午 09:05:13 -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:《玉水站之鬼》完整版 2023年金宝罗、金宰铉主演的恐怖片 《옥수역귀신》#2023youtube (描述).txt@youtube.com|Host youtube.com|Account:Plugin:youtube.com|Version:48194|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->FINISHED
+--ID:124TS:1695042333410-2023/9/18 下午 09:05:33 -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:《玉水站之鬼》完整版 2023年金宝罗、金宰铉主演的恐怖片 《옥수역귀신》#2023youtube (192kbit_AAC).m4a@youtube.com|Host youtube.com|Account:Plugin:youtube.com|Version:48194|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->FINISHED
+--ID:124TS:1695042360448-2023/9/18 下午 09:06:00 -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:《玉水站之鬼》完整版 2023年金宝罗、金宰铉主演的恐怖片 《옥수역귀신》#2023youtube (1080p_30fps_H264-128kbit_AAC).mp4@youtube.com|Host youtube.com|Account:Plugin:youtube.com|Version:48194|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->FINISHED
+--ID:124TS:1695042361701-2023/9/18 下午 09:06:01 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 3750 for new ActivationRequests
+--ID:124TS:1695042362951-2023/9/18 下午 09:06:02 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 2500 for new ActivationRequests
+--ID:124TS:1695042364202-2023/9/18 下午 09:06:04 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 1249 for new ActivationRequests
+--ID:124TS:1695042365452-2023/9/18 下午 09:06:05 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 0 for new ActivationRequests
+--ID:124TS:1695042365452-2023/9/18 下午 09:06:05 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Waited 5001 but no new ActivationRequests are available->Stop DownloadWatchDog
+--ID:124TS:1695042365452-2023/9/18 下午 09:06:05 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> DownloadWatchDog: stopping
+--ID:124TS:1695042365453-2023/9/18 下午 09:06:05 -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> DownloadWatchDog: stopped

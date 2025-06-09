@@ -1,0 +1,21 @@
+Tue Jun 01 23:31:36 CST 2021
+Package: updatePackage.awf
+   JD: JDownloader.jar/org/appwork/updatesys/client/defaultimpl/http/HttpBackend.class
+   JD: JDownloader.jar/org/appwork/updatesys/client/defaultimpl/http/HttpClientImpl$3.class
+   JD: JDownloader.jar/org/appwork/updatesys/client/defaultimpl/http/HttpClientImpl$4.class
+   JD: JDownloader.jar/org/appwork/updatesys/client/defaultimpl/http/HttpClientImpl.class
+   JD: JDownloader.jar/org/appwork/updatesys/transport/exchange/LastChanceResponse.class
+   JD: JDownloader.jar/org/appwork/utils/net/BasicHTTP/InvalidResponseCode.class
+   JD: JDownloader.jar/org/appwork/utils/net/URLHelper.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/HTTPConnectionImpl$3.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/HTTPConnectionImpl$4.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/HTTPConnectionImpl.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/HTTPProxyHTTPConnectionImpl.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/JavaSSLSocketStreamFactory$1.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/JavaSSLSocketStreamFactory$2.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/JavaSSLSocketStreamFactory$3.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/JavaSSLSocketStreamFactory$TLS.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/JavaSSLSocketStreamFactory.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/SSLSocketStreamOptions$1.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/SSLSocketStreamOptions.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/SocksHTTPconnection.class

@@ -1,0 +1,5 @@
+------------------------Thread: 22:TrayExtension.log-----------------------
+--ID:22TS:1695042292365-2023/9/18 下午 09:04:52 -  [org.jdownloader.gui.jdtrayicon.TrayExtension$2$1(runInEDT)] -> JDLightTrayIcon Init complete
+--ID:22TS:1695042292377-2023/9/18 下午 09:04:52 -  [org.jdownloader.gui.jdtrayicon.TrayExtension$1$1(runInEDT)] -> Systemtray OK
+--ID:22TS:1695042292364-2023/9/18 下午 09:04:52 -  [org.jdownloader.gui.jdtrayicon.TrayExtension$2$1(runInEDT)] -> TrayIconSize:16x16->IconSize:16x16
+--ID:22TS:1695042291921-2023/9/18 下午 09:04:51 -  [org.jdownloader.extensions.AbstractExtension(init)] -> Init Duration: 70

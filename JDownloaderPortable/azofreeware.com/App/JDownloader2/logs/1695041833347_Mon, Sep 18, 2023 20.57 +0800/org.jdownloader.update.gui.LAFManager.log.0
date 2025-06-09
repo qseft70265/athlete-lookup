@@ -1,0 +1,6 @@
+------------------------Thread: 24:org.jdownloader.update.gui.LAFManager.log-----------------------
+--ID:24TS:1695041850276-2023/9/18 下午 08:57:30 -  [org.jdownloader.update.gui.LAFManager(init)] -> Load C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.GraphicalUserInterfaceSettings.json
+--ID:24TS:1695041850279-2023/9/18 下午 08:57:30 -  [org.jdownloader.update.gui.LAFManager(init)] -> Init LAF: org.jdownloader.gui.laf.jddefault.JDDefaultLookAndFeel
+--ID:24TS:1695041850279-2023/9/18 下午 08:57:30 -  [org.jdownloader.update.gui.LAFManager(init)] -> Add to classpath: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\libs\laf\synthetica.jar
+--ID:24TS:1695041850280-2023/9/18 下午 08:57:30 -  [org.jdownloader.update.gui.LAFManager(init)] -> Add to classpath: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\libs\laf\syntheticaJDCustom.jar
+--ID:24TS:1695041850280-2023/9/18 下午 08:57:30 -  [org.jdownloader.update.gui.LAFManager(init)] -> Add to classpath: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\libs\laf\syntheticaSimple2D.jar

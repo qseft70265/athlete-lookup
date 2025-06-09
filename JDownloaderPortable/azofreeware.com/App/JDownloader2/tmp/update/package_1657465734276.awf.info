@@ -1,0 +1,12 @@
+{
+ "file"                : "package_1657465734276.awf",
+ "timestamp"           : 1657465734280,
+ "installedExtensions" : ["shutdown","antishutdown"],
+ "appID"               : "JD",
+ "destRevision"        : 16258,
+ "encrypted"           : true,
+ "uninstallExtensions" : [],
+ "sourceRevision"      : 15919,
+ "installExtensions"   : [],
+ "extracted"           : false
+}

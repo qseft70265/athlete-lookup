@@ -1,0 +1,24 @@
+------------------------Thread: 93:org.jdownloader.plugins.controller.crawler.CrawlerPluginController.log-----------------------
+--ID:93TS:1695042301873-2023/9/18 下午 09:05:01 -  [org.jdownloader.plugins.controller.crawler.CrawlerPluginController(init)] -> CrawlerPluginController: init
+------------------------Thread: 17:org.jdownloader.plugins.controller.crawler.CrawlerPluginController.log-----------------------
+--ID:17TS:1695042301884-2023/9/18 下午 09:05:01 -  [] -> Exception thrown at org.jdownloader.plugins.controller.crawler.CrawlerPluginController$1.run(CrawlerPluginController.java:115):
+java.io.IOException: Outdated CacheVersion:12213378568|13528340974 (8/222296)
+	at org.jdownloader.plugins.controller.crawler.LazyCrawlerPluginCache.read(LazyCrawlerPluginCache.java:97)
+	at org.jdownloader.plugins.controller.crawler.CrawlerPluginController.loadFromCache(CrawlerPluginController.java:180)
+	at org.jdownloader.plugins.controller.crawler.CrawlerPluginController.access$100(CrawlerPluginController.java:30)
+	at org.jdownloader.plugins.controller.crawler.CrawlerPluginController$1.run(CrawlerPluginController.java:112)
+	at org.jdownloader.plugins.controller.crawler.CrawlerPluginController$1.run(CrawlerPluginController.java:102)
+	at org.appwork.utils.NonInterruptibleThread$2.call(NonInterruptibleThread.java:115)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.io.IOException: Outdated CacheVersion:12213378568|13528340974
+	at org.jdownloader.plugins.controller.crawler.LazyCrawlerPluginCache.read(LazyCrawlerPluginCache.java:37)
+	... 9 more
+
+--ID:17TS:1695042301895-2023/9/18 下午 09:05:01 -  [org.jdownloader.plugins.controller.crawler.CrawlerPluginController$1(run)] -> @CrawlerPluginController: cache failed!
+--ID:17TS:1695042301895-2023/9/18 下午 09:05:01 -  [org.jdownloader.plugins.controller.PluginScannerNIO(scan)] -> @PluginController(NIO): no plugin cache available|LastModified:-1
+--ID:17TS:1695042305059-2023/9/18 下午 09:05:05 -  [org.jdownloader.plugins.controller.PluginScannerNIO(scan)] -> @PluginController(NIO): scan took 3164ms for 715
+--ID:17TS:1695042305367-2023/9/18 下午 09:05:05 -  [org.jdownloader.plugins.controller.crawler.CrawlerPluginController$1(run)] -> @CrawlerPluginController: update took 3472ms for 1137|LastModified:1695041862119
+--ID:17TS:1695042305367-2023/9/18 下午 09:05:05 -  [org.jdownloader.plugins.controller.crawler.CrawlerPluginController$1(run)] -> @CrawlerPluginController: init took 3493ms for 1137

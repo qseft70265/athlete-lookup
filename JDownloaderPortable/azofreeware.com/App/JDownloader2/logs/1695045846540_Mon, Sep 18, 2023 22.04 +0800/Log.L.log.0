@@ -1,0 +1,490 @@
+------------------------Thread: 1:Log.L.log-----------------------
+--ID:1TS:1695045846638-2023/9/18 下午 10:04:06 -  [org.appwork.loggingv3.LogV3(info)] -> Application Root: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2
+--ID:1TS:1695045846670-2023/9/18 下午 10:04:06 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.update.lastchance.LastChanceConfig.json
+--ID:1TS:1695045846849-2023/9/18 下午 10:04:06 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.updatev2.UpdateSettings.json
+--ID:1TS:1695045846869-2023/9/18 下午 10:04:06 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Load JSon Storage from Classpath url: jar:file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/JDownloader.jar!/cfg/updateclient/Setup.json
+--ID:1TS:1695045846869-2023/9/18 下午 10:04:06 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\updateclient\Setup.json
+--ID:1TS:1695045846869-2023/9/18 下午 10:04:06 -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.Setup|Path:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\updateclient\Setup
+------------------------Thread: 17:Log.L.log-----------------------
+--ID:17TS:1695045846878-2023/9/18 下午 10:04:06 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.InternetConnectionSettings.json
+--ID:17TS:1695045846878-2023/9/18 下午 10:04:06 -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.jdownloader.updatev2.InternetConnectionSettings|Path:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.InternetConnectionSettings
+--ID:17TS:1695045846892-2023/9/18 下午 10:04:06 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Load JSon Storage from Classpath url: jar:file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/JDownloader.jar!/cfg/updateclient/HttpSettings.json
+--ID:17TS:1695045846892-2023/9/18 下午 10:04:06 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\updateclient\HttpSettings.json
+--ID:17TS:1695045846892-2023/9/18 下午 10:04:06 -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.defaultimpl.http.UpdateHttpClientOptions|Path:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\updateclient\HttpSettings
+--ID:17TS:1695045846895-2023/9/18 下午 10:04:06 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ProxySelector.json
+--ID:17TS:1695045846895-2023/9/18 下午 10:04:06 -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.defaultimpl.http.ProxySelectorSettings|Path:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ProxySelector
+--ID:17TS:1695045846896-2023/9/18 下午 10:04:06 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ProxySelector.proxies.json
+--ID:17TS:1695045846905-2023/9/18 下午 10:04:06 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\update\versioninfo\JD\extensions.json
+--ID:17TS:1695045846905-2023/9/18 下午 10:04:06 -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.extensions.ExtensionsStorage|Path:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\update\versioninfo\JD\extensions
+--ID:17TS:1695045846906-2023/9/18 下午 10:04:06 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\update\versioninfo\JD\extensions.installed.json
+--ID:17TS:1695045846907-2023/9/18 下午 10:04:06 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\update\versioninfo\JD\extensions.requestedinstalls.json
+--ID:17TS:1695045846911-2023/9/18 下午 10:04:06 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.appwork.updatesys.client.tracker.TrackConfig.json
+--ID:17TS:1695045846914-2023/9/18 下午 10:04:06 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\update\versioninfo\JDU\extensions.json
+--ID:17TS:1695045846914-2023/9/18 下午 10:04:06 -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.extensions.ExtensionsStorage|Path:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\update\versioninfo\JDU\extensions
+------------------------Thread: 1:Log.L.log-----------------------
+--ID:1TS:1695045846945-2023/9/18 下午 10:04:06 -  [org.appwork.loggingv3.LogV3(info)] -> Application Root: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2
+--ID:1TS:1695045846966-2023/9/18 下午 10:04:06 -  [org.appwork.loggingv3.LogV3(info)] -> Application Root: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2
+--ID:1TS:1695045846980-2023/9/18 下午 10:04:06 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.GraphicalUserInterfaceSettings.json
+--ID:1TS:1695045847006-2023/9/18 下午 10:04:07 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/gui/translate/GuiTranslation.zh_TW.lng/null
+--ID:1TS:1695045847007-2023/9/18 下午 10:04:07 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/gui/translate/GuiTranslation.zh.lng/null
+--ID:1TS:1695045847007-2023/9/18 下午 10:04:07 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/gui/translate/GuiTranslation.en.lng/null
+--ID:1TS:1695045847179-2023/9/18 下午 10:04:07 -  [org.appwork.utils.logging2.extmanager.ExtLogManager(getLogger)] -> Ignored: disabled
+--ID:1TS:1695045847196-2023/9/18 下午 10:04:07 -  [org.appwork.utils.logging2.extmanager.ExtLogManager(getLogger)] -> Ignored: jdk.internal.dynalink.support.Guards
+--ID:1TS:1695045847358-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> LOG_INIT_DONE=2 instances
+--ID:1TS:1695045847358-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> awt.toolkit=sun.awt.windows.WToolkit
+--ID:1TS:1695045847358-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> classloader_00000000=org.jdownloader.update.launcher.ClassLoaderExtensionImpl
+--ID:1TS:1695045847358-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> classloader_00000001=org.jdownloader.update.launcher.CL2
+--ID:1TS:1695045847358-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> com.sun.jndi.cosnaming.object.trustURLCodebase=false
+--ID:1TS:1695045847358-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> com.sun.jndi.ldap.object.trustURLCodebase=false
+--ID:1TS:1695045847358-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> com.sun.jndi.rmi.object.trustURLCodebase=false
+--ID:1TS:1695045847358-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> extlogmanager.avoidsystemclassloader.hack=sun.misc.Launcher$AppClassLoader@1f96302
+--ID:1TS:1695045847358-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> file.encoding=UTF-8
+--ID:1TS:1695045847358-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> file.encoding.pkg=sun.io
+--ID:1TS:1695045847358-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> file.separator=\
+--ID:1TS:1695045847358-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> ftpStyle=new
+--ID:1TS:1695045847358-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+--ID:1TS:1695045847359-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.awt.printerjob=sun.awt.windows.WPrinterJob
+--ID:1TS:1695045847360-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.class.path=C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\JDownloader.jar
+--ID:1TS:1695045847360-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.class.version=52.0
+--ID:1TS:1695045847360-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.endorsed.dirs=C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\endorsed
+--ID:1TS:1695045847361-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.ext.dirs=C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\ext;C:\Windows\Sun\Java\lib\ext
+--ID:1TS:1695045847361-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.home=C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java
+--ID:1TS:1695045847361-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.io.tmpdir=C:\Users\User\AppData\Local\Temp\
+--ID:1TS:1695045847361-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.library.path=C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;.
+--ID:1TS:1695045847361-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.net.preferIPv6Addresses=system
+--ID:1TS:1695045847361-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.rmi.server.useCodebaseOnly=true
+--ID:1TS:1695045847361-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.runtime.name=Java(TM) SE Runtime Environment
+--ID:1TS:1695045847361-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.runtime.version=1.8.0_181-b13
+--ID:1TS:1695045847361-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.specification.name=Java Platform API Specification
+--ID:1TS:1695045847361-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.specification.vendor=Oracle Corporation
+--ID:1TS:1695045847361-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.specification.version=1.8
+--ID:1TS:1695045847361-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.util.Arrays.useLegacyMergeSort=true
+--ID:1TS:1695045847361-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.util.logging.manager=org.appwork.utils.logging2.extmanager.ExtLogManager
+--ID:1TS:1695045847361-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.vendor=Oracle Corporation
+--ID:1TS:1695045847361-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.vendor.url=http://java.oracle.com/
+--ID:1TS:1695045847361-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.version=1.8.0_181
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.info=mixed mode
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.name=Java HotSpot(TM) Client VM
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.specification.name=Java Virtual Machine Specification
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.specification.vendor=Oracle Corporation
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.specification.version=1.8
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.vendor=Oracle Corporation
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.version=25.181-b13
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> jd.build.builddate=Mon Sep 18 14:22:02 CEST 2023
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> jd.build.buildtimestamp=1695039722117
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> jd.randomNumber=8516482905479744476
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.appworkutilsrevision=4055
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.jdbrowserrevision=48227
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.jdclosedrevision=961
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.jdownloaderrevision=48254
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.jdownloaderserveroptionsrevision=5691
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.jdownloaderupdaterrevision=5770
+--ID:1TS:1695045847362-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.myjdownloaderclientrevision=46032
+--ID:1TS:1695045847363-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.updateclientv2revision=1061
+--ID:1TS:1695045847363-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> k=0dd0ecf7f742873d745106adea00b64a
+--ID:1TS:1695045847363-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> line.separator=
+
+--ID:1TS:1695045847363-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> org.appwork.LoggerFactory=org.appwork.utils.logging2.LogSourceRedirector
+--ID:1TS:1695045847363-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> org.jdownloader.revision=JDownloader2
+--ID:1TS:1695045847363-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> os.arch=x86
+--ID:1TS:1695045847363-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> os.name=Windows 10
+--ID:1TS:1695045847363-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> os.version=10.0
+--ID:1TS:1695045847363-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> path.separator=;
+--ID:1TS:1695045847363-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> sun.arch.data.model=32
+--ID:1TS:1695045847363-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> sun.awt.enableExtraMouseButtons=true
+--ID:1TS:1695045847363-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> sun.awt.nopixfmt=true
+--ID:1TS:1695045847363-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> sun.boot.class.path=C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\resources.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\rt.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\sunrsasign.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\jsse.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\jce.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\charsets.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\jfr.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\classes
+--ID:1TS:1695045847363-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> sun.boot.library.path=C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\bin
+--ID:1TS:1695045847363-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> sun.cpu.endian=little
+--ID:1TS:1695045847363-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> sun.cpu.isalist=
+--ID:1TS:1695045847363-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> sun.desktop=windows
+--ID:1TS:1695045847364-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> sun.io.unicode.encoding=UnicodeLittle
+--ID:1TS:1695045847364-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> sun.java.command=C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\JDownloader.jar
+--ID:1TS:1695045847364-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> sun.java.launcher=SUN_STANDARD
+--ID:1TS:1695045847364-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> sun.java2d.d3d=false
+--ID:1TS:1695045847364-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> sun.jnu.encoding=MS950
+--ID:1TS:1695045847364-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> sun.management.compiler=HotSpot Client Compiler
+--ID:1TS:1695045847364-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> sun.os.patch.level=
+--ID:1TS:1695045847364-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> sun.swing.enableImprovedDragGesture=true
+--ID:1TS:1695045847364-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> user.country=TW
+--ID:1TS:1695045847364-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> user.dir=C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2
+--ID:1TS:1695045847364-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> user.home=C:\Users\User
+--ID:1TS:1695045847364-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> user.language=zh
+--ID:1TS:1695045847364-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> user.name=User
+--ID:1TS:1695045847364-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> user.script=
+--ID:1TS:1695045847364-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> user.timezone=Asia/Taipei
+--ID:1TS:1695045847364-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> user.variant=
+--ID:1TS:1695045847364-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> OS:WINDOWS|WINDOWS_10|64bit:true
+--ID:1TS:1695045847365-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> CPU:X86|64bit:true
+--ID:1TS:1695045847365-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> JVM:18181013|1.8.0_181-b13|64bit:false
+--ID:1TS:1695045847367-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> VMArgs: [-Xmx512m]
+--ID:1TS:1695045847367-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> MaxMemory=518979584bytes (494Megabytes)
+--ID:1TS:1695045847367-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(mainStart)] -> JDownloader2
+--ID:1TS:1695045847368-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch(go)] -> Initialize JDownloader2
+--ID:1TS:1695045847370-2023/9/18 下午 10:04:07 -  [org.appwork.utils.logging2.extmanager.ExtLogManager(getLogger)] -> Ignored: com.sun.jna.Native
+--ID:1TS:1695045847499-2023/9/18 下午 10:04:07 -  [org.appwork.utils.logging2.extmanager.ExtLogManager(getLogger)] -> Ignored: com.sun.jna.Structure
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045847512-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch$8(edtRun)] -> LAF INIT
+------------------------Thread: 1:Log.L.log-----------------------
+--ID:1TS:1695045847513-2023/9/18 下午 10:04:07 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.SilentModeSettings.json
+------------------------Thread: 25:Log.L.log-----------------------
+--ID:25TS:1695045847513-2023/9/18 下午 10:04:07 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.GeneralSettings.json
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045847539-2023/9/18 下午 10:04:07 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.GraphicalUserInterfaceSettings.windowswindowmanageraltkeycombi.json
+--ID:22TS:1695045847561-2023/9/18 下午 10:04:07 -  [jd.gui.swing.laf.LookAndFeelController(setUIManager)] -> Use Look & Feel: org.jdownloader.gui.laf.jddefault.JDDefaultLookAndFeel
+--ID:22TS:1695045847565-2023/9/18 下午 10:04:07 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\laf\JDDefaultLookAndFeel.json
+--ID:22TS:1695045847599-2023/9/18 下午 10:04:07 -  [org.appwork.loggingv3.LogV3(info)] -> LaF init: org.jdownloader.gui.laf.jddefault.JDDefaultLookAndFeel
+--ID:22TS:1695045847680-2023/9/18 下午 10:04:07 -  [org.appwork.utils.logging2.extmanager.ExtLogManager(getLogger)] -> Ignored: de.javasoft.plaf.synthetica.SyntheticaLookAndFeel
+------------------------Thread: 25:Log.L.log-----------------------
+--ID:25TS:1695045847705-2023/9/18 下午 10:04:07 -  [org.appwork.utils.logging2.extmanager.ExtLogManager(getLogger)] -> Ignored: org.bouncycastle.jce.provider.BouncyCastleProvider
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045847706-2023/9/18 下午 10:04:07 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/appwork/swing/synthetica/LanguageFileSetup.zh_TW.lng/null
+--ID:22TS:1695045847707-2023/9/18 下午 10:04:07 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/appwork/swing/synthetica/LanguageFileSetup.zh.lng/null
+--ID:22TS:1695045847707-2023/9/18 下午 10:04:07 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/appwork/swing/synthetica/LanguageFileSetup.en.lng/null
+--ID:22TS:1695045847710-2023/9/18 下午 10:04:07 -  [org.jdownloader.gui.laf.jddefault.JDDefaultLookAndFeel(load)] -> Custom LAF XML: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\laf\JDDefaultLookAndFeel.xml
+------------------------Thread: 25:Log.L.log-----------------------
+--ID:25TS:1695045847727-2023/9/18 下午 10:04:07 -  [org.appwork.utils.logging2.extmanager.ExtLogManager(getLogger)] -> Ignored: org.bouncycastle.crypto.CryptoServicesRegistrar
+--ID:25TS:1695045847776-2023/9/18 下午 10:04:07 -  [org.appwork.utils.logging2.extmanager.ExtLogManager(getLogger)] -> Ignored: org.bouncycastle.jcajce.provider.drbg.EntropyDaemon
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045847810-2023/9/18 下午 10:04:07 -  [org.appwork.utils.logging2.extmanager.ExtLogManager(getLogger)] -> Ignored: de.javasoft.plaf.synthetica.painter.ImagePainter
+------------------------Thread: 25:Log.L.log-----------------------
+--ID:25TS:1695045847889-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch$7(run)] -> Use 'AUTO' for default SSLSocketStreamFactory because: JSSE missing TLSv1.3 support! Java-18181013
+--ID:25TS:1695045847890-2023/9/18 下午 10:04:07 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.GeneralSettings.browsercommandline.json
+--ID:25TS:1695045847902-2023/9/18 下午 10:04:07 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.InternetConnectionSettings.customproxylist.json
+--ID:25TS:1695045847915-2023/9/18 下午 10:04:07 -  [org.appwork.utils.logging2.extmanager.ExtLogManager(getLogger)] -> Ignored: com.sun.jna.NativeLibrary
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045847990-2023/9/18 下午 10:04:07 -  [org.appwork.loggingv3.LogV3(info)] -> LAF Init duration: 391ms
+--ID:22TS:1695045847991-2023/9/18 下午 10:04:07 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ExtTooltipSettings_default.json
+--ID:22TS:1695045847993-2023/9/18 下午 10:04:07 -  [jd.gui.swing.laf.LookAndFeelController(setUIManager)] -> LAF init: 432
+--ID:22TS:1695045847993-2023/9/18 下午 10:04:07 -  [jd.SecondLevelLaunch$11(edtRun)] -> InitGUI->851
+--ID:22TS:1695045848019-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\jd.controlling.captcha.CaptchaSettings.json
+--ID:22TS:1695045848023-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.GeneralSettings.domainrules.json
+--ID:22TS:1695045848025-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\jd.controlling.reconnect.ReconnectConfig.json
+--ID:22TS:1695045848039-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\jd.controlling.downloadcontroller.DownloadControllerConfig.json
+--ID:22TS:1695045848176-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ExtTable_downloadstable3.json
+--ID:22TS:1695045848203-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\menus_v2\DownloadTabBottomBar.json
+--ID:22TS:1695045848224-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.gui.jdtrayicon.TrayExtension.json
+--ID:22TS:1695045848226-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/gui/jdtrayicon/translate/TrayiconTranslation.zh_TW.lng/null
+--ID:22TS:1695045848227-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/gui/jdtrayicon/translate/TrayiconTranslation.en.lng/null
+--ID:22TS:1695045848233-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.controlling.filter.LinkFilterSettings.json
+--ID:22TS:1695045848236-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.api.myjdownloader.MyJDownloaderSettings.json
+--ID:22TS:1695045848240-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.AccountSettings.json
+--ID:22TS:1695045848249-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\jd.controlling.linkchecker.LinkCheckerConfig.json
+--ID:22TS:1695045848251-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\jd.controlling.linkcrawler.LinkCrawlerConfig.json
+--ID:22TS:1695045848254-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.gui.views.linkgrabber.addlinksdialog.LinkgrabberSettings.json
+--ID:22TS:1695045848268-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\jd.controlling.linkcollector.LinkCollectorConfig.json
+--ID:22TS:1695045848271-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.api.RemoteAPIConfig.json
+--ID:22TS:1695045848273-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.controlling.packagizer.PackagizerSettings.json
+--ID:22TS:1695045848275-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.controlling.ffmpeg.FFmpegSetup.json
+--ID:22TS:1695045848280-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.gui.shortcuts.ShortcutSettings.json
+--ID:22TS:1695045848282-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.updatev2.LastChanceSettings.json
+--ID:22TS:1695045848283-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.appwork.utils.swing.dialog.ExtFileSystemViewSettings.json
+--ID:22TS:1695045848284-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\jd.controlling.faviconcontroller.FavIconsConfig.json
+--ID:22TS:1695045848286-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.SoundSettings.json
+--ID:22TS:1695045848287-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.gui.notify.gui.BubbleNotifyConfig.json
+--ID:22TS:1695045848321-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/translate/JdownloaderTranslation.zh_TW.lng/null
+--ID:22TS:1695045848321-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/translate/JdownloaderTranslation.zh.lng/null
+--ID:22TS:1695045848322-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/translate/JdownloaderTranslation.en.lng/null
+--ID:22TS:1695045848373-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\jd.controlling.captcha.CaptchaSettings.qualityensurancerules.json
+--ID:22TS:1695045848377-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/appwork/utils/locale/AWUTranslation.zh_TW.lng/null
+--ID:22TS:1695045848378-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/appwork/utils/locale/AWUTranslation.zh.lng/null
+--ID:22TS:1695045848378-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/appwork/utils/locale/AWUTranslation.en.lng/null
+--ID:22TS:1695045848386-2023/9/18 下午 10:04:08 -  [jd.SecondLevelLaunch$11(edtRun)] -> GUIDONE->1244
+--ID:22TS:1695045848387-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.GraphicalUserInterfaceSettings.lastframestatus.json
+------------------------Thread: 1:Log.L.log-----------------------
+--ID:1TS:1695045848491-2023/9/18 下午 10:04:08 -  [jd.SecondLevelLaunch(go)] -> Initialisation finished
+------------------------Thread: 43:Log.L.log-----------------------
+--ID:43TS:1695045848499-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.AccountSettings.accounts.ejs
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045848512-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ExtTable_LinkGrabberTableModel.json
+------------------------Thread: 40:Log.L.log-----------------------
+--ID:40TS:1695045848560-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.controlling.packagizer.PackagizerSettings.rulelist.json
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045848561-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\menus_v2\LinkgrabberTabBottomBar.json
+--ID:22TS:1695045848566-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.GraphicalUserInterfaceSettings.overviewpositions.json
+------------------------Thread: 40:Log.L.log-----------------------
+--ID:40TS:1695045848593-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /session = interface org.appwork.utils.net.httpserver.session.LoginAPIInterface
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045848594-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\FILECHOOSER.ejs
+------------------------Thread: 40:Log.L.log-----------------------
+--ID:40TS:1695045848597-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /events = interface org.appwork.remoteapi.events.EventsAPIInterface
+--ID:40TS:1695045848599-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.api.captcha.CaptchaMyJDownloaderRemoteSolverSettings.json
+------------------------Thread: 51:Log.L.log-----------------------
+--ID:51TS:1695045848601-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.GeneralSettings.urlorder.json
+--ID:51TS:1695045848601-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.GeneralSettings.urldisplayorder.json
+------------------------Thread: 40:Log.L.log-----------------------
+--ID:40TS:1695045848602-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /captcha = interface org.jdownloader.api.captcha.CaptchaAPI
+--ID:40TS:1695045848603-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /captchaforward = interface org.jdownloader.captcha.api.CaptchaForwarderAPIInterface
+--ID:40TS:1695045848604-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /jd = interface org.jdownloader.api.jd.JDAPI
+--ID:40TS:1695045848605-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /downloads = interface org.jdownloader.api.downloads.DownloadsAPI
+--ID:40TS:1695045848610-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /downloadsV2 = interface org.jdownloader.api.downloads.v2.DownloadsAPIV2
+--ID:40TS:1695045848616-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /downloadcontroller = interface org.jdownloader.api.downloads.v2.DownloadWatchdogAPI
+--ID:40TS:1695045848618-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /config = interface org.jdownloader.api.config.AdvancedConfigManagerAPI
+--ID:40TS:1695045848620-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /toolbar = interface org.jdownloader.api.toolbar.JDownloaderToolBarAPI
+--ID:40TS:1695045848621-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /accounts = interface org.jdownloader.api.accounts.AccountAPI
+--ID:40TS:1695045848622-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /accountsV2 = interface org.jdownloader.api.accounts.v2.AccountAPIV2
+--ID:40TS:1695045848624-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /system = interface org.jdownloader.api.system.SystemAPI
+--ID:40TS:1695045848625-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /linkcollector = interface org.jdownloader.api.linkcollector.LinkCollectorAPI
+--ID:40TS:1695045848628-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /linkgrabberv2 = interface org.jdownloader.api.linkcollector.v2.LinkCollectorAPIV2
+--ID:40TS:1695045848629-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /content = interface org.jdownloader.api.content.ContentAPI
+--ID:40TS:1695045848631-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /contentV2 = interface org.jdownloader.api.content.v2.ContentAPIV2
+--ID:40TS:1695045848631-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /ui = interface org.jdownloader.api.ui.UIAPI
+--ID:40TS:1695045848632-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /polling = interface org.jdownloader.api.polling.PollingAPI
+--ID:40TS:1695045848633-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /extraction = interface org.jdownloader.api.extraction.ExtractionAPI
+--ID:40TS:1695045848633-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /linkcrawler = interface org.jdownloader.api.linkcrawler.LinkCrawlerAPI
+--ID:40TS:1695045848634-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /plugins = interface org.jdownloader.api.plugins.PluginsAPI
+--ID:40TS:1695045848636-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace / = interface org.jdownloader.api.cnl2.Cnl2APIBasics
+--ID:40TS:1695045848636-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /flash = interface org.jdownloader.api.cnl2.Cnl2APIFlash
+--ID:40TS:1695045848640-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /downloadevents = interface org.jdownloader.api.downloads.DownloadControllerEventPublisherInterface
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045848641-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ExtTable_FilterTableModel.json
+------------------------Thread: 40:Log.L.log-----------------------
+--ID:40TS:1695045848641-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /extensions = interface org.jdownloader.api.extensions.ExtensionsAPI
+--ID:40TS:1695045848642-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /update = interface org.jdownloader.api.update.UpdateAPI
+--ID:40TS:1695045848644-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /device = interface org.jdownloader.api.device.DeviceAPI
+--ID:40TS:1695045848644-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /reconnect = interface org.jdownloader.api.reconnect.ReconnectAPI
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045848646-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.controlling.filter.LinkFilterSettings.filterlist.json
+------------------------Thread: 40:Log.L.log-----------------------
+--ID:40TS:1695045848646-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /log = interface org.jdownloader.api.logs.LogAPI
+--ID:40TS:1695045848649-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /dialogs = interface org.jdownloader.api.dialog.DialogApiInterface
+------------------------Thread: 54:Log.L.log-----------------------
+--ID:54TS:1695045848652-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace / = interface org.jdownloader.api.cnl2.Cnl2APIBasics
+--ID:54TS:1695045848652-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /flash = interface org.jdownloader.api.cnl2.Cnl2APIFlash
+------------------------Thread: 55:Log.L.log-----------------------
+--ID:55TS:1695045848654-2023/9/18 下午 10:04:08 -  [org.jdownloader.extensions.LazyExtension(_getClassLoader)] -> Use C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\extensions\AntiShutdown.jar classloader
+------------------------Thread: 59:Log.L.log-----------------------
+--ID:59TS:1695045848654-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.captcha.v2.solver.jac.JACSolverConfig.json
+------------------------Thread: 40:Log.L.log-----------------------
+--ID:40TS:1695045848654-2023/9/18 下午 10:04:08 -  [jd.controlling.DelayWriteController(init)] -> DelayWriteMode: AUTO
+--ID:40TS:1695045848654-2023/9/18 下午 10:04:08 -  [jd.controlling.DelayWriteController(init)] -> DelayedWrites disabled!
+------------------------Thread: 55:Log.L.log-----------------------
+--ID:55TS:1695045848655-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.extensions.antistandby.AntiStandbyExtension.json
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045848656-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\quickfilters.json
+------------------------Thread: 1:Log.L.log-----------------------
+--ID:1TS:1695045848676-2023/9/18 下午 10:04:08 -  [jd.SecondLevelLaunch(go)] -> fileChooserComboBoxFolders 182|23
+------------------------Thread: 55:Log.L.log-----------------------
+--ID:55TS:1695045848690-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/extensions/antistandby/translate/AntistandbyTranslation.zh_TW.lng/null
+--ID:55TS:1695045848690-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/extensions/antistandby/translate/AntistandbyTranslation.zh.lng/null
+--ID:55TS:1695045848690-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/extensions/antistandby/translate/AntistandbyTranslation.en.lng/null
+------------------------Thread: 59:Log.L.log-----------------------
+--ID:59TS:1695045848691-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.captcha.v2.solver.jac.JACSolverConfig.jacthreshold.json
+--ID:59TS:1695045848692-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.captcha.v2.solver.dbc.DeathByCaptchaSettings.json
+--ID:59TS:1695045848693-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.dbc.DeathByCaptchaSettings.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:59TS:1695045848696-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.captcha.v2.solver.imagetyperz.ImageTyperzConfigInterface.json
+--ID:59TS:1695045848697-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.imagetyperz.ImageTyperzConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:59TS:1695045848700-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.captcha.v2.solver.cheapcaptcha.CheapCaptchaConfigInterface.json
+--ID:59TS:1695045848700-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.cheapcaptcha.CheapCaptchaConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:59TS:1695045848703-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.captcha.v2.solver.captchasolutions.CaptchaSolutionsConfigInterface.json
+--ID:59TS:1695045848703-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.captchasolutions.CaptchaSolutionsConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045848703-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\menus_v2\LinkgrabberContext.json
+------------------------Thread: 59:Log.L.log-----------------------
+--ID:59TS:1695045848707-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.captcha.v2.solver.twocaptcha.TwoCaptchaConfigInterface.json
+--ID:59TS:1695045848707-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.twocaptcha.TwoCaptchaConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+------------------------Thread: 51:Log.L.log-----------------------
+--ID:51TS:1695045848707-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\plugins\HOSTER\ddownload.com.json
+------------------------Thread: 59:Log.L.log-----------------------
+--ID:59TS:1695045848710-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.captcha.v2.solver.antiCaptchaCom.AntiCaptchaComConfigInterface.json
+--ID:59TS:1695045848711-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.antiCaptchaCom.AntiCaptchaComConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:59TS:1695045848713-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.captcha.v2.solver.endcaptcha.EndCaptchaConfigInterface.json
+--ID:59TS:1695045848714-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.endcaptcha.EndCaptchaConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+------------------------Thread: 51:Log.L.log-----------------------
+--ID:51TS:1695045848716-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\plugins\HOSTER\drop.download.json
+------------------------Thread: 59:Log.L.log-----------------------
+--ID:59TS:1695045848718-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.captcha.v2.solver.solver9kw.Captcha9kwSettings.json
+--ID:59TS:1695045848719-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.solver9kw.Captcha9kwSettings.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:59TS:1695045848735-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.captcha.v2.solver.gui.DialogCaptchaSolverConfig.json
+--ID:59TS:1695045848738-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.captcha.v2.solver.browser.BrowserCaptchaSolverConfig.json
+------------------------Thread: 51:Log.L.log-----------------------
+--ID:51TS:1695045848748-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\plugins\HOSTER\maxstream.video.json
+------------------------Thread: 54:Log.L.log-----------------------
+--ID:54TS:1695045848789-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(fine)] -> Start HTTP Server. 9666->9666|LocalHost:true
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045848791-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.GraphicalUserInterfaceSettings.clipboardprocessblacklist.json
+------------------------Thread: 68:Log.L.log-----------------------
+--ID:68TS:1695045848792-2023/9/18 下午 10:04:08 -  [org.appwork.utils.logging2.extmanager.ExtLogManager(getLogger)] -> Ignored: com.sun.jna.internal.ReflectionUtils
+------------------------Thread: 51:Log.L.log-----------------------
+--ID:51TS:1695045848799-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: PROPERTY_GENERAL_TITLE_PLAIN
+--ID:51TS:1695045848800-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: PROPERTY_GENERAL_DATE
+--ID:51TS:1695045848800-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: PROPERTY_GENERAL_UPLOADER
+--ID:51TS:1695045848800-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: PROPERTY_GENERAL_wall_post_id
+--ID:51TS:1695045848800-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: PROPERTY_VIDEO_LIST_ID
+--ID:51TS:1695045848800-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: PROPERTY_VIDEO_SELECTED_QUALITY
+--ID:51TS:1695045848800-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: PROPERTY_VIDEO_STREAM_TYPE
+--ID:51TS:1695045848800-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: VIDEO_STREAM_TYPE_HLS
+--ID:51TS:1695045848800-2023/9/18 下午 10:04:08 -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: VIDEO_STREAM_TYPE_HTTP
+------------------------Thread: 55:Log.L.log-----------------------
+--ID:55TS:1695045848801-2023/9/18 下午 10:04:08 -  [org.jdownloader.extensions.LazyExtension(_getClassLoader)] -> Use C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\extensions\Extraction.jar classloader
+--ID:55TS:1695045848808-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.extensions.extraction.ExtractionExtension.json
+------------------------Thread: 51:Log.L.log-----------------------
+--ID:51TS:1695045848813-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\plugins\HOSTER\wolfstream.tv.json
+------------------------Thread: 55:Log.L.log-----------------------
+--ID:55TS:1695045848822-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/extensions/extraction/translate/ExtractionTranslation.zh_TW.lng/null
+--ID:55TS:1695045848823-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/extensions/extraction/translate/ExtractionTranslation.zh.lng/null
+--ID:55TS:1695045848823-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/extensions/extraction/translate/ExtractionTranslation.en.lng/null
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045848906-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.GraphicalUserInterfaceSettings.downloadlistscrollposition.json
+------------------------Thread: 55:Log.L.log-----------------------
+--ID:55TS:1695045848906-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\menus_v2\DownloadTableContext.json
+--ID:55TS:1695045848907-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\menus_v2\MainMenu.json
+--ID:55TS:1695045848908-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\menus_v2\MainToolbar.json
+--ID:55TS:1695045848909-2023/9/18 下午 10:04:08 -  [org.jdownloader.extensions.LazyExtension(_getClassLoader)] -> Use C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\extensions\JDShutdown.jar classloader
+--ID:55TS:1695045848910-2023/9/18 下午 10:04:08 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.extensions.shutdown.ShutdownExtension.json
+--ID:55TS:1695045848912-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/extensions/shutdown/translate/ShutdownTranslation.zh_TW.lng/null
+--ID:55TS:1695045848912-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/extensions/shutdown/translate/ShutdownTranslation.zh.lng/null
+--ID:55TS:1695045848912-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/extensions/shutdown/translate/ShutdownTranslation.en.lng/null
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045848917-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\jd.controlling.faviconcontroller.FavIconsConfig.failedhosts.json
+------------------------Thread: 74:Log.L.log-----------------------
+--ID:74TS:1695045848917-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/updatev2/UpdaterTranslation.zh_TW.lng/null
+--ID:74TS:1695045848918-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/updatev2/UpdaterTranslation.zh.lng/null
+--ID:74TS:1695045848918-2023/9/18 下午 10:04:08 -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/translations/org/jdownloader/updatev2/UpdaterTranslation.en.lng/null
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045849003-2023/9/18 下午 10:04:09 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ExtTable_ExtractionJobTableModel4.json
+--ID:22TS:1695045849015-2023/9/18 下午 10:04:09 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\menus_v2\MainMenu.menu.json
+--ID:22TS:1695045849048-2023/9/18 下午 10:04:09 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\menus_v2\MainToolbar.menu.json
+--ID:22TS:1695045849083-2023/9/18 下午 10:04:09 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\menus_v2\DownloadTabBottomBar.menu.json
+--ID:22TS:1695045849110-2023/9/18 下午 10:04:09 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\menus_v2\DownloadTableContext.menu.json
+------------------------Thread: 74:Log.L.log-----------------------
+--ID:74TS:1695045849135-2023/9/18 下午 10:04:09 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(URL): jar:file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/JDownloader.jar!/cfg/updateclient/Setup.updateservers.json
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045849168-2023/9/18 下午 10:04:09 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\menus_v2\LinkgrabberContext.menu.json
+--ID:22TS:1695045849189-2023/9/18 下午 10:04:09 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\menus_v2\LinkgrabberTabBottomBar.menu.json
+--ID:22TS:1695045853353-2023/9/18 下午 10:04:13 -  [org.appwork.utils.swing.dialog.AbstractDialog$8(runInEDT)] -> Force Dummy Init
+--ID:22TS:1695045853357-2023/9/18 下午 10:04:13 -  [org.appwork.utils.swing.dialog.AbstractDialog$12(runInEDT)] -> Reset Dummy Info
+--ID:22TS:1695045853358-2023/9/18 下午 10:04:13 -  [org.appwork.utils.swing.dialog.AbstractDialog(displayDialog)] -> Display Dialog: org.jdownloader.gui.views.linkgrabber.addlinksdialog.AddLinksDialog: dialog________
+--ID:22TS:1695045853365-2023/9/18 下午 10:04:13 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.gui.views.linkgrabber.addlinksdialog.LinkgrabberSettings.packagenamehistory.json
+--ID:22TS:1695045853367-2023/9/18 下午 10:04:13 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.gui.views.linkgrabber.addlinksdialog.LinkgrabberSettings.downloaddestinationhistory.json
+--ID:22TS:1695045854667-2023/9/18 下午 10:04:14 -  [org.appwork.utils.swing.dialog.AbstractDialog(actionPerformed)] -> Answer: Button<OK:繼續>
+------------------------Thread: 84:Log.L.log-----------------------
+--ID:84TS:1695045854677-2023/9/18 下午 10:04:14 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\Dialogs.json
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045854678-2023/9/18 下午 10:04:14 -  [org.appwork.utils.swing.dialog.AbstractDialog$8(runInEDT)] -> Force Dummy Init
+--ID:22TS:1695045854682-2023/9/18 下午 10:04:14 -  [org.appwork.utils.swing.dialog.AbstractDialog$12(runInEDT)] -> Reset Dummy Info
+--ID:22TS:1695045854683-2023/9/18 下午 10:04:14 -  [org.appwork.utils.swing.dialog.AbstractDialog(displayDialog)] -> Display Dialog: org.jdownloader.gui.views.linkgrabber.actions.AddLinksProgress: dialog_________
+------------------------Thread: 89:Log.L.log-----------------------
+--ID:89TS:1695045854686-2023/9/18 下午 10:04:14 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.GeneralSettings.crawlerhostpluginblacklist.json
+--ID:89TS:1695045854687-2023/9/18 下午 10:04:14 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.GeneralSettings.crawlercrawlerpluginblacklist.json
+------------------------Thread: 93:Log.L.log-----------------------
+--ID:93TS:1695045854693-2023/9/18 下午 10:04:14 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\jd.controlling.linkcrawler.LinkCrawlerConfig.linkcrawlerrules.json
+------------------------Thread: 89:Log.L.log-----------------------
+--ID:89TS:1695045854841-2023/9/18 下午 10:04:14 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\jd.controlling.linkcrawler.LinkCrawlerConfig.autolearnextensionorigins.json
+------------------------Thread: 96:Log.L.log-----------------------
+--ID:96TS:1695045854856-2023/9/18 下午 10:04:14 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\jd.controlling.authentication.AuthenticationControllerSettings.json
+--ID:96TS:1695045854857-2023/9/18 下午 10:04:14 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\jd.controlling.authentication.AuthenticationControllerSettings.list.ejs
+------------------------Thread: 104:Log.L.log-----------------------
+--ID:104TS:1695045856317-2023/9/18 下午 10:04:16 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.GeneralSettings.filenameandpathcharacterregexreplacemap.json
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045856527-2023/9/18 下午 10:04:16 -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\org.jdownloader.settings.GraphicalUserInterfaceSettings.linkgrabberlistscrollposition.json
+------------------------Thread: 91:Log.L.log-----------------------
+--ID:91TS:1695045856878-2023/9/18 下午 10:04:16 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\plugins\CRAWLER\m3u8.json
+------------------------Thread: 110:Log.L.log-----------------------
+--ID:110TS:1695045857284-2023/9/18 下午 10:04:17 -  [org.appwork.loggingv3.LogV3(fine)] -> Start HTTP Server. 0->11496|LocalHost:true
+--ID:110TS:1695045860049-2023/9/18 下午 10:04:20 -  [org.appwork.loggingv3.LogV3(fine)] -> Start HTTP Server. 0->11507|LocalHost:true
+------------------------Thread: 33:Log.L.log-----------------------
+--ID:33TS:1695045872870-2023/9/18 下午 10:04:32 -  [org.appwork.loggingv3.LogV3(finest)] -> jd.controlling.downloadcontroller.DownloadWatchDog@205196 State changed IDLE--1(27561161) -> RUNNING--1(4954734)
+------------------------Thread: 141:Log.L.log-----------------------
+--ID:141TS:1695045872877-2023/9/18 下午 10:04:32 -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.jdownloader.controlling.hosterrule.HosterRuleConfig|Path:null
+------------------------Thread: 145:Log.L.log-----------------------
+--ID:145TS:1695045873280-2023/9/18 下午 10:04:33 -  [org.appwork.loggingv3.LogV3(fine)] -> Start HTTP Server. 0->11532|LocalHost:true
+--ID:145TS:1695045875230-2023/9/18 下午 10:04:35 -  [org.appwork.loggingv3.LogV3(fine)] -> Start HTTP Server. 0->11538|LocalHost:true
+------------------------Thread: 165:Log.L.log-----------------------
+--ID:165TS:1695045881442-2023/9/18 下午 10:04:41 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ExtTable_SolverOrderTableModel.json
+------------------------Thread: 183:Log.L.log-----------------------
+--ID:183TS:1695045911491-2023/9/18 下午 10:05:11 -  [org.appwork.loggingv3.LogV3(fine)] -> Start HTTP Server. 0->11552|LocalHost:true
+--ID:183TS:1695045913408-2023/9/18 下午 10:05:13 -  [org.appwork.loggingv3.LogV3(fine)] -> Start HTTP Server. 0->11558|LocalHost:true
+------------------------Thread: 222:Log.L.log-----------------------
+--ID:222TS:1695045936433-2023/9/18 下午 10:05:36 -  [org.appwork.utils.swing.dialog.ConfirmDialog(<init>)] -> Dialog    [繼續][取消]
+flag:  1000100000
+title: 您確定嗎？
+msg:   
+確定要執行這個清理動作：
+刪除選取的連結？
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695045936433-2023/9/18 下午 10:05:36 -  [org.appwork.utils.swing.dialog.AbstractDialog$8(runInEDT)] -> Force Dummy Init
+--ID:22TS:1695046065601-2023/9/18 下午 10:07:45 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\jd.controlling.reconnect.pluginsinc.upnp.UPUPReconnectSettings.json
+--ID:22TS:1695046065607-2023/9/18 下午 10:07:45 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\jd.controlling.reconnect.pluginsinc.liveheader.LiveHeaderReconnectSettings.json
+--ID:22TS:1695046065626-2023/9/18 下午 10:07:45 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\jd.controlling.reconnect.pluginsinc.speedporthybrid.SpeedPortHybridReconnectConfig.ejs
+--ID:22TS:1695046065628-2023/9/18 下午 10:07:45 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\jd.controlling.reconnect.pluginsinc.easybox804.EasyBox804ReconnectConfig.ejs
+--ID:22TS:1695046065673-2023/9/18 下午 10:07:45 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ExtTable_proxyTable3.json
+--ID:22TS:1695046065697-2023/9/18 下午 10:07:45 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ExtTable_HosterRuleTableModel.json
+--ID:22TS:1695046065717-2023/9/18 下午 10:07:45 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ExtTable_PremiumAccountTableModel2.json
+--ID:22TS:1695046065740-2023/9/18 下午 10:07:45 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ExtTable_AuthTableModel.json
+--ID:22TS:1695046065771-2023/9/18 下午 10:07:45 -  [org.appwork.loggingv3.LogV3(severe)] -> Bad Column Implementation: jd.gui.swing.jdgui.views.settings.panels.anticaptcha.SolverOrderTableModel/逾時 Min: 15 Max: 2147483647 IS:3
+--ID:22TS:1695046065795-2023/9/18 下午 10:07:45 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ExtTable_UrlOrderTableModel.json
+--ID:22TS:1695046065852-2023/9/18 下午 10:07:45 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ExtTable_FilterTable2.json
+--ID:22TS:1695046065858-2023/9/18 下午 10:07:45 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ExtTable_ExceptionsTableModel.json
+--ID:22TS:1695046065896-2023/9/18 下午 10:07:45 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ExtTable_PackagizerFilterTable.json
+--ID:22TS:1695046065936-2023/9/18 下午 10:07:45 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ExtTable_AdvancedTable.json
+--ID:22TS:1695046065956-2023/9/18 下午 10:07:45 -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Read Config: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\cfg\ExtTable_optionalsExtensionTable.json
+------------------------Thread: 183:Log.L.log-----------------------
+--ID:183TS:1695048062111-2023/9/18 下午 10:41:02 -  [org.appwork.loggingv3.LogV3(fine)] -> Start HTTP Server. 0->13730|LocalHost:true
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695048081594-2023/9/18 下午 10:41:21 -  [org.appwork.utils.swing.dialog.ConfirmDialog(<init>)] -> Dialog    [刪除][取消]
+flag:  1000000000
+title: 您確定嗎？
+msg:   
+您確定要執行此操作：
+刪除選取的連結
+
+刪除 1 個連結
+在磁碟上的 1 個檔案(916.52 MB)
+在下載清單中的連結: 5 個
+--ID:22TS:1695048081596-2023/9/18 下午 10:41:21 -  [org.appwork.utils.swing.dialog.AbstractDialog$8(runInEDT)] -> Force Dummy Init
+--ID:22TS:1695048081596-2023/9/18 下午 10:41:21 -  [org.appwork.utils.swing.dialog.AbstractDialog$12(runInEDT)] -> Reset Dummy Info
+--ID:22TS:1695048081596-2023/9/18 下午 10:41:21 -  [org.appwork.utils.swing.dialog.AbstractDialog$8(runInEDT)] -> Force Dummy Init
+--ID:22TS:1695048081596-2023/9/18 下午 10:41:21 -  [org.appwork.utils.swing.dialog.AbstractDialog$12(runInEDT)] -> Reset Dummy Info
+--ID:22TS:1695048081597-2023/9/18 下午 10:41:21 -  [org.appwork.utils.swing.dialog.AbstractDialog(displayDialog)] -> Display Dialog: org.jdownloader.gui.views.downloads.action.ConfirmDeleteLinksDialog: dialog________________________________1___________1_____916_52_MB_____________5__
+--ID:22TS:1695048081597-2023/9/18 下午 10:41:21 -  [org.appwork.loggingv3.LogV3(warning)] -> Modeless Dialog from EDT -> Not possible. Reset to Application_modal
+--ID:22TS:1695048083959-2023/9/18 下午 10:41:23 -  [org.appwork.utils.swing.dialog.AbstractDialog(actionPerformed)] -> Answer: Button<OK:刪除>
+------------------------Thread: 145:Log.L.log-----------------------
+--ID:145TS:1695052405006-2023/9/18 下午 11:53:25 -  [org.appwork.loggingv3.LogV3(fine)] -> Start HTTP Server. 0->9595|LocalHost:true
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1695053338360-2023/9/19 上午 12:08:58 -  [org.appwork.utils.swing.dialog.ConfirmDialog(<init>)] -> Dialog    [刪除][取消]
+flag:  1000000000
+title: 您確定嗎？
+msg:   
+您確定要執行此操作：
+刪除選取的連結
+
+刪除 1 個連結
+在磁碟上的 0 個檔案(0 B)
+在下載清單中的連結: 0 個
+--ID:22TS:1695053338361-2023/9/19 上午 12:08:58 -  [org.appwork.utils.swing.dialog.AbstractDialog$8(runInEDT)] -> Force Dummy Init
+--ID:22TS:1695053338361-2023/9/19 上午 12:08:58 -  [org.appwork.utils.swing.dialog.AbstractDialog$12(runInEDT)] -> Reset Dummy Info
+--ID:22TS:1695053338361-2023/9/19 上午 12:08:58 -  [org.appwork.utils.swing.dialog.AbstractDialog$8(runInEDT)] -> Force Dummy Init
+--ID:22TS:1695053338361-2023/9/19 上午 12:08:58 -  [org.appwork.utils.swing.dialog.AbstractDialog$12(runInEDT)] -> Reset Dummy Info
+--ID:22TS:1695053338361-2023/9/19 上午 12:08:58 -  [org.appwork.utils.swing.dialog.AbstractDialog(displayDialog)] -> Display Dialog: org.jdownloader.gui.views.downloads.action.ConfirmDeleteLinksDialog: dialog________________________________1___________0_____0_B_____________0__
+--ID:22TS:1695053338361-2023/9/19 上午 12:08:58 -  [org.appwork.loggingv3.LogV3(warning)] -> Modeless Dialog from EDT -> Not possible. Reset to Application_modal
+--ID:22TS:1695053339571-2023/9/19 上午 12:08:59 -  [org.appwork.utils.swing.dialog.AbstractDialog(actionPerformed)] -> Answer: Button<OK:刪除>
+--ID:22TS:1695053340780-2023/9/19 上午 12:09:00 -  [org.appwork.utils.swing.dialog.ConfirmDialog(<init>)] -> Dialog    [離開 JDownloader][null]
+flag:  11000100000
+title: 正在關閉 JDownloader...
+msg:   
+請選擇
+    - 退出 JDownloader (取消所有正在執行的處理程序)
+    - 最小化到工作列 (繼續下載)
+    - 隱藏到系統匣 (在背景繼續下載)
+--ID:22TS:1695053340780-2023/9/19 上午 12:09:00 -  [org.appwork.utils.swing.dialog.AbstractDialog$8(runInEDT)] -> Force Dummy Init
+--ID:22TS:1695053340780-2023/9/19 上午 12:09:00 -  [org.appwork.utils.swing.dialog.AbstractDialog$12(runInEDT)] -> Reset Dummy Info
+--ID:22TS:1695053340781-2023/9/19 上午 12:09:00 -  [org.appwork.utils.swing.dialog.AbstractDialog(displayDialog)] -> Display Dialog: org.appwork.utils.swing.dialog.ConfirmDialog: dialog______JDownloader__________________JDownloader______________________________________________________________
+--ID:22TS:1695053340781-2023/9/19 上午 12:09:00 -  [org.appwork.loggingv3.LogV3(warning)] -> Modeless Dialog from EDT -> Not possible. Reset to Application_modal
+--ID:22TS:1695053342163-2023/9/19 上午 12:09:02 -  [org.appwork.utils.swing.dialog.AbstractDialog(actionPerformed)] -> Answer: Button<OK:離開 JDownloader>
+------------------------Thread: 2389:Log.L.log-----------------------
+--ID:2389TS:1695053342168-2023/9/19 上午 12:09:02 -  [org.appwork.loggingv3.LogV3(info)] -> No Vetos
+--ID:2389TS:1695053342168-2023/9/19 上午 12:09:02 -  [org.appwork.loggingv3.LogV3(info)] -> Fire onShutDownEvents:4
+--ID:2389TS:1695053342169-2023/9/19 上午 12:09:02 -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown: jd.controlling.downloadcontroller.DownloadWatchDog@205196
+--ID:2389TS:1695053342169-2023/9/19 上午 12:09:02 -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown done: jd.controlling.downloadcontroller.DownloadWatchDog@205196
+--ID:2389TS:1695053342169-2023/9/19 上午 12:09:02 -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown: jd.controlling.linkcollector.LinkCollector@320ccc
+--ID:2389TS:1695053342169-2023/9/19 上午 12:09:02 -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown done: jd.controlling.linkcollector.LinkCollector@320ccc
+--ID:2389TS:1695053342169-2023/9/19 上午 12:09:02 -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown: org.jdownloader.extensions.antistandby.AntiStandbyExtension@b2784a
+--ID:2389TS:1695053342169-2023/9/19 上午 12:09:02 -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown done: org.jdownloader.extensions.antistandby.AntiStandbyExtension@b2784a
+--ID:2389TS:1695053342169-2023/9/19 上午 12:09:02 -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown: org.jdownloader.extensions.extraction.ExtractionExtension$3@1f6a62b
+--ID:2389TS:1695053342169-2023/9/19 上午 12:09:02 -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown done: org.jdownloader.extensions.extraction.ExtractionExtension$3@1f6a62b
+--ID:2389TS:1695053342169-2023/9/19 上午 12:09:02 -  [org.appwork.loggingv3.LogV3(info)] -> Create ExitThread
+------------------------Thread: 2409:Log.L.log-----------------------
+--ID:2409TS:1695053344598-2023/9/19 上午 12:09:04 -  [org.appwork.loggingv3.LogV3(finest)] -> jd.controlling.downloadcontroller.DownloadWatchDog@205196 State changed RUNNING--1(4954734) -> STOPPING--1(11986910)
+--ID:2409TS:1695053344599-2023/9/19 上午 12:09:04 -  [org.appwork.loggingv3.LogV3(finest)] -> jd.controlling.downloadcontroller.DownloadWatchDog@205196 State changed STOPPING--1(11986910) -> STOPPED_STATE--1(1897309)

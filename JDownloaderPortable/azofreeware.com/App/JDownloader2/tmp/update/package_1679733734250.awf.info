@@ -1,0 +1,16 @@
+{
+ "appID"               : "JD",
+ "destRevision"        : 16454,
+ "file"                : "package_1679733734250.awf",
+ "installExtensions"   : [],
+ "installedExtensions" : [
+                          "shutdown",
+                          "antishutdown",
+                          "ffmpeg"
+                         ],
+ "sourceRevision"      : 16447,
+ "timestamp"           : 1679733734250,
+ "uninstallExtensions" : [],
+ "encrypted"           : true,
+ "extracted"           : false
+}

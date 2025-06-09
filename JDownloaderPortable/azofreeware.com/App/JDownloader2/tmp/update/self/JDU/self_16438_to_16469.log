@@ -1,0 +1,11 @@
+Wed Dec 21 22:12:47 CST 2022
+Package: updatePackage
+   JD: JDownloader.jar/org/appwork/utils/formatter/TimeFormatter.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/SSLSocketStreamOptions$1.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/SSLSocketStreamOptions.class
+   JD: JDownloader.jar/org/appwork/utils/os/ContainerRuntime$1.class
+   JD: JDownloader.jar/org/appwork/utils/os/ContainerRuntime$TYPE.class
+   JD: JDownloader.jar/org/appwork/utils/os/ContainerRuntime.class
+   JD: JDownloader.jar/org/appwork/utils/os/hardware/QNAP.class
+   JD: JDownloader.jar/org/appwork/utils/swing/dialog/ProxyDialog.class
+   JD: JDownloader.jar/org/jdownloader/update/launcher/SecondLevelLauncher.class

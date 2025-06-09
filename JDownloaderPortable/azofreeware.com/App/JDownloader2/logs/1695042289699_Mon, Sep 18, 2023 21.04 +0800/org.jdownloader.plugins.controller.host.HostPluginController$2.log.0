@@ -1,0 +1,30 @@
+------------------------Thread: 17:org.jdownloader.plugins.controller.host.HostPluginController$2.log-----------------------
+--ID:17TS:1695042292096-2023/9/18 下午 09:04:52 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> HostPluginController: init
+--ID:17TS:1695042292111-2023/9/18 下午 09:04:52 -  [] -> Exception thrown at org.jdownloader.plugins.controller.host.HostPluginController$2.run(HostPluginController.java:119):
+java.io.IOException: Outdated CacheVersion:12213378568|13528340974 (8/563886)
+	at org.jdownloader.plugins.controller.host.LazyHostPluginCache.read(LazyHostPluginCache.java:125)
+	at org.jdownloader.plugins.controller.host.HostPluginController.loadFromCache(HostPluginController.java:252)
+	at org.jdownloader.plugins.controller.host.HostPluginController.access$300(HostPluginController.java:44)
+	at org.jdownloader.plugins.controller.host.HostPluginController$2.run(HostPluginController.java:116)
+	at org.jdownloader.plugins.controller.host.HostPluginController$2.run(HostPluginController.java:102)
+	at org.appwork.utils.NonInterruptibleThread$2.call(NonInterruptibleThread.java:115)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.io.IOException: Outdated CacheVersion:12213378568|13528340974
+	at org.jdownloader.plugins.controller.host.LazyHostPluginCache.read(LazyHostPluginCache.java:55)
+	... 9 more
+
+--ID:17TS:1695042292112-2023/9/18 下午 09:04:52 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPluginController: cache failed!
+--ID:17TS:1695042292115-2023/9/18 下午 09:04:52 -  [org.jdownloader.plugins.controller.PluginScannerNIO(scan)] -> @PluginController(NIO): no plugin cache available|LastModified:-1
+--ID:17TS:1695042296518-2023/9/18 下午 09:04:56 -  [org.jdownloader.plugins.controller.PluginScannerNIO(scan)] -> @PluginController(NIO): scan took 4404ms for 1127
+--ID:17TS:1695042297503-2023/9/18 下午 09:04:57 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPluginController: update took 5391ms for 3825|LastModified:1695041862118
+--ID:17TS:1695042297505-2023/9/18 下午 09:04:57 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPluginController: sort took 1ms for 3825
+--ID:17TS:1695042297506-2023/9/18 下午 09:04:57 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPlugin replaced:DailyMotionCom@48281|2:48281 with DailyMotionComV2@47865|3:47865
+--ID:17TS:1695042297506-2023/9/18 下午 09:04:57 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPlugin replaced:FileFactory@47663|2:47663 with PowerFileCom@46119|3:46119
+--ID:17TS:1695042297506-2023/9/18 下午 09:04:57 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPlugin replaced:EvilangelGangbangcreampieCom@48310|3:48310 with EvilangelGloryholesecretsCom@48310|3:48310
+--ID:17TS:1695042297506-2023/9/18 下午 09:04:57 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPlugin replaced:Offline@48281|3:48281 with Offline@48281|3:48281
+--ID:17TS:1695042297506-2023/9/18 下午 09:04:57 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPlugin replaced:Offline@48281|3:48281 with Offline@48281|3:48281
+--ID:17TS:1695042297506-2023/9/18 下午 09:04:57 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPluginController: mapping took 1ms for 3825
+--ID:17TS:1695042297506-2023/9/18 下午 09:04:57 -  [org.jdownloader.plugins.controller.host.HostPluginController$2(run)] -> @HostPluginController: init took 5410ms for 3819

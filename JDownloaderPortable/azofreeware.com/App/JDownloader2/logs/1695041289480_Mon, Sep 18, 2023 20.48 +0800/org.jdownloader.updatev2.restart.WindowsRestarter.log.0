@@ -1,0 +1,19 @@
+------------------------Thread: 1:org.jdownloader.updatev2.restart.WindowsRestarter.log-----------------------
+--ID:1TS:1695041289711-2023/9/18 下午 08:48:09 -  [org.jdownloader.updatev2.restart.Restarter(<init>)] -> Create Restarter
+------------------------Thread: 341:org.jdownloader.updatev2.restart.WindowsRestarter.log-----------------------
+--ID:341TS:1695041819949-2023/9/18 下午 08:56:59 -  [org.jdownloader.updatev2.restart.Restarter(restart)] -> RestartIt
+--ID:341TS:1695041819949-2023/9/18 下午 08:56:59 -  [org.jdownloader.updatev2.restart.WindowsRestarter(getApplicationStartCommands)] -> No binary found! Will use JavaBinary!
+--ID:341TS:1695041819950-2023/9/18 下午 08:56:59 -  [org.jdownloader.updatev2.restart.Restarter(restart)] -> appcommands
+--ID:341TS:1695041819950-2023/9/18 下午 08:56:59 -  [org.jdownloader.updatev2.restart.Restarter(restart)] -> appcmd [C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\bin\javaw.exe, -Xmx512m, -jar, JDownloader.jar]
+--ID:341TS:1695041819950-2023/9/18 下午 08:56:59 -  [org.jdownloader.updatev2.restart.Restarter(restart)] -> cmdline [C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\bin\javaw.exe, -Xmx512m, -jar, JDownloader.jar, -updateOnExit]
+--ID:341TS:1695041819951-2023/9/18 下午 08:56:59 -  [org.jdownloader.updatev2.restart.Restarter(restart)] -> Start process
+--ID:341TS:1695041819955-2023/9/18 下午 08:56:59 -  [org.jdownloader.updatev2.restart.Restarter(restart)] -> Read errorstream
+--ID:341TS:1695041819956-2023/9/18 下午 08:56:59 -  [org.jdownloader.updatev2.restart.Restarter(restart)] -> Read inputstream
+------------------------Thread: 343:org.jdownloader.updatev2.restart.WindowsRestarter.log-----------------------
+--ID:343TS:1695041820027-2023/9/18 下午 08:57:00 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> JarHandlerWorkaroundOracle:setURLStreamHandlerFactory
+--ID:343TS:1695041820029-2023/9/18 下午 08:57:00 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> JarHandlerWorkaroundOracle:replaceLauncherFactory
+--ID:343TS:1695041820030-2023/9/18 下午 08:57:00 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> JarHandlerWorkaroundOracle:replaceURLClassPath
+--ID:343TS:1695041820030-2023/9/18 下午 08:57:00 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> JarHandlerWorkaroundOracle:replacejarHandler
+--ID:343TS:1695041820030-2023/9/18 下午 08:57:00 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> JarHandlerWorkaroundOracle:replaceLoaders:1
+--ID:343TS:1695041820030-2023/9/18 下午 08:57:00 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> JarHandlerWorkaroundOracle:replaceLoader:0:handler
+--ID:343TS:1695041820030-2023/9/18 下午 08:57:00 -  [org.appwork.utils.logging2.InputStreamLogger(readInputStreamToString)] -> JarHandlerWorkaroundOracle:replaceLoader:0:handler:jar:file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/JDownloader.jar!/

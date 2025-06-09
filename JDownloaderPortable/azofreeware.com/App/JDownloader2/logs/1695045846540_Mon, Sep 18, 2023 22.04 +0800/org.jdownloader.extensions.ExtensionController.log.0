@@ -1,0 +1,5 @@
+------------------------Thread: 55:org.jdownloader.extensions.ExtensionController.log-----------------------
+--ID:55TS:1695045848915-2023/9/18 下午 10:04:08 -  [org.jdownloader.extensions.ExtensionController(init)] -> @ExtensionController: init in263ms :3
+--ID:55TS:1695045848915-2023/9/18 下午 10:04:08 -  [org.jdownloader.extensions.ExtensionController(init)] -> @ExtensionController:防止待機
+--ID:55TS:1695045848915-2023/9/18 下午 10:04:08 -  [org.jdownloader.extensions.ExtensionController(init)] -> @ExtensionController:壓縮檔解壓縮程式
+--ID:55TS:1695045848915-2023/9/18 下午 10:04:08 -  [org.jdownloader.extensions.ExtensionController(init)] -> @ExtensionController:JD 關機

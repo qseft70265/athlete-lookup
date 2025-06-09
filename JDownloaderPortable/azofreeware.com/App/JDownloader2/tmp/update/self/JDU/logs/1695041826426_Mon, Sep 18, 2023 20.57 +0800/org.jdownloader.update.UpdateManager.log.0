@@ -1,0 +1,105 @@
+------------------------Thread: 1:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:1TS:1695041826714-2023/9/18 下午 08:57:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> ClientSetup 7
+------------------------Thread: 15:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:15TS:1695041826766-2023/9/18 下午 08:57:06 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Installed Extensions: []
+--ID:15TS:1695041826766-2023/9/18 下午 08:57:06 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Requested Extension Installations: []
+--ID:15TS:1695041826766-2023/9/18 下午 08:57:06 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Requested Extension Uninstalls: []
+--ID:15TS:1695041826767-2023/9/18 下午 08:57:06 -  [org.jdownloader.update.JDUpdateClient$JDExtensionManager(init)] -> Installed Extensions: []
+--ID:15TS:1695041826768-2023/9/18 下午 08:57:06 -  [org.appwork.updatesys.client.FileList(<init>)] -> FileList at C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\update\versioninfo\JD\filelist.txt Size: 0
+------------------------Thread: 1:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:1TS:1695041826771-2023/9/18 下午 08:57:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> Client 57
+------------------------Thread: 15:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:15TS:1695041826774-2023/9/18 下午 08:57:06 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Installed Extensions: []
+--ID:15TS:1695041826774-2023/9/18 下午 08:57:06 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Requested Extension Installations: []
+--ID:15TS:1695041826774-2023/9/18 下午 08:57:06 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Requested Extension Uninstalls: []
+--ID:15TS:1695041826775-2023/9/18 下午 08:57:06 -  [org.appwork.updatesys.client.FileList(<init>)] -> FileList at C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\self\JDU\update\versioninfo\JDU\filelist.txt Size: 0
+------------------------Thread: 1:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:1TS:1695041826775-2023/9/18 下午 08:57:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> selfUpdateClient 4
+--ID:1TS:1695041826775-2023/9/18 下午 08:57:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> LastChanceInit 0
+--ID:1TS:1695041826775-2023/9/18 下午 08:57:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> setUpdateOnExitFlag 0
+--ID:1TS:1695041826779-2023/9/18 下午 08:57:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> CreateGui 4
+--ID:1TS:1695041826780-2023/9/18 下午 08:57:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> DefaultHandler 1
+--ID:1TS:1695041826780-2023/9/18 下午 08:57:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> SetDefaultHandler 0
+--ID:1TS:1695041826780-2023/9/18 下午 08:57:06 -  [org.jdownloader.update.UpdateManager(<init>)] -> ProxySelector 0
+------------------------Thread: 16:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:16TS:1695041826920-2023/9/18 下午 08:57:06 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=392261ed1deedefe19234bf2f6c37fc1&rev=-1&srev=-1&urev=-1&surev=-1&rt=ST&st=1 via [Direct]
+--ID:16TS:1695041826920-2023/9/18 下午 08:57:06 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(internalDownloadWithProxy)] -> Try Proxy: Direct
+--ID:16TS:1695041826920-2023/9/18 下午 08:57:06 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Download to C:\Users\User\AppData\Local\Temp\lastChanceSrc1695041826782810981843024630394lch Size before: 0 bytes
+--ID:16TS:1695041828943-2023/9/18 下午 08:57:08 -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=392261ed1deedefe19234bf2f6c37fc1&rev=-1&srev=-1&urev=-1&surev=-1&rt=ST&st=1
+URL-Parameters:
+   app   : JD (REPO_NAME)
+   pkh   : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   jh    : 392261ed1deedefe19234bf2f6c37fc1
+   rev   : -1 (REPO_REVISION)
+   srev  : -1 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   urev  : -1 (UPDATER_REVISION)
+   surev : -1 (UPDATER_SUPER_REVISION)
+   rt    : ST (RUNTYPE)
+   st    : 1 (SELFTEST)
+SSLCipher: JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@1122736=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------ConnectionExceptions-------------------------
+0:update.jdownloader.org/136.243.5.58|javax.net.ssl.SSLHandshakeException(Received fatal alert: handshake_failure)|retrySSL:Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@1122736=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3
+----------------Request-------------------------
+GET /jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=392261ed1deedefe19234bf2f6c37fc1&rev=-1&srev=-1&urev=-1&surev=-1&rt=ST&st=1 HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: zh_TW
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+----------------Response Information------------
+Connection-Time: 217ms
+Request-Time: 218ms
+----------------Response------------------------
+HTTP/1.1 302 Found
+Date: Mon, 18 Sep 2023 12:59:54 GMT
+Content-Length: 0
+Connection: close
+Server: AppWork GmbH FcgiServer
+JCGI: 1 (HTTP_HEADER_FCGI)
+UPD_SRV: 1
+Location: http://cdn4.appwork.org/JD/JD_lastChanceRescueMe.jar.enc
+Strict-Transport-Security: max-age=15638400
+------------------------------------------------
+
+
+--ID:16TS:1695041829391-2023/9/18 下午 08:57:09 -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: http://cdn4.appwork.org/JD/JD_lastChanceRescueMe.jar.enc
+ConnectIP: cdn4.appwork.org/176.9.34.43:80
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /JD/JD_lastChanceRescueMe.jar.enc HTTP/1.1
+Host: cdn4.appwork.org
+Accept-Language: zh_TW
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+----------------Response Information------------
+Connection-Time: 217ms
+Request-Time: 219ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Server: nginx/1.15.12
+Date: Mon, 18 Sep 2023 12:59:57 GMT
+Content-Type: application/octet-stream
+Content-Length: 1696
+Last-Modified: Wed, 03 Apr 2013 12:41:08 GMT
+Connection: close
+ETag: "515c2364-6a0"
+X-CDN: 24_0_4_20
+X-CDN-SIGNATURE: .Nanachi.
+Accept-Ranges: bytes
+------------------------------------------------
+
+
+--ID:16TS:1695041829393-2023/9/18 下午 08:57:09 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Connection ok. Downloaded C:\Users\User\AppData\Local\Temp\lastChanceSrc1695041826782810981843024630394lch: 1696 bytes

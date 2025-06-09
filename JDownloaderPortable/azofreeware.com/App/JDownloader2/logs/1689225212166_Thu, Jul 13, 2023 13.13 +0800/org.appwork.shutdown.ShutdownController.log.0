@@ -1,0 +1,9 @@
+------------------------Thread: 1:org.appwork.shutdown.ShutdownController.log-----------------------
+--ID:1TS:1689225251864-2023/7/13 下午 01:14:11 -  [org.appwork.shutdown.ShutdownController(log)] -> Request Shutdown: org.jdownloader.updatev2.ForcedShutdown@18c1321
+--ID:1TS:1689225251864-2023/7/13 下午 01:14:11 -  [org.appwork.shutdown.ShutdownController(log)] -> Wait for ShutdownThread:Thread[ShutdownThread:1689225251864|org.jdownloader.updatev2.ForcedShutdown@18c1321,5,main]|waitDuration:0
+------------------------Thread: 34:org.appwork.shutdown.ShutdownController.log-----------------------
+--ID:34TS:1689225251864-2023/7/13 下午 01:14:11 -  [org.appwork.shutdown.ShutdownController(log)] -> Exit Now(Controller): Code: 0
+--ID:34TS:1689225251864-2023/7/13 下午 01:14:11 -  [org.appwork.shutdown.ShutdownController(log)] -> [1/8|Priority: 10000]ShutdownController: start item->org.appwork.shutdown.ShutdownRunableEvent Priority: 10000
+--ID:34TS:1689225251865-2023/7/13 下午 01:14:11 -  [org.appwork.shutdown.ShutdownController(log)] -> [1/8|Priority: 10000]ShutdownController: item ended after->1
+--ID:34TS:1689225251865-2023/7/13 下午 01:14:11 -  [org.appwork.shutdown.ShutdownController(log)] -> [Done:1/8]
+--ID:34TS:1689225251865-2023/7/13 下午 01:14:11 -  [org.appwork.shutdown.ShutdownController(log)] -> [2/8|Priority: 10000]ShutdownController: start item->flushing logs to disk

@@ -1,0 +1,4 @@
+------------------------Thread: 23:org.appwork.swing.synthetica.SyntheticaHelper@18f4613.log-----------------------
+--ID:23TS:1695041820965-2023/9/18 下午 08:57:00 -  [org.appwork.swing.synthetica.SyntheticaHelper(getFontScaleFaktor)] -> Get FontScale from Translationfile: 100
+--ID:23TS:1695041820965-2023/9/18 下午 08:57:00 -  [org.appwork.swing.synthetica.SyntheticaHelper(load)] -> FontScale: 100
+--ID:23TS:1695041821287-2023/9/18 下午 08:57:01 -  [org.appwork.swing.synthetica.SyntheticaHelper(load)] -> FontName: Dialog

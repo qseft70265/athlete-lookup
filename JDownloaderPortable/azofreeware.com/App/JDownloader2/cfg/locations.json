@@ -1,0 +1,130 @@
+{
+ "data" : {
+           "RememberRelativeDialogLocator-45dd6c42557be178c46b5440b9fa7aeb"                                                          : {
+                                                                                                                                        "lastAccess" : 1669878273054,
+                                                                                                                                        "type"       : null,
+                                                                                                                                        "x"          : 0,
+                                                                                                                                        "y"          : 0,
+                                                                                                                                        "valid"      : false
+                                                                                                                                       },
+           "RememberRelativeDialogLocator-5bf6e8ca317ad3e49a53ee2ebdeff89a"                                                          : {
+                                                                                                                                        "lastAccess" : 1671716661871,
+                                                                                                                                        "type"       : null,
+                                                                                                                                        "x"          : 0,
+                                                                                                                                        "y"          : 0,
+                                                                                                                                        "valid"      : false
+                                                                                                                                       },
+           "RememberLastDimensor-AddLinksDialog"                                                                                     : {
+                                                                                                                                        "lastAccess" : 1695045854668,
+                                                                                                                                        "type"       : null,
+                                                                                                                                        "x"          : 700,
+                                                                                                                                        "y"          : 300,
+                                                                                                                                        "valid"      : true
+                                                                                                                                       },
+           "RememberRelativeDialogLocator-4f5f69cbc1f81addd318a18c01a02b1b"                                                          : {
+                                                                                                                                        "lastAccess" : 1671637044158,
+                                                                                                                                        "type"       : null,
+                                                                                                                                        "x"          : 0,
+                                                                                                                                        "y"          : 0,
+                                                                                                                                        "valid"      : false
+                                                                                                                                       },
+           "RememberRelativeDialogLocator-c0394d2bd2799e8e2c96866a4ec10e7c"                                                          : {
+                                                                                                                                        "lastAccess" : 1671716442974,
+                                                                                                                                        "type"       : null,
+                                                                                                                                        "x"          : 0,
+                                                                                                                                        "y"          : 0,
+                                                                                                                                        "valid"      : false
+                                                                                                                                       },
+           "RememberRelativeDialogLocator-039a34d79e5bc554ca3bbd15e7ad4f2b"                                                          : {
+                                                                                                                                        "lastAccess" : 1689222259307,
+                                                                                                                                        "type"       : null,
+                                                                                                                                        "x"          : 0,
+                                                                                                                                        "y"          : 0,
+                                                                                                                                        "valid"      : false
+                                                                                                                                       },
+           "RememberRelativeDialogLocator-f5b53eca3d89eff9ad84a8bb5df6f13d"                                                          : {
+                                                                                                                                        "lastAccess" : 1671716634833,
+                                                                                                                                        "type"       : null,
+                                                                                                                                        "x"          : 0,
+                                                                                                                                        "y"          : 0,
+                                                                                                                                        "valid"      : false
+                                                                                                                                       },
+           "RememberRelativeDialogLocator-16092fa65ec49dddbe08a1803978ab47"                                                          : {
+                                                                                                                                        "lastAccess" : 1679759445777,
+                                                                                                                                        "type"       : null,
+                                                                                                                                        "x"          : 0,
+                                                                                                                                        "y"          : 0,
+                                                                                                                                        "valid"      : false
+                                                                                                                                       },
+           "RememberRelativeLocator-Updater"                                                                                         : {
+                                                                                                                                        "lastAccess" : 1671716452438,
+                                                                                                                                        "type"       : "relative",
+                                                                                                                                        "x"          : 481,
+                                                                                                                                        "y"          : 290,
+                                                                                                                                        "valid"      : true
+                                                                                                                                       },
+           "RememberRelativeDialogLocator-54026469accea0dc27f6d179b01b7e73"                                                          : {
+                                                                                                                                        "lastAccess" : 1669878017461,
+                                                                                                                                        "type"       : null,
+                                                                                                                                        "x"          : 0,
+                                                                                                                                        "y"          : 0,
+                                                                                                                                        "valid"      : false
+                                                                                                                                       },
+           "RememberAbsoluteLocator-UpdaterFrame"                                                                                    : {
+                                                                                                                                        "lastAccess" : 1671716660313,
+                                                                                                                                        "type"       : "absolute",
+                                                                                                                                        "x"          : 702,
+                                                                                                                                        "y"          : 453,
+                                                                                                                                        "valid"      : true
+                                                                                                                                       },
+           "RememberRelativeDialogLocator-AddLinksProgress"                                                                          : {
+                                                                                                                                        "lastAccess" : 1695045856940,
+                                                                                                                                        "type"       : "relative",
+                                                                                                                                        "x"          : 300,
+                                                                                                                                        "y"          : 304,
+                                                                                                                                        "valid"      : true
+                                                                                                                                       },
+           "RememberRelativeDialogLocator-AddLinksDialog"                                                                            : {
+                                                                                                                                        "lastAccess" : 1695045854668,
+                                                                                                                                        "type"       : "relative",
+                                                                                                                                        "x"          : 162,
+                                                                                                                                        "y"          : 214,
+                                                                                                                                        "valid"      : true
+                                                                                                                                       },
+           "RememberRelativeDialogLocator-c607ff788e43a77cf3e182dfdb4e25ad"                                                          : {
+                                                                                                                                        "lastAccess" : 1695053338378,
+                                                                                                                                        "type"       : null,
+                                                                                                                                        "x"          : 0,
+                                                                                                                                        "y"          : 0,
+                                                                                                                                        "valid"      : false
+                                                                                                                                       },
+           "RememberRelativeDialogLocator-daa29aa30e83285c9ecc4180def4efc5"                                                          : {
+                                                                                                                                        "lastAccess" : 1695041424628,
+                                                                                                                                        "type"       : null,
+                                                                                                                                        "x"          : 0,
+                                                                                                                                        "y"          : 0,
+                                                                                                                                        "valid"      : false
+                                                                                                                                       },
+           "RememberRelativeDialogLocator-b2d781b72302357a546d5d9febfe36d9"                                                          : {
+                                                                                                                                        "lastAccess" : 1695053340793,
+                                                                                                                                        "type"       : null,
+                                                                                                                                        "x"          : 0,
+                                                                                                                                        "y"          : 0,
+                                                                                                                                        "valid"      : false
+                                                                                                                                       },
+           "RememberLastDimensor-DownloadFolderChooserDialog-org.jdownloader.gui.views.linkgrabber.addlinksdialog.AddLinksDialog$12" : {
+                                                                                                                                        "lastAccess" : 1689222265293,
+                                                                                                                                        "type"       : null,
+                                                                                                                                        "x"          : 526,
+                                                                                                                                        "y"          : 462,
+                                                                                                                                        "valid"      : true
+                                                                                                                                       },
+           "RememberRelativeDialogLocator-ae0ab4a8b81b5a7e6bf17dad8471d6b6"                                                          : {
+                                                                                                                                        "lastAccess" : 1671715588963,
+                                                                                                                                        "type"       : null,
+                                                                                                                                        "x"          : 0,
+                                                                                                                                        "y"          : 0,
+                                                                                                                                        "valid"      : false
+                                                                                                                                       }
+          }
+}

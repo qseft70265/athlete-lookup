@@ -1,0 +1,233 @@
+------------------------Thread: 79:FavIcons-----------------------
+--ID:79TS:1695041300358-2023/9/18 下午 08:48:20 -  [jd.controlling.faviconcontroller.FavIcons(downloadFavIcon)] -> Download FavIcon for goo.gl
+--ID:79TS:1695041302155-2023/9/18 下午 08:48:22 -  [] -> Exception thrown at jd.controlling.faviconcontroller.FavIcons.download_FavIconTag(FavIcons.java:582):
+java.io.IOException: redirect to different domain?developers.googleblog.com!=goo.gl
+	at jd.controlling.faviconcontroller.FavIcons.download_FavIconTag(FavIcons.java:556)
+	at jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:762)
+	at jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:740)
+	at jd.controlling.faviconcontroller.FavIcons$4.run(FavIcons.java:309)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+--ID:79TS:1695041302716-2023/9/18 下午 08:48:22 -  [] -> Exception thrown at jd.controlling.faviconcontroller.FavIcons.download_FavIconTag(FavIcons.java:582):
+java.io.IOException: redirect to different domain?developers.googleblog.com!=goo.gl
+	at jd.controlling.faviconcontroller.FavIcons.download_FavIconTag(FavIcons.java:556)
+	at jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:762)
+	at jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:740)
+	at jd.controlling.faviconcontroller.FavIcons$4.run(FavIcons.java:309)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+--ID:79TS:1695041302716-2023/9/18 下午 08:48:22 -  [jd.controlling.faviconcontroller.FavIcons(downloadFavIcon)] -> Could not download FavIcon for goo.gl
+------------------------Thread: 289:FavIcons-----------------------
+--ID:289TS:1695041553924-2023/9/18 下午 08:52:33 -  [jd.controlling.faviconcontroller.FavIcons(downloadFavIcon)] -> Download FavIcon for dugapiece.com
+--ID:289TS:1695041555165-2023/9/18 下午 08:52:35 -  [] -> Exception thrown at jd.controlling.faviconcontroller.FavIcons.download_FavIconTag(FavIcons.java:582):
+java.io.IOException: redirect to different domain?www.google.com!=dugapiece.com
+	at jd.controlling.faviconcontroller.FavIcons.download_FavIconTag(FavIcons.java:556)
+	at jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:762)
+	at jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:740)
+	at jd.controlling.faviconcontroller.FavIcons$4.run(FavIcons.java:309)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+--ID:289TS:1695041555666-2023/9/18 下午 08:52:35 -  [] -> Exception thrown at jd.controlling.faviconcontroller.FavIcons.download_FavIconTag(FavIcons.java:582):
+java.io.IOException: redirect to different domain?www.google.com!=dugapiece.com
+	at jd.controlling.faviconcontroller.FavIcons.download_FavIconTag(FavIcons.java:556)
+	at jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:762)
+	at jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:740)
+	at jd.controlling.faviconcontroller.FavIcons$4.run(FavIcons.java:309)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+--ID:289TS:1695041555666-2023/9/18 下午 08:52:35 -  [jd.controlling.faviconcontroller.FavIcons(downloadFavIcon)] -> Could not download FavIcon for dugapiece.com
+------------------------Thread: 288:FavIcons-----------------------
+--ID:288TS:1695041553922-2023/9/18 下午 08:52:33 -  [jd.controlling.faviconcontroller.FavIcons(downloadFavIcon)] -> Download FavIcon for static.cloudflareinsights.com
+--ID:288TS:1695041574188-2023/9/18 下午 08:52:54 -  [] -> Exception thrown at jd.http.Browser.openRequestConnection(Browser.java:2064):
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.bouncycastle.tls.RecordStream$Record.fillTo(Unknown Source)
+	at org.bouncycastle.tls.RecordStream$Record.readHeader(Unknown Source)
+	at org.bouncycastle.tls.RecordStream.readRecord(Unknown Source)
+	at org.bouncycastle.tls.TlsProtocol.safeReadRecord(Unknown Source)
+	at org.bouncycastle.tls.TlsProtocol.readApplicationData(Unknown Source)
+	at org.bouncycastle.tls.TlsInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at org.appwork.utils.net.CountingInputStream.read(CountingInputStream.java:67)
+	at java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionUtils.readheader(HTTPConnectionUtils.java:635)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.connectInputStream(HTTPConnectionImpl.java:1122)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.sendRequest(HTTPConnectionImpl.java:1758)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.connect(HTTPConnectionImpl.java:1025)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.finalizeConnect(HTTPConnectionImpl.java:1320)
+	at jd.http.Request.connect(Request.java:374)
+	at jd.http.Request.connect(Request.java:361)
+	at jd.http.Browser.openRequestConnection(Browser.java:2027)
+	at jd.http.Browser.openRequestConnection(Browser.java:1883)
+	at jd.http.Browser.getPage(Browser.java:1542)
+	at jd.http.Browser.getPage(Browser.java:1538)
+	at jd.controlling.faviconcontroller.FavIcons.download_FavIconTag(FavIcons.java:552)
+	at jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:762)
+	at jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:740)
+	at jd.controlling.faviconcontroller.FavIcons$4.run(FavIcons.java:309)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+--ID:288TS:1695041574189-2023/9/18 下午 08:52:54 -  [] -> Exception thrown at jd.controlling.faviconcontroller.FavIcons.download_FavIconTag(FavIcons.java:566):
+jd.http.Browser$BrowserException: Caller: jd.controlling.faviconcontroller.FavIcons.download_FavIconTag(FavIcons.java:552)
+jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:762)
+jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:740)
+jd.controlling.faviconcontroller.FavIcons$4.run(FavIcons.java:309)
+java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+java.lang.Thread.run(Thread.java:748)
+BrowserID:23|BrowserParentID:-1|RequestID:1|URL:https://static.cloudflareinsights.com/
+----------------Request Information-------------
+URL: https://static.cloudflareinsights.com/
+ConnectIP: static.cloudflareinsights.com/104.16.57.101:443
+Connection-Timeout: 10000ms
+Read-Timeout: 10000ms
+----------------ConnectionExceptions-------------------------
+0:static.cloudflareinsights.com/104.16.57.101|java.net.SocketTimeoutException(Read timed out)|retrySSL:Factory:org.jdownloader.net.AutoBCSSLSocketStreamFactory@19d41a6=fallback BouncyCastle
+1:static.cloudflareinsights.com/104.16.57.101|java.net.SocketTimeoutException(Read timed out)|retrySSL:null
+----------------Request-------------------------
+-------------Not Connected Yet!-----------------
+
+----------------Response Information------------
+-------------Not Connected Yet!------------------
+
+
+	at jd.http.Browser.openRequestConnection(Browser.java:2075)
+	at jd.http.Browser.openRequestConnection(Browser.java:1883)
+	at jd.http.Browser.getPage(Browser.java:1542)
+	at jd.http.Browser.getPage(Browser.java:1538)
+	at jd.controlling.faviconcontroller.FavIcons.download_FavIconTag(FavIcons.java:552)
+	at jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:762)
+	at jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:740)
+	at jd.controlling.faviconcontroller.FavIcons$4.run(FavIcons.java:309)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.bouncycastle.tls.RecordStream$Record.fillTo(Unknown Source)
+	at org.bouncycastle.tls.RecordStream$Record.readHeader(Unknown Source)
+	at org.bouncycastle.tls.RecordStream.readRecord(Unknown Source)
+	at org.bouncycastle.tls.TlsProtocol.safeReadRecord(Unknown Source)
+	at org.bouncycastle.tls.TlsProtocol.readApplicationData(Unknown Source)
+	at org.bouncycastle.tls.TlsInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at org.appwork.utils.net.CountingInputStream.read(CountingInputStream.java:67)
+	at java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionUtils.readheader(HTTPConnectionUtils.java:635)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.connectInputStream(HTTPConnectionImpl.java:1122)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.sendRequest(HTTPConnectionImpl.java:1758)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.connect(HTTPConnectionImpl.java:1025)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.finalizeConnect(HTTPConnectionImpl.java:1320)
+	at jd.http.Request.connect(Request.java:374)
+	at jd.http.Request.connect(Request.java:361)
+	at jd.http.Browser.openRequestConnection(Browser.java:2027)
+	... 10 more
+
+--ID:288TS:1695041594339-2023/9/18 下午 08:53:14 -  [] -> Exception thrown at jd.http.Browser.openRequestConnection(Browser.java:2064):
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.bouncycastle.tls.RecordStream$Record.fillTo(Unknown Source)
+	at org.bouncycastle.tls.RecordStream$Record.readHeader(Unknown Source)
+	at org.bouncycastle.tls.RecordStream.readRecord(Unknown Source)
+	at org.bouncycastle.tls.TlsProtocol.safeReadRecord(Unknown Source)
+	at org.bouncycastle.tls.TlsProtocol.readApplicationData(Unknown Source)
+	at org.bouncycastle.tls.TlsInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at org.appwork.utils.net.CountingInputStream.read(CountingInputStream.java:67)
+	at java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionUtils.readheader(HTTPConnectionUtils.java:635)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.connectInputStream(HTTPConnectionImpl.java:1122)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.sendRequest(HTTPConnectionImpl.java:1758)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.connect(HTTPConnectionImpl.java:1025)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.finalizeConnect(HTTPConnectionImpl.java:1320)
+	at jd.http.Request.connect(Request.java:374)
+	at jd.http.Request.connect(Request.java:361)
+	at jd.http.Browser.openRequestConnection(Browser.java:2027)
+	at jd.http.Browser.followRedirect(Browser.java:1046)
+	at jd.controlling.faviconcontroller.FavIcons.download_FavIconTag(FavIcons.java:554)
+	at jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:762)
+	at jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:740)
+	at jd.controlling.faviconcontroller.FavIcons$4.run(FavIcons.java:309)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+--ID:288TS:1695041594339-2023/9/18 下午 08:53:14 -  [] -> Exception thrown at jd.controlling.faviconcontroller.FavIcons.download_FavIconTag(FavIcons.java:566):
+jd.http.Browser$BrowserException: Caller: jd.controlling.faviconcontroller.FavIcons.download_FavIconTag(FavIcons.java:554)
+jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:762)
+jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:740)
+jd.controlling.faviconcontroller.FavIcons$4.run(FavIcons.java:309)
+java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+java.lang.Thread.run(Thread.java:748)
+BrowserID:23|BrowserParentID:-1|RequestID:3|URL:https://static.cloudflareinsights.com/
+----------------Request Information-------------
+URL: https://static.cloudflareinsights.com/
+ConnectIP: static.cloudflareinsights.com/104.16.57.101:443
+Connection-Timeout: 10000ms
+Read-Timeout: 10000ms
+----------------ConnectionExceptions-------------------------
+0:static.cloudflareinsights.com/104.16.57.101|java.net.SocketTimeoutException(Read timed out)|retrySSL:Factory:org.jdownloader.net.AutoBCSSLSocketStreamFactory@19d41a6=fallback BouncyCastle
+1:static.cloudflareinsights.com/104.16.57.101|java.net.SocketTimeoutException(Read timed out)|retrySSL:null
+----------------Request-------------------------
+-------------Not Connected Yet!-----------------
+
+----------------Response Information------------
+-------------Not Connected Yet!------------------
+
+
+	at jd.http.Browser.openRequestConnection(Browser.java:2075)
+	at jd.http.Browser.followRedirect(Browser.java:1046)
+	at jd.controlling.faviconcontroller.FavIcons.download_FavIconTag(FavIcons.java:554)
+	at jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:762)
+	at jd.controlling.faviconcontroller.FavIcons.downloadFavIcon(FavIcons.java:740)
+	at jd.controlling.faviconcontroller.FavIcons$4.run(FavIcons.java:309)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.bouncycastle.tls.RecordStream$Record.fillTo(Unknown Source)
+	at org.bouncycastle.tls.RecordStream$Record.readHeader(Unknown Source)
+	at org.bouncycastle.tls.RecordStream.readRecord(Unknown Source)
+	at org.bouncycastle.tls.TlsProtocol.safeReadRecord(Unknown Source)
+	at org.bouncycastle.tls.TlsProtocol.readApplicationData(Unknown Source)
+	at org.bouncycastle.tls.TlsInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at org.appwork.utils.net.CountingInputStream.read(CountingInputStream.java:67)
+	at java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionUtils.readheader(HTTPConnectionUtils.java:635)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.connectInputStream(HTTPConnectionImpl.java:1122)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.sendRequest(HTTPConnectionImpl.java:1758)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.connect(HTTPConnectionImpl.java:1025)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.finalizeConnect(HTTPConnectionImpl.java:1320)
+	at jd.http.Request.connect(Request.java:374)
+	at jd.http.Request.connect(Request.java:361)
+	at jd.http.Browser.openRequestConnection(Browser.java:2027)
+	... 8 more
+
+--ID:288TS:1695041594339-2023/9/18 下午 08:53:14 -  [jd.controlling.faviconcontroller.FavIcons(downloadFavIcon)] -> Could not download FavIcon for static.cloudflareinsights.com
+--ID:288TS:1695041594340-2023/9/18 下午 08:53:14 -  [jd.controlling.faviconcontroller.FavIcons(downloadFavIcon)] -> Download FavIcon for cloudflareinsights.com
+--ID:288TS:1695041594474-2023/9/18 下午 08:53:14 -  [jd.controlling.faviconcontroller.FavIcons(downloadFavIcon)] -> Could not download FavIcon for cloudflareinsights.com

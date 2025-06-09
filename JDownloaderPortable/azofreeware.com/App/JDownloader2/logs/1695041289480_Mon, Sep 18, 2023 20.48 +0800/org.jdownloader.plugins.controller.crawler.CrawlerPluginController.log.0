@@ -1,0 +1,17 @@
+------------------------Thread: 100:org.jdownloader.plugins.controller.crawler.CrawlerPluginController.log-----------------------
+--ID:100TS:1695041311535-2023/9/18 下午 08:48:31 -  [org.jdownloader.plugins.controller.crawler.CrawlerPluginController(init)] -> CrawlerPluginController: init
+------------------------Thread: 17:org.jdownloader.plugins.controller.crawler.CrawlerPluginController.log-----------------------
+--ID:17TS:1695041311545-2023/9/18 下午 08:48:31 -  [org.jdownloader.plugins.controller.crawler.CrawlerPluginController$1(run)] -> @CrawlerPluginController: loadFromCache took 10ms for 1146|LastModified:1689222266665
+--ID:17TS:1695041311545-2023/9/18 下午 08:48:31 -  [org.jdownloader.plugins.controller.PluginScannerNIO(scan)] -> @PluginController(NIO): plugin cache invalid|Size:1146|LastModified:1689225241823
+--ID:17TS:1695041313463-2023/9/18 下午 08:48:33 -  [org.jdownloader.plugins.controller.PluginScannerNIO(scan)] -> @PluginController(NIO): scan took 1918ms for 801
+--ID:17TS:1695041313681-2023/9/18 下午 08:48:33 -  [org.jdownloader.plugins.controller.crawler.CrawlerPluginController$1(run)] -> @CrawlerPluginController: update took 2136ms for 1126|LastModified:1689225241823
+--ID:17TS:1695041313681-2023/9/18 下午 08:48:33 -  [org.jdownloader.plugins.controller.crawler.CrawlerPluginController$1(run)] -> @CrawlerPluginController: init took 2146ms for 1126
+------------------------Thread: 166:org.jdownloader.plugins.controller.crawler.CrawlerPluginController.log-----------------------
+--ID:166TS:1695041394706-2023/9/18 下午 08:49:54 -  [org.jdownloader.plugins.controller.crawler.CrawlerPluginController(init)] -> CrawlerPluginController: init
+------------------------Thread: 167:org.jdownloader.plugins.controller.crawler.CrawlerPluginController.log-----------------------
+--ID:167TS:1695041394716-2023/9/18 下午 08:49:54 -  [org.jdownloader.plugins.controller.crawler.CrawlerPluginController$1(run)] -> @CrawlerPluginController: loadFromCache took 10ms for 1126|LastModified:1689225241823
+--ID:167TS:1695041394722-2023/9/18 下午 08:49:54 -  [org.jdownloader.plugins.controller.PluginScannerNIO(scan)] -> @PluginController(NIO): lastModified timestamp change test: successful
+--ID:167TS:1695041394722-2023/9/18 下午 08:49:54 -  [org.jdownloader.plugins.controller.PluginScannerNIO(scan)] -> @PluginController(NIO): plugin cache valid|Size:1126|LastModified:1695041394722
+--ID:167TS:1695041394723-2023/9/18 下午 08:49:54 -  [org.jdownloader.plugins.controller.PluginScannerNIO(scan)] -> @PluginController(NIO): scan took 6ms for 1126
+--ID:167TS:1695041394723-2023/9/18 下午 08:49:54 -  [org.jdownloader.plugins.controller.crawler.CrawlerPluginController$1(run)] -> @CrawlerPluginController: update took 7ms for 1126|LastModified:1695041394722
+--ID:167TS:1695041394723-2023/9/18 下午 08:49:54 -  [org.jdownloader.plugins.controller.crawler.CrawlerPluginController$1(run)] -> @CrawlerPluginController: init took 17ms for 1126

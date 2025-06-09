@@ -1,0 +1,12 @@
+{
+ "appID"               : "JD",
+ "destRevision"        : 16402,
+ "file"                : "package_1669878222461.awf",
+ "installExtensions"   : [],
+ "installedExtensions" : ["shutdown","antishutdown"],
+ "sourceRevision"      : 16258,
+ "timestamp"           : 1669878222463,
+ "uninstallExtensions" : [],
+ "encrypted"           : true,
+ "extracted"           : false
+}

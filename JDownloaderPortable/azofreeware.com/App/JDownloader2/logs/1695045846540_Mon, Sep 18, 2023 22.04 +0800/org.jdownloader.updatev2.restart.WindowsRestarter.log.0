@@ -1,0 +1,11 @@
+------------------------Thread: 1:org.jdownloader.updatev2.restart.WindowsRestarter.log-----------------------
+--ID:1TS:1695045846688-2023/9/18 下午 10:04:06 -  [org.jdownloader.updatev2.restart.Restarter(<init>)] -> Create Restarter
+------------------------Thread: 2419:org.jdownloader.updatev2.restart.WindowsRestarter.log-----------------------
+--ID:2419TS:1695053345319-2023/9/19 上午 12:09:05 -  [org.jdownloader.updatev2.restart.Restarter(restart)] -> RestartIt
+--ID:2419TS:1695053345320-2023/9/19 上午 12:09:05 -  [org.jdownloader.updatev2.restart.WindowsRestarter(getApplicationStartCommands)] -> No binary found! Will use JavaBinary!
+--ID:2419TS:1695053345320-2023/9/19 上午 12:09:05 -  [org.jdownloader.updatev2.restart.Restarter(restart)] -> appcommands
+--ID:2419TS:1695053345320-2023/9/19 上午 12:09:05 -  [org.jdownloader.updatev2.restart.Restarter(restart)] -> appcmd [C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\bin\javaw.exe, -Xmx512m, -jar, JDownloader.jar]
+--ID:2419TS:1695053345320-2023/9/19 上午 12:09:05 -  [org.jdownloader.updatev2.restart.Restarter(restart)] -> cmdline [C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\bin\javaw.exe, -Xmx512m, -jar, JDownloader.jar, -updateOnExit]
+--ID:2419TS:1695053345320-2023/9/19 上午 12:09:05 -  [org.jdownloader.updatev2.restart.Restarter(restart)] -> Start process
+--ID:2419TS:1695053345325-2023/9/19 上午 12:09:05 -  [org.jdownloader.updatev2.restart.Restarter(restart)] -> Read errorstream
+--ID:2419TS:1695053345326-2023/9/19 上午 12:09:05 -  [org.jdownloader.updatev2.restart.Restarter(restart)] -> Read inputstream

@@ -1,0 +1,127 @@
+------------------------Thread: 1:org.jdownloader.update.launcher.SecondLevelLauncher.log-----------------------
+--ID:1TS:1695041820233-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.runtime.name: Java(TM) SE Runtime Environment
+--ID:1TS:1695041820233-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.boot.library.path: C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\bin
+--ID:1TS:1695041820233-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.version: 25.181-b13
+--ID:1TS:1695041820233-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.awt.nopixfmt: true
+--ID:1TS:1695041820233-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.java2d.d3d: false
+--ID:1TS:1695041820233-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.vendor: Oracle Corporation
+--ID:1TS:1695041820233-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vendor.url: http://java.oracle.com/
+--ID:1TS:1695041820233-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: path.separator: ;
+--ID:1TS:1695041820233-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.name: Java HotSpot(TM) Client VM
+--ID:1TS:1695041820233-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: file.encoding.pkg: sun.io
+--ID:1TS:1695041820432-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: com.sun.jndi.rmi.object.trustURLCodebase: false
+--ID:1TS:1695041820433-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.country: TW
+--ID:1TS:1695041820433-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.script: 
+--ID:1TS:1695041820433-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.java.launcher: SUN_STANDARD
+--ID:1TS:1695041820433-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.os.patch.level: 
+--ID:1TS:1695041820433-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: extlogmanager.avoidsystemclassloader.hack: sun.misc.Launcher$AppClassLoader@1f96302
+--ID:1TS:1695041820433-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.specification.name: Java Virtual Machine Specification
+--ID:1TS:1695041820433-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.dir: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2
+--ID:1TS:1695041820433-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.runtime.version: 1.8.0_181-b13
+--ID:1TS:1695041820433-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.awt.graphicsenv: sun.awt.Win32GraphicsEnvironment
+--ID:1TS:1695041820433-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.util.Arrays.useLegacyMergeSort: true
+--ID:1TS:1695041820433-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.endorsed.dirs: C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\endorsed
+--ID:1TS:1695041820434-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: os.arch: x86
+--ID:1TS:1695041820434-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.io.tmpdir: C:\Users\User\AppData\Local\Temp\
+--ID:1TS:1695041820434-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: line.separator: 
+
+--ID:1TS:1695041820434-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.specification.vendor: Oracle Corporation
+--ID:1TS:1695041820434-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.util.logging.manager: org.appwork.utils.logging2.extmanager.ExtLogManager
+--ID:1TS:1695041820434-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.variant: 
+--ID:1TS:1695041820434-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: os.name: Windows 10
+--ID:1TS:1695041820434-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: com.sun.jndi.ldap.object.trustURLCodebase: false
+--ID:1TS:1695041820434-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.jnu.encoding: MS950
+--ID:1TS:1695041820434-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.net.preferIPv6Addresses: system
+--ID:1TS:1695041820434-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.library.path: C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;.
+--ID:1TS:1695041820435-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.specification.name: Java Platform API Specification
+--ID:1TS:1695041820435-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.class.version: 52.0
+--ID:1TS:1695041820435-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.management.compiler: HotSpot Client Compiler
+--ID:1TS:1695041820435-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: org.appwork.LoggerFactory: org.appwork.utils.logging2.LogSourceRedirector
+--ID:1TS:1695041820435-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: os.version: 10.0
+--ID:1TS:1695041820435-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: classloader_00000001: org.jdownloader.update.launcher.CL2
+--ID:1TS:1695041820435-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.rmi.server.useCodebaseOnly: true
+--ID:1TS:1695041820435-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: classloader_00000000: org.jdownloader.update.launcher.ClassLoaderExtensionImpl
+--ID:1TS:1695041820435-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.home: C:\Users\User
+--ID:1TS:1695041820435-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.timezone: Asia/Taipei
+--ID:1TS:1695041820435-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.awt.printerjob: sun.awt.windows.WPrinterJob
+--ID:1TS:1695041820435-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: file.encoding: MS950
+--ID:1TS:1695041820435-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.specification.version: 1.8
+--ID:1TS:1695041820435-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.class.path: JDownloader.jar
+--ID:1TS:1695041820435-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.name: User
+--ID:1TS:1695041820436-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.specification.version: 1.8
+--ID:1TS:1695041820436-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.java.command: JDownloader.jar -updateOnExit
+--ID:1TS:1695041820436-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.home: C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java
+--ID:1TS:1695041820436-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.arch.data.model: 32
+--ID:1TS:1695041820436-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.language: zh
+--ID:1TS:1695041820436-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.specification.vendor: Oracle Corporation
+--ID:1TS:1695041820436-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: awt.toolkit: sun.awt.windows.WToolkit
+--ID:1TS:1695041820436-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.info: mixed mode
+--ID:1TS:1695041820436-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.version: 1.8.0_181
+--ID:1TS:1695041820436-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.ext.dirs: C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\ext;C:\Windows\Sun\Java\lib\ext
+--ID:1TS:1695041820436-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.boot.class.path: C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\resources.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\rt.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\sunrsasign.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\jsse.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\jce.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\charsets.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\lib\jfr.jar;C:\Users\User\Desktop\JDownloaderPortable\CommonFiles\Java\classes
+--ID:1TS:1695041820436-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vendor: Oracle Corporation
+--ID:1TS:1695041820436-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: file.separator: \
+--ID:1TS:1695041820436-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: k: 0dd0ecf7f742873d745106adea00b64a
+--ID:1TS:1695041820436-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: com.sun.jndi.cosnaming.object.trustURLCodebase: false
+--ID:1TS:1695041820437-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vendor.url.bug: http://bugreport.sun.com/bugreport/
+--ID:1TS:1695041820437-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: LOG_INIT_DONE: 2 instances
+--ID:1TS:1695041820437-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.io.unicode.encoding: UnicodeLittle
+--ID:1TS:1695041820437-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.cpu.endian: little
+--ID:1TS:1695041820437-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.desktop: windows
+--ID:1TS:1695041820437-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.cpu.isalist: 
+--ID:1TS:1695041820437-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: configsetroot: C:\Windows\ConfigSetRoot
+--ID:1TS:1695041820437-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: USERDOMAIN_ROAMINGPROFILE: DESKTOP-38EGLAP
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LOCALAPPDATA: C:\Users\User\AppData\Local
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: PROCESSOR_LEVEL: 25
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: USERDOMAIN: DESKTOP-38EGLAP
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LOGONSERVER: \\DESKTOP-38EGLAP
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: ALLUSERSPROFILE: C:\ProgramData
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: INTEL_DEV_REDIST: C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: PROCESSOR_ARCHITECTURE: x86
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: AMDRMSDKPATH: C:\Program Files\AMD\RyzenMasterSDK\
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: MIC_LD_LIBRARY_PATH: C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: __COMPAT_LAYER: Installer
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: PSModulePath: C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: SystemDrive: C:
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: OneDrive: C:\Users\User\OneDrive
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: APPDATA: C:\Users\User\AppData\Roaming
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: USERNAME: User
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: ProgramFiles(x86): C:\Program Files (x86)
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: CommonProgramFiles: C:\Program Files (x86)\Common Files
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: Path: C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Users\User\AppData\Local\Microsoft\WindowsApps
+--ID:1TS:1695041820438-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: PATHEXT: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: DriverData: C:\Windows\System32\Drivers\DriverData
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: OS: Windows_NT
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: OneDriveConsumer: C:\Users\User\OneDrive
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: PROCESSOR_ARCHITEW6432: AMD64
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: COMPUTERNAME: DESKTOP-38EGLAP
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: PROCESSOR_REVISION: 2100
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: CommonProgramW6432: C:\Program Files\Common Files
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: ComSpec: C:\Windows\system32\cmd.exe
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: ProgramData: C:\ProgramData
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: ProgramW6432: C:\Program Files
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: HOMEPATH: \Users\User
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: SystemRoot: C:\Windows
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: TEMP: C:\Users\User\AppData\Local\Temp
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: HOMEDRIVE: C:
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: PROCESSOR_IDENTIFIER: AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: USERPROFILE: C:\Users\User
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: TMP: C:\Users\User\AppData\Local\Temp
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: CommonProgramFiles(x86): C:\Program Files (x86)\Common Files
+--ID:1TS:1695041820439-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: ProgramFiles: C:\Program Files (x86)
+--ID:1TS:1695041820440-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: PUBLIC: C:\Users\Public
+--ID:1TS:1695041820440-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: NUMBER_OF_PROCESSORS: 16
+--ID:1TS:1695041820440-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: windir: C:\Windows
+--ID:1TS:1695041820440-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: =::: ::\
+--ID:1TS:1695041820441-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> jar:file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/JDownloader.jar!/version.nfo:
+${updateclient.revision}
+--ID:1TS:1695041820441-2023/9/18 下午 08:57:00 -  [org.appwork.utils.Application(printSystemProperties)] -> file:/C:/Users/User/Desktop/JDownloaderPortable/azofreeware.com/App/JDownloader2/build.json:
+{"JDownloaderServerOptionsRevision":5691,"buildTimestamp":1689178415111,"UpdateClientV2Revision":1046,"JDownloaderUpdaterRevision":5717,"AppWorkUtilsRevision":3996,"JDBrowserRevision":47902,"JDClosedRevision":939,"MyJDownloaderClientRevision":46032,"buildDate":"Wed Jul 12 18:13:35 CEST 2023","JDownloaderRevision":47973}
+--ID:1TS:1695041820442-2023/9/18 下午 08:57:00 -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Args: [-updateOnExit]
+--ID:1TS:1695041820452-2023/9/18 下午 08:57:00 -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Restart Controller init done in 10
+--ID:1TS:1695041820452-2023/9/18 下午 08:57:00 -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Parse Arguments
+--ID:1TS:1695041820453-2023/9/18 下午 08:57:00 -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Parameter Parse done in 1
+--ID:1TS:1695041820453-2023/9/18 下午 08:57:00 -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Single Instance Controller
+--ID:1TS:1695041820605-2023/9/18 下午 08:57:00 -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Single Instance init done in 152
+--ID:1TS:1695041820606-2023/9/18 下午 08:57:00 -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Init UpdateManager
+--ID:1TS:1695041820695-2023/9/18 下午 08:57:00 -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Update Manager init done in 89

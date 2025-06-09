@@ -1,0 +1,233 @@
+Sat Apr 04 22:09:55 CST 2020
+Package: package_1586009367135.awf
+Install
+Write Revision: 13765
+----------------Plugins----------------
+   jd/plugins/decrypter/AnimesTelecine.class
+   jd/plugins/decrypter/Animestc.class
+   jd/plugins/decrypter/AsscompactDeDecrypter.class
+   jd/plugins/decrypter/BabesComDecrypter.class.removed
+   jd/plugins/decrypter/BrazzersCom.class.removed
+   jd/plugins/decrypter/BtCom.class
+   jd/plugins/decrypter/ChoMikujPl.class
+   jd/plugins/decrypter/DigitalplaygroundCom.class.removed
+   jd/plugins/decrypter/EightMusesComDecrypter.class
+   jd/plugins/decrypter/FShareVnFolder.class
+   jd/plugins/decrypter/FakehubCom.class.removed
+   jd/plugins/decrypter/FapduCom.class.removed
+   jd/plugins/decrypter/FlickrCom.class
+   jd/plugins/decrypter/GenericRedirectors.class
+   jd/plugins/decrypter/GoogleDriveDirectoryIndex.class
+   jd/plugins/decrypter/HqpornerCom.class
+   jd/plugins/decrypter/ImdbCom.class
+   jd/plugins/decrypter/JavCL.class
+   jd/plugins/decrypter/KinoxTo.class
+   jd/plugins/decrypter/MightyScriptAdLinkFly$1.class
+   jd/plugins/decrypter/MightyScriptAdLinkFly$CaptchaType.class
+   jd/plugins/decrypter/MightyScriptAdLinkFly.class
+   jd/plugins/decrypter/MixCloudCom.class
+   jd/plugins/decrypter/MofosCom.class.removed
+   jd/plugins/decrypter/MotherLessCom$1.class
+   jd/plugins/decrypter/MotherLessCom.class
+   jd/plugins/decrypter/OpenloadTVStream.class
+   jd/plugins/decrypter/PixivNet.class.removed
+   jd/plugins/decrypter/PixivNetGallery.class
+   jd/plugins/decrypter/PlayVidComDecrypter.class
+   jd/plugins/decrypter/PornHubCom.class
+   jd/plugins/decrypter/PornRabbitComDecrypter.class
+   jd/plugins/decrypter/PornportalComCrawler.class
+   jd/plugins/decrypter/PrtctdScdvntCm.class
+   jd/plugins/decrypter/RealityKingsCom.class.removed
+   jd/plugins/decrypter/RewriteMegaConz.class
+   jd/plugins/decrypter/RlGalleriesNt.class
+   jd/plugins/decrypter/RrozhlasCz.class
+   jd/plugins/decrypter/SexyhubCom.class.removed
+   jd/plugins/decrypter/SoundCloudComDecrypter$1.class
+   jd/plugins/decrypter/SoundCloudComDecrypter.class
+   jd/plugins/decrypter/StreamCryptNet.class
+   jd/plugins/decrypter/TwitterCom.class
+   jd/plugins/decrypter/WickedCom.class
+   jd/plugins/decrypter/XHamsterGallery.class
+   jd/plugins/decrypter/ZDFMediathekDecrypter.class
+   jd/plugins/hoster/AllDebridCom$1.class
+   jd/plugins/hoster/AllDebridCom$2.class
+   jd/plugins/hoster/AllDebridCom$3.class
+   jd/plugins/hoster/AllDebridCom$4.class
+   jd/plugins/hoster/AllDebridCom$AlldebridComConfig$TRANSLATION.class
+   jd/plugins/hoster/AllDebridCom$AlldebridComConfig.class
+   jd/plugins/hoster/AllDebridCom.class
+   jd/plugins/hoster/AnonFilesCom.class
+   jd/plugins/hoster/AsscompactDe.class
+   jd/plugins/hoster/BabesCom.class.removed
+   jd/plugins/hoster/BadshareIo.class.removed
+   jd/plugins/hoster/BayFilesCom.class
+   jd/plugins/hoster/BduploadAsia.class
+   jd/plugins/hoster/BduploadInfo.class.removed
+   jd/plugins/hoster/BitsterCz.class.removed
+   jd/plugins/hoster/BookFiOrg.class
+   jd/plugins/hoster/BornCashOrg.class.removed
+   jd/plugins/hoster/BrazzersCom.class.removed
+   jd/plugins/hoster/BrfilesCom.class
+   jd/plugins/hoster/ByZooOrg.class.removed
+   jd/plugins/hoster/ByteBxCom.class.removed
+   jd/plugins/hoster/CboxeraCom.class
+   jd/plugins/hoster/CestyKsobeCz.class.removed
+   jd/plugins/hoster/ChoMikujPl$1.class
+   jd/plugins/hoster/ChoMikujPl.class
+   jd/plugins/hoster/ClipsageCom.class.removed
+   jd/plugins/hoster/CrazyshareCc.class
+   jd/plugins/hoster/DataDump$1.class
+   jd/plugins/hoster/DataDump$2.class
+   jd/plugins/hoster/DataDump.class
+   jd/plugins/hoster/DataFileHostCom$1.class
+   jd/plugins/hoster/DataFileHostCom.class
+   jd/plugins/hoster/DdlTo.class
+   jd/plugins/hoster/DebridFileCom.class
+   jd/plugins/hoster/DebridLinkFr$1.class
+   jd/plugins/hoster/DebridLinkFr.class
+   jd/plugins/hoster/DebridPl.class.removed
+   jd/plugins/hoster/DesufilesCom.class
+   jd/plugins/hoster/DigitalplaygroundCom.class.removed
+   jd/plugins/hoster/DosyaTv.class
+   jd/plugins/hoster/DownloadGg.class
+   jd/plugins/hoster/EHentaiOrg.class
+   jd/plugins/hoster/EightMusesCom.class
+   jd/plugins/hoster/FShareVn$1.class
+   jd/plugins/hoster/FShareVn.class
+   jd/plugins/hoster/FakehubCom.class.removed
+   jd/plugins/hoster/FapduCom.class.removed
+   jd/plugins/hoster/FappicCom.class
+   jd/plugins/hoster/File4GoCom.class
+   jd/plugins/hoster/FilerNet.class
+   jd/plugins/hoster/FileupOrg.class
+   jd/plugins/hoster/FlickrCom.class
+   jd/plugins/hoster/FlorenfileCom.class
+   jd/plugins/hoster/ForumfilesCom.class
+   jd/plugins/hoster/GamovideoCom.class
+   jd/plugins/hoster/GenericImgShot.class
+   jd/plugins/hoster/GfyCatCom.class
+   jd/plugins/hoster/GoogleDrive.class
+   jd/plugins/hoster/HallanClub.class
+   jd/plugins/hoster/HotstarCom.class.removed
+   jd/plugins/hoster/IdownloadClub.class.removed
+   jd/plugins/hoster/ImDbCom.class
+   jd/plugins/hoster/ImageFap$1.class
+   jd/plugins/hoster/ImageFap$2.class
+   jd/plugins/hoster/ImageFap.class
+   jd/plugins/hoster/ImgBabesCom.class
+   jd/plugins/hoster/KamababaCom.class
+   jd/plugins/hoster/KikuploadXyz.class
+   jd/plugins/hoster/LetsuploadCc.class
+   jd/plugins/hoster/LinkSnappyCom$1.class
+   jd/plugins/hoster/LinkSnappyCom$LinkSnappyComConfig$TRANSLATION.class
+   jd/plugins/hoster/LinkSnappyCom$LinkSnappyComConfig.class
+   jd/plugins/hoster/LinkSnappyCom.class
+   jd/plugins/hoster/MegaConz$1.class
+   jd/plugins/hoster/MegaConz$2.class
+   jd/plugins/hoster/MegaConz$MegaDownloadLinkDownloadable.class
+   jd/plugins/hoster/MegaConz$MegaHashCheck$1.class
+   jd/plugins/hoster/MegaConz$MegaHashCheck.class
+   jd/plugins/hoster/MegaConz.class
+   jd/plugins/hoster/MegagamesCom.class
+   jd/plugins/hoster/MegaloadCo.class
+   jd/plugins/hoster/MegaupNet.class
+   jd/plugins/hoster/MinfilCom.class
+   jd/plugins/hoster/MofosCom$MofosConfigInterface.class.removed
+   jd/plugins/hoster/MofosCom.class.removed
+   jd/plugins/hoster/MotherLessCom.class
+   jd/plugins/hoster/MultiupOrg.class
+   jd/plugins/hoster/MydaddyCc.class
+   jd/plugins/hoster/MyfileIs.class
+   jd/plugins/hoster/MyqloudOrg.class
+   jd/plugins/hoster/NexusmodsCom.class
+   jd/plugins/hoster/NicoVideoJp.class
+   jd/plugins/hoster/NitroFlareCom.class
+   jd/plugins/hoster/Offline.class
+   jd/plugins/hoster/OkRu.class
+   jd/plugins/hoster/OpenloadCc.class
+   jd/plugins/hoster/OxycloudCom.class
+   jd/plugins/hoster/OzeeCom.class.removed
+   jd/plugins/hoster/PixivNet.class
+   jd/plugins/hoster/PornHubCom$1.class
+   jd/plugins/hoster/PornHubCom$BouncyCastleAESCounterModeDecrypt.class
+   jd/plugins/hoster/PornHubCom.class
+   jd/plugins/hoster/PornRabbitCom.class
+   jd/plugins/hoster/PornportalCom.class
+   jd/plugins/hoster/RacatyCom.class
+   jd/plugins/hoster/RapidGatorNet.class
+   jd/plugins/hoster/RapidshareNu.class
+   jd/plugins/hoster/RealityKingsCom.class.removed
+   jd/plugins/hoster/RtveEs.class
+   jd/plugins/hoster/ScribdCom.class
+   jd/plugins/hoster/SexyhubCom.class.removed
+   jd/plugins/hoster/ShareOnlineTo.class
+   jd/plugins/hoster/ShareonlineIs.class
+   jd/plugins/hoster/SharingWtf.class
+   jd/plugins/hoster/SoundcloudCom$1.class
+   jd/plugins/hoster/SoundcloudCom$2.class
+   jd/plugins/hoster/SoundcloudCom.class
+   jd/plugins/hoster/StahomatCzSuperloadCz.class
+   jd/plugins/hoster/StreamCloudEu.class.removed
+   jd/plugins/hoster/StreamcloudTv.class
+   jd/plugins/hoster/StreamplayTo.class
+   jd/plugins/hoster/StreamzCc.class
+   jd/plugins/hoster/SundryfilesCom.class
+   jd/plugins/hoster/TransloadMe.class
+   jd/plugins/hoster/Tube8Com$BouncyCastleAESCounterModeDecrypt.class
+   jd/plugins/hoster/Tube8Com.class
+   jd/plugins/hoster/TurboBitNet.class
+   jd/plugins/hoster/TwitterCom$TwitterConfigInterface$TRANSLATION.class
+   jd/plugins/hoster/TwitterCom$TwitterConfigInterface.class
+   jd/plugins/hoster/TwitterCom.class
+   jd/plugins/hoster/UbiqfileCom.class
+   jd/plugins/hoster/UnknownPornScript4.class
+   jd/plugins/hoster/UpToBoxCom.class
+   jd/plugins/hoster/UploadcenterCom.class
+   jd/plugins/hoster/UseruploadIn.class
+   jd/plugins/hoster/VevIo$1.class
+   jd/plugins/hoster/VevIo.class
+   jd/plugins/hoster/VidcloudCo$VidcloudConfigInterface$TRANSLATION.class
+   jd/plugins/hoster/VidcloudCo$VidcloudConfigInterface.class
+   jd/plugins/hoster/VidcloudCo.class
+   jd/plugins/hoster/VidloadNet.class
+   jd/plugins/hoster/VidloxTv.class
+   jd/plugins/hoster/VidtodoCom.class
+   jd/plugins/hoster/WickedCom.class
+   jd/plugins/hoster/WstreamVideo.class
+   jd/plugins/hoster/WuShareCom.class
+   jd/plugins/hoster/XHamsterCom.class
+----------------Extensions----------------
+   extensions/Extraction.jar
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------
+   Core.jar
+   JD: Core.jar/jd/Win32WindowDemo.class.removed
+   JD: Core.jar/jd/config/ConfigEntry$1.class
+   JD: Core.jar/jd/config/ConfigEntry$PropertyType.class
+   JD: Core.jar/jd/config/ConfigEntry.class
+   JD: Core.jar/jd/controlling/faviconcontroller/FavIcons.class
+   JD: Core.jar/jd/plugins/Plugin$1.class
+   JD: Core.jar/jd/plugins/Plugin$2.class
+   JD: Core.jar/jd/plugins/Plugin$3.class
+   JD: Core.jar/jd/plugins/Plugin.class
+   JD: Core.jar/org/jdownloader/api/UpdateAPIImpl.class
+   JD: Core.jar/org/jdownloader/api/plugins/PluginConfigAdapter$1.class
+   JD: Core.jar/org/jdownloader/api/plugins/PluginConfigAdapter$2.class
+   JD: Core.jar/org/jdownloader/api/plugins/PluginConfigAdapter.class
+   JD: Core.jar/org/jdownloader/api/plugins/PluginsAPIImpl.class
+   JD: Core.jar/org/jdownloader/captcha/v2/challenge/recaptcha/v2/AbstractCaptchaHelperRecaptchaV2$1.class
+   JD: Core.jar/org/jdownloader/captcha/v2/challenge/recaptcha/v2/AbstractCaptchaHelperRecaptchaV2.class
+   JD: Core.jar/org/jdownloader/jdserv/JDServUtils.class
+   JD: Core.jar/org/jdownloader/plugins/components/TurbobitCore.class
+   JD: Core.jar/org/jdownloader/plugins/components/UnknownHostingScriptCore.class
+   JD: Core.jar/org/jdownloader/plugins/components/UnknownVideohostingCore.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic.class
+   JD: Core.jar/org/jdownloader/plugins/components/YetiShareCore.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/DebridLinkFrConfig$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/DebridLinkFrConfig$PreferredDomain$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/DebridLinkFrConfig$PreferredDomain$2.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/DebridLinkFrConfig$PreferredDomain.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/DebridLinkFrConfig.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/multi/Multi.class

@@ -1,0 +1,1964 @@
+------------------------Thread: 1:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:1TS:1695053359815-2023/9/19 上午 12:09:19 -  [org.jdownloader.update.UpdateManager(<init>)] -> ClientSetup 5
+------------------------Thread: 17:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:17TS:1695053359849-2023/9/19 上午 12:09:19 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Installed Extensions: [shutdown, antishutdown, ffmpeg]
+--ID:17TS:1695053359849-2023/9/19 上午 12:09:19 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Requested Extension Installations: []
+--ID:17TS:1695053359849-2023/9/19 上午 12:09:19 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Requested Extension Uninstalls: []
+--ID:17TS:1695053359849-2023/9/19 上午 12:09:19 -  [org.jdownloader.update.JDUpdateClient$JDExtensionManager(init)] -> Installed Extensions: [shutdown, antishutdown, ffmpeg]
+--ID:17TS:1695053359850-2023/9/19 上午 12:09:19 -  [org.appwork.updatesys.client.FileList(<init>)] -> FileList at C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\update\versioninfo\JD\filelist.txt Size: 519915
+------------------------Thread: 1:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:1TS:1695053359853-2023/9/19 上午 12:09:19 -  [org.jdownloader.update.UpdateManager(<init>)] -> Client 38
+------------------------Thread: 17:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:17TS:1695053359856-2023/9/19 上午 12:09:19 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Installed Extensions: []
+--ID:17TS:1695053359856-2023/9/19 上午 12:09:19 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Requested Extension Installations: []
+--ID:17TS:1695053359856-2023/9/19 上午 12:09:19 -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Requested Extension Uninstalls: []
+--ID:17TS:1695053359856-2023/9/19 上午 12:09:19 -  [org.appwork.updatesys.client.FileList(<init>)] -> FileList at C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\update\versioninfo\JDU\filelist.txt Size: 98
+------------------------Thread: 1:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:1TS:1695053359857-2023/9/19 上午 12:09:19 -  [org.jdownloader.update.UpdateManager(<init>)] -> selfUpdateClient 4
+--ID:1TS:1695053359857-2023/9/19 上午 12:09:19 -  [org.jdownloader.update.UpdateManager(<init>)] -> LastChanceInit 0
+--ID:1TS:1695053359857-2023/9/19 上午 12:09:19 -  [org.jdownloader.update.UpdateManager(<init>)] -> setUpdateOnExitFlag 0
+--ID:1TS:1695053359860-2023/9/19 上午 12:09:19 -  [org.jdownloader.update.UpdateManager(<init>)] -> CreateGui 3
+--ID:1TS:1695053359861-2023/9/19 上午 12:09:19 -  [org.jdownloader.update.UpdateManager(<init>)] -> DefaultHandler 1
+--ID:1TS:1695053359861-2023/9/19 上午 12:09:19 -  [org.jdownloader.update.UpdateManager(<init>)] -> SetDefaultHandler 0
+--ID:1TS:1695053359861-2023/9/19 上午 12:09:19 -  [org.jdownloader.update.UpdateManager(<init>)] -> ProxySelector 0
+--ID:1TS:1695053375870-2023/9/19 上午 12:09:35 -  [org.jdownloader.update.UpdateManager(finish)] -> Current State: 
+--ID:1TS:1695053375870-2023/9/19 上午 12:09:35 -  [org.jdownloader.update.UpdateManager(finish)] -> Do Not ask Flag: true
+--ID:1TS:1695053375871-2023/9/19 上午 12:09:35 -  [org.jdownloader.update.UpdateManager(finish)] -> Settings: {
+ "countdownforinstallupdatesonexitbubble"         : 10000,
+ "proxydialogonnoconnectionenabled"               : true,
+ "autohideguiiftherearenoupdatesenabled"          : false,
+ "selftestwritetimeout"                           : 60000,
+ "lastsuccessfulconnection"                       : 1695053349598,
+ "updateinterval"                                 : 600000,
+ "autohideguiifsilentupdateswereinstalledenabled" : false,
+ "doaskmebeforeinstallinganupdateenabled"         : false,
+ "jardiffenabled"                                 : true,
+ "updateguialwaysontop"                           : true,
+ "installupdatesonexitenabled"                    : true,
+ "doaskbeforedownloadinganupdate"                 : false,
+ "installupdatessilentlyifpossibleenabled"        : true,
+ "autoupdatecheckenabled"                         : true,
+ "installupdatesonexitpanelvisible"               : true,
+ "selftestpolltimeout"                            : 60000
+}
+--ID:1TS:1695053375872-2023/9/19 上午 12:09:35 -  [org.jdownloader.update.UpdateManager(finish)] -> Client Revision: 16856
+--ID:1TS:1695053375874-2023/9/19 上午 12:09:35 -  [org.jdownloader.update.UpdateManager(finish)] -> Client Revision incl. Pending Installpackages: 16857
+--ID:1TS:1695053375875-2023/9/19 上午 12:09:35 -  [org.jdownloader.update.UpdateManager(finish)] -> Updater Client Revision: 16892
+--ID:1TS:1695053375875-2023/9/19 上午 12:09:35 -  [org.jdownloader.update.UpdateManager(finish)] -> Updater Client Revision incl. Pending Installpackages: 16892
+--ID:1TS:1695053375876-2023/9/19 上午 12:09:35 -  [org.jdownloader.update.UpdateManager(finish)] -> AWF Packages pending: [package_1695048855764.awf]
+--ID:1TS:1695053375877-2023/9/19 上午 12:09:35 -  [org.jdownloader.update.UpdateManager(finish)] -> SelfUpdate pending: false ([self_15442_to_15573.log, self_15573_to_15861.log, self_15861_to_15896.log, self_15896_to_15955.log, self_15955_to_16294.log, self_16294_to_16438.log, self_16438_to_16469.log, self_16469_to_16482.log, self_16482_to_16489.log, self_16489_to_16722.log, self_16722_to_16891.log, self_16891_to_16892.log])
+------------------------Thread: 19:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:19TS:1695053375905-2023/9/19 上午 12:09:35 -  [org.jdownloader.update.UpdateManager$8(run)] -> Waiting for Core.jar
+--ID:19TS:1695053375910-2023/9/19 上午 12:09:35 -  [org.jdownloader.update.UpdateManager$8(run)] -> Install AWF Files
+--ID:19TS:1695053375914-2023/9/19 上午 12:09:35 -  [org.appwork.updatesys.client.UpdateClient(getUpdateOptions)] -> org.jdownloader.update.JDUpdateClient:getDefaultUpdateOptions:{
+ "deduplicationMode" : "INTRA",
+ "retryCauses"       : null,
+ "jarDiffEnabled"    : true
+}
+--ID:19TS:1695053375928-2023/9/19 上午 12:09:35 -  [org.appwork.updatesys.client.UpdateClient(batchRequest)] -> [Update Client:JD@update.jdownloader.org] Batch Request ( 70 bytes):
+{
+ "jobs" : [
+           {
+            "id"   : 1695053375921,
+            "json" : null,
+            "name" : "TIME_SYNC"
+           }
+          ]
+}
+--ID:19TS:1695053376590-2023/9/19 上午 12:09:36 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/batch?jobs=TIME_SYNC&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16892&ct=Normal&1695053375923.1695053375923&lng=zh_TW via [直接連線]
+--ID:19TS:1695053376591-2023/9/19 上午 12:09:36 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy 直接連線
+--ID:19TS:1695053378464-2023/9/19 上午 12:09:38 -  [] -> Exception thrown at org.appwork.updatesys.client.defaultimpl.http.HttpBackend.createInvalidResponseCodeException(HttpBackend.java:108):
+java.io.IOException: 400 Bad Request
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.getInputStream(HTTPConnectionImpl.java:1478)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpBackend.createInvalidResponseCodeException(HttpBackend.java:103)
+	at org.appwork.utils.net.BasicHTTP.BasicHTTP.checkResponseCode(BasicHTTP.java:101)
+	at org.appwork.utils.net.BasicHTTP.BasicHTTP.postPage(BasicHTTP.java:742)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.internalPostWithProxy(HttpClientImpl.java:316)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.post(HttpClientImpl.java:376)
+	at org.appwork.updatesys.client.UpdateClient.batchRequest(UpdateClient.java:5693)
+	at org.appwork.updatesys.client.UpdateClient.ensureTimeSync(UpdateClient.java:2956)
+	at org.appwork.updatesys.client.UpdateClient.ensureSessionInit(UpdateClient.java:5801)
+	at org.appwork.updatesys.client.UpdateClient.get(UpdateClient.java:2823)
+	at org.appwork.updatesys.client.UpdateClient.downloadPackage(UpdateClient.java:5188)
+	at org.appwork.updatesys.client.UpdateClient.runUpdateCheck(UpdateClient.java:5108)
+	at org.appwork.updatesys.client.UpdateClient.runPackageRequestAndServerSelection(UpdateClient.java:5334)
+	at org.appwork.updatesys.client.UpdateClient.runUpdateCheck(UpdateClient.java:5249)
+	at org.jdownloader.update.UpdateManager.runUpdateLoop(UpdateManager.java:1024)
+	at org.jdownloader.update.UpdateManager$8.run(UpdateManager.java:413)
+	at java.lang.Thread.run(Thread.java:748)
+
+--ID:19TS:1695053378472-2023/9/19 上午 12:09:38 -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/batch?jobs=TIME_SYNC&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16892&ct=Normal&1695053375923.1695053375923&lng=zh_TW
+URL-Parameters:
+   jobs   : TIME_SYNC (BATCH_JOBS)
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : WINDOWS (OPERATING_SYSTEM)
+   osr    : WINDOWS_10 (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 0 (JVM_64BIT)
+   java   : 18181013 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 16892 (UPDATER_REVISION)
+   srev   : 16856 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 16892 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+          : 1695053375923.1695053375923
+   lng    : zh_TW (LANGUAGE)
+SSLCipher: JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@1d9fd94=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------ConnectionExceptions-------------------------
+0:update.jdownloader.org/136.243.5.58|javax.net.ssl.SSLHandshakeException(Received fatal alert: handshake_failure)|retrySSL:Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@1d9fd94=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3
+----------------Request-------------------------
+POST /jcgi/batch?jobs=TIME_SYNC&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16892&ct=Normal&1695053375923.1695053375923&lng=zh_TW HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: zh_TW
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Content-Length: 70
+Accept-Encoding: gzip
+Content-Type: application/json; charset=utf-8
+Content-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 235ms
+Request-Time: 226ms
+----------------Response------------------------
+HTTP/1.1 400 Bad Request
+Server: nginx
+Date: Mon, 18 Sep 2023 16:12:23 GMT
+Content-Type: text/html
+Content-Length: 150
+Connection: close
+JCGI: 1 (HTTP_HEADER_FCGI)
+------------------------------------------------
+
+
+--ID:19TS:1695053378473-2023/9/19 上午 12:09:38 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(checkTryNextProxyOrGiveUp)] -> Check if we can leave 
+--ID:19TS:1695053378474-2023/9/19 上午 12:09:38 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(checkTryNextProxyOrGiveUp)] -> Invalid Response Code: org.appwork.utils.net.BasicHTTP.InvalidResponseCode: Invalid ResponseCode: 400
+--ID:19TS:1695053378474-2023/9/19 上午 12:09:38 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(throwServerExceptions)] -> Handle BasicHTTPException org.appwork.utils.net.BasicHTTP.BasicHTTPException: org.appwork.utils.net.BasicHTTP.ReadIOException: org.appwork.utils.net.BasicHTTP.InvalidResponseCode: Invalid ResponseCode: 400
+--ID:19TS:1695053378474-2023/9/19 上午 12:09:38 -  [org.appwork.updatesys.client.UpdateClient(ensureTimeSync)] -> Time Sync: Unsupported Server:update.jdownloader.org
+--ID:19TS:1695053378475-2023/9/19 上午 12:09:38 -  [org.appwork.updatesys.client.UpdateClient(batchRequest)] -> [Update Client:JD@update.jdownloader.org] Batch Request ( 84 bytes):
+{
+ "jobs" : [
+           {
+            "id"   : 1695053378474,
+            "json" : "null",
+            "name" : "SESSION_INIT"
+           }
+          ]
+}
+--ID:19TS:1695053378475-2023/9/19 上午 12:09:38 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/batch?jobs=SESSION_INIT&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16892&ct=Normal&1695053378474.1695053378475&lng=zh_TW via [直接連線]
+--ID:19TS:1695053378475-2023/9/19 上午 12:09:38 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy 直接連線
+--ID:19TS:1695053379709-2023/9/19 上午 12:09:39 -  [] -> Exception thrown at org.appwork.updatesys.client.defaultimpl.http.HttpBackend.createInvalidResponseCodeException(HttpBackend.java:108):
+java.io.IOException: 400 Bad Request
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.getInputStream(HTTPConnectionImpl.java:1478)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpBackend.createInvalidResponseCodeException(HttpBackend.java:103)
+	at org.appwork.utils.net.BasicHTTP.BasicHTTP.checkResponseCode(BasicHTTP.java:101)
+	at org.appwork.utils.net.BasicHTTP.BasicHTTP.postPage(BasicHTTP.java:742)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.internalPostWithProxy(HttpClientImpl.java:316)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.post(HttpClientImpl.java:376)
+	at org.appwork.updatesys.client.UpdateClient.batchRequest(UpdateClient.java:5693)
+	at org.appwork.updatesys.client.UpdateClient.ensureSessionInit(UpdateClient.java:5806)
+	at org.appwork.updatesys.client.UpdateClient.get(UpdateClient.java:2823)
+	at org.appwork.updatesys.client.UpdateClient.downloadPackage(UpdateClient.java:5188)
+	at org.appwork.updatesys.client.UpdateClient.runUpdateCheck(UpdateClient.java:5108)
+	at org.appwork.updatesys.client.UpdateClient.runPackageRequestAndServerSelection(UpdateClient.java:5334)
+	at org.appwork.updatesys.client.UpdateClient.runUpdateCheck(UpdateClient.java:5249)
+	at org.jdownloader.update.UpdateManager.runUpdateLoop(UpdateManager.java:1024)
+	at org.jdownloader.update.UpdateManager$8.run(UpdateManager.java:413)
+	at java.lang.Thread.run(Thread.java:748)
+
+--ID:19TS:1695053379715-2023/9/19 上午 12:09:39 -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/batch?jobs=SESSION_INIT&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16892&ct=Normal&1695053378474.1695053378475&lng=zh_TW
+URL-Parameters:
+   jobs   : SESSION_INIT (BATCH_JOBS)
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : WINDOWS (OPERATING_SYSTEM)
+   osr    : WINDOWS_10 (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 0 (JVM_64BIT)
+   java   : 18181013 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 16892 (UPDATER_REVISION)
+   srev   : 16856 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 16892 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+          : 1695053378474.1695053378475
+   lng    : zh_TW (LANGUAGE)
+SSLCipher: JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@1d9fd94=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+POST /jcgi/batch?jobs=SESSION_INIT&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16892&ct=Normal&1695053378474.1695053378475&lng=zh_TW HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: zh_TW
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Content-Length: 84
+Accept-Encoding: gzip
+Content-Type: application/json; charset=utf-8
+Content-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 237ms
+Request-Time: 236ms
+----------------Response------------------------
+HTTP/1.1 400 Bad Request
+Server: nginx
+Date: Mon, 18 Sep 2023 16:12:25 GMT
+Content-Type: text/html
+Content-Length: 150
+Connection: close
+JCGI: 1 (HTTP_HEADER_FCGI)
+------------------------------------------------
+
+
+--ID:19TS:1695053379715-2023/9/19 上午 12:09:39 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(checkTryNextProxyOrGiveUp)] -> Check if we can leave 
+--ID:19TS:1695053379715-2023/9/19 上午 12:09:39 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(checkTryNextProxyOrGiveUp)] -> Invalid Response Code: org.appwork.utils.net.BasicHTTP.InvalidResponseCode: Invalid ResponseCode: 400
+--ID:19TS:1695053379715-2023/9/19 上午 12:09:39 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(throwServerExceptions)] -> Handle BasicHTTPException org.appwork.utils.net.BasicHTTP.BasicHTTPException: org.appwork.utils.net.BasicHTTP.ReadIOException: org.appwork.utils.net.BasicHTTP.InvalidResponseCode: Invalid ResponseCode: 400
+--ID:19TS:1695053379715-2023/9/19 上午 12:09:39 -  [org.appwork.updatesys.client.UpdateClient(ensureSessionInit)] -> Session Init: Unsupported Server:update.jdownloader.org
+--ID:19TS:1695053379718-2023/9/19 上午 12:09:39 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16892&ct=Normal&rev=16857&chlg=0&dedup=INTRA&awfcxz=1&eid=shutdown%2Cantishutdown%2Cffmpeg&dst=-1&jdiff=1&lng=zh_TW&1695053379717.1695053379717 via [直接連線]
+--ID:19TS:1695053379718-2023/9/19 上午 12:09:39 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy 直接連線
+--ID:19TS:1695053380869-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16892&ct=Normal&rev=16857&chlg=0&dedup=INTRA&awfcxz=1&eid=shutdown%2Cantishutdown%2Cffmpeg&dst=-1&jdiff=1&lng=zh_TW&1695053379717.1695053379717
+URL-Parameters:
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : WINDOWS (OPERATING_SYSTEM)
+   osr    : WINDOWS_10 (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 0 (JVM_64BIT)
+   java   : 18181013 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 16892 (UPDATER_REVISION)
+   srev   : 16856 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 16892 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+   rev    : 16857 (REPO_REVISION)
+   chlg   : 0 (CHANGELOG_REQUESTED) (NAMESPACE_CHLG)
+   dedup  : INTRA (DEDUPE_MODE)
+   awfcxz : 1 (AWFC_XZ_ENABLED)
+   eid    : shutdown,antishutdown,ffmpeg (EXTENSIONS_INSTALLED)
+   dst    : -1 (REQUESTED_DEST_REVISION)
+   jdiff  : 1 (JAR_DIFF_ENABLED)
+   lng    : zh_TW (LANGUAGE)
+          : 1695053379717.1695053379717
+SSLCipher: JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@1d9fd94=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=WINDOWS&osr=WINDOWS_10&arch=X86&os64=1&jvm64=0&java=18181013&uid=dnt_&hidAck=no&urev=16892&srev=16856&surev=16892&ct=Normal&rev=16857&chlg=0&dedup=INTRA&awfcxz=1&eid=shutdown%2Cantishutdown%2Cffmpeg&dst=-1&jdiff=1&lng=zh_TW&1695053379717.1695053379717 HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: zh_TW
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Accept-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 219ms
+Request-Time: 217ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Date: Mon, 18 Sep 2023 16:12:26 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 163
+Connection: close
+Server: AppWork GmbH FcgiServer
+JCGI: 1 (HTTP_HEADER_FCGI)
+UPD_SRV: 1
+Strict-Transport-Security: max-age=15638400
+------------------------------------------------
+
+
+--ID:19TS:1695053380869-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Connection OK: 163 Bytes loaded
+--ID:19TS:1695053380869-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.transport.Pkg(parseServerResponse)] -> Serverresponse: {
+ "timeStamp"    : 1695053547955,
+ "uid"          : null,
+ "revisionName" : null,
+ "destRevision" : 16857,
+ "pong"         : null,
+ "status"       : "OK"
+}
+--ID:19TS:1695053380871-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.servertime.ServerTimeHandler(sync)] -> [Update Client:JD@update.jdownloader.org]: Sync offset: -167084
+--ID:19TS:1695053380876-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.servertime.ServerTimeHandler(sync)] -> [Update Client:JD@update.jdownloader.org]: After: Tue Sep 19 00:12:27 CST 2023 +00s = Tue Sep 19 00:12:27 CST 2023.955 (SRV)
+--ID:19TS:1695053380876-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.servertime.ServerTimeHandler(sync)] -> [Update Client:JD@update.jdownloader.org]: Diff: -167084/167084
+--ID:19TS:1695053380878-2023/9/19 上午 12:09:40 -  [org.jdownloader.update.DefaultCallbackHandler(onResults)] -> OnResult
+--ID:19TS:1695053380879-2023/9/19 上午 12:09:40 -  [org.jdownloader.update.DefaultCallbackHandler(onResults)] -> Confirmed: true
+--ID:19TS:1695053380914-2023/9/19 上午 12:09:40 -  [org.jdownloader.update.DefaultCallbackHandler(onResults)] -> direct Install
+--ID:19TS:1695053380916-2023/9/19 上午 12:09:40 -  [org.jdownloader.update.UpdateManager(log)] -> Tue Sep 19 00:09:40 CST 2023
+--ID:19TS:1695053380916-2023/9/19 上午 12:09:40 -  [org.jdownloader.update.UpdateManager(log)] -> 
+
+--ID:19TS:1695053380916-2023/9/19 上午 12:09:40 -  [org.jdownloader.update.UpdateManager(log)] -> Package: package_1695048855764.awf
+
+--ID:19TS:1695053380917-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(getUpdateOptions)] -> org.jdownloader.update.JDUpdateClient:getUpdateOptions:{
+ "deduplicationMode" : "INTRA",
+ "retryCauses"       : null,
+ "jarDiffEnabled"    : true
+}
+--ID:19TS:1695053380917-2023/9/19 上午 12:09:40 -  [org.jdownloader.update.UpdateManager(log)] -> Install
+
+--ID:19TS:1695053380918-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(runPackageInstallation)] -> run Package Installation C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\package_1695048855764.awf is awf: false
+--ID:19TS:1695053380919-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(<init>)] -> FileList at C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\update\versioninfo\JD\filelist.txt Size: 519915
+--ID:19TS:1695053380928-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installPackage)] -> Entry:jd/plugins/hoster/DropboxCom.class.updateSignature|Size:378
+--ID:19TS:1695053380928-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installPackage)] -> Entry:jd/plugins/hoster/DropboxCom.class|Size:32091
+--ID:19TS:1695053380928-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installFileBackupExisting)] -> Backup:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\hoster\DropboxCom.class->C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\hoster\DropboxCom.class.updRevertBackup1
+--ID:19TS:1695053380929-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(writeFile)] -> Install:writeFile|C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\hoster\DropboxCom.class
+--ID:19TS:1695053380932-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installPackage)] -> Entry:jd/plugins/hoster/DropboxCom$DropboxAccountFactory$1.class.updateSignature|Size:378
+--ID:19TS:1695053380933-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installPackage)] -> Entry:jd/plugins/hoster/DropboxCom$DropboxAccountFactory$1.class|Size:1098
+--ID:19TS:1695053380933-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installFileBackupExisting)] -> Backup:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\hoster\DropboxCom$DropboxAccountFactory$1.class->C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\hoster\DropboxCom$DropboxAccountFactory$1.class.updRevertBackup1
+--ID:19TS:1695053380934-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(writeFile)] -> Install:writeFile|C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\hoster\DropboxCom$DropboxAccountFactory$1.class
+--ID:19TS:1695053380935-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installPackage)] -> Entry:build.json.updateSignature|Size:378
+--ID:19TS:1695053380935-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installPackage)] -> Entry:build.json|Size:321
+--ID:19TS:1695053380935-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installFileBackupExisting)] -> Backup:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\build.json->C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\build.json.updRevertBackup1
+--ID:19TS:1695053380936-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(writeFile)] -> Install:writeFile|C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\build.json
+--ID:19TS:1695053380938-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installPackage)] -> Entry:jd/plugins/decrypter/SerienStreamTo$2.class.updateSignature|Size:378
+--ID:19TS:1695053380938-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installPackage)] -> Entry:jd/plugins/decrypter/SerienStreamTo$2.class|Size:1354
+--ID:19TS:1695053380938-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installFileBackupExisting)] -> Backup:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\decrypter\SerienStreamTo$2.class->C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\decrypter\SerienStreamTo$2.class.updRevertBackup1
+--ID:19TS:1695053380939-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(writeFile)] -> Install:writeFile|C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\decrypter\SerienStreamTo$2.class
+--ID:19TS:1695053380940-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installPackage)] -> Entry:jd/plugins/decrypter/SerienStreamTo.class.updateSignature|Size:378
+--ID:19TS:1695053380940-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installPackage)] -> Entry:jd/plugins/decrypter/SerienStreamTo.class|Size:13315
+--ID:19TS:1695053380941-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installFileBackupExisting)] -> Backup:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\decrypter\SerienStreamTo.class->C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\decrypter\SerienStreamTo.class.updRevertBackup1
+--ID:19TS:1695053380941-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(writeFile)] -> Install:writeFile|C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\decrypter\SerienStreamTo.class
+--ID:19TS:1695053380942-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installPackage)] -> Entry:jd/plugins/hoster/DropboxCom$DropboxAccountFactory.class.updateSignature|Size:378
+--ID:19TS:1695053380943-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installPackage)] -> Entry:jd/plugins/hoster/DropboxCom$DropboxAccountFactory.class|Size:3379
+--ID:19TS:1695053380943-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(installFileBackupExisting)] -> Backup:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\hoster\DropboxCom$DropboxAccountFactory.class->C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\hoster\DropboxCom$DropboxAccountFactory.class.updRevertBackup1
+--ID:19TS:1695053380944-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(writeFile)] -> Install:writeFile|C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\hoster\DropboxCom$DropboxAccountFactory.class
+--ID:19TS:1695053380945-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(setUpdateOptions)] -> [Update Client:JD@update.jdownloader.org]:setUpdateOptions:null
+--ID:19TS:1695053380945-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.UpdateClient(deletePackage)] -> runPackageInstallation C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\tmp\update\package_1695048855764.awf errorFree, delete!
+--ID:19TS:1695053380964-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.extensions.AbstractExtensionManager(runInstallation)] -> \root                                                                                                                            = null
+\root\themes                                                                                                                     = null
+\root\themes\standard                                                                                                            = null
+\root\themes\standard\org                                                                                                        = null
+\root\themes\standard\org\jdownloader                                                                                            = null
+\root\themes\standard\org\jdownloader\videos                                                                                     = null
+\root\themes\standard\org\jdownloader\videos\streaming                                                                           = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["streaming"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\themes\flat                                                                                                                = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["theme-plain","iconset-flat"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\themes\simple                                                                                                              = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : [
+                   "iconset-simple",
+                   "theme-plain"
+                  ],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\extensions                                                                                                                 = null
+\root\extensions\JDChat.jar                                                                                                      = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["chat"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\extensions\EventScripter.jar                                                                                               = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["eventscripter"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\extensions\JDShutdown.jar                                                                                                  = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["shutdown"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\extensions\translator.jar                                                                                                  = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["translator"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\extensions\FolderWatch.jar                                                                                                 = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["folderwatch"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\extensions\Scheduler.jar                                                                                                   = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["scheduler"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\extensions\AntiShutdown.jar                                                                                                = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["antishutdown"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\extensions\JDGrowl.jar                                                                                                     = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\extensions\infobar.jar                                                                                                     = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["infobar"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\extensions\JDAnywhere.jar                                                                                                  = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["jdanywhere"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\translations                                                                                                               = null
+\root\translations\org                                                                                                           = null
+\root\translations\org\jdownloader                                                                                               = null
+\root\translations\org\jdownloader\extensions                                                                                    = null
+\root\translations\org\jdownloader\extensions\infobar                                                                            = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["infobar"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\translations\org\jdownloader\extensions\translator.jar                                                                     = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["translator"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\translations\org\jdownloader\extensions\streaming                                                                          = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["streaming"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\translations\org\jdownloader\extensions\folderwatchV2                                                                      = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["folderwatch"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\translations\org\jdownloader\extensions\antistandby                                                                        = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\translations\org\jdownloader\extensions\chat                                                                               = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["chat"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\translations\org\jdownloader\extensions\eventscripter                                                                      = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["eventscripter"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\translations\org\jdownloader\extensions\schedulerV2                                                                        = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["scheduler"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\translations\org\jdownloader\extensions\growl                                                                              = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\build.json                                                                                                                 = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "TRUE",
+ "mac"          : "TRUE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "TRUE",
+ "zipDelta"     : "NOTSET"
+}
+\root\jd                                                                                                                         = null
+\root\jd\osx                                                                                                                     = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs                                                                                                                       = null
+\root\libs\sqljet.jar                                                                                                            = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["translator"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\antlr-runtime.jar                                                                                                     = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["translator"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\sevenzipjbindingBsd.jar                                                                                               = {
+ "arch"         : "X86",
+ "bsd"          : "TRUE",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\neembuu                                                                                                               = null
+\root\libs\neembuu\libjpfm_x86_rev113.so                                                                                         = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "FALSE",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\neembuu\libjpfm_amd64_rev113.so                                                                                       = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "FALSE",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\neembuu\jpfm_amd64_rev113.dll                                                                                         = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "FALSE",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\neembuu\pfmap                                                                                                         = null
+\root\libs\neembuu\pfmap\win                                                                                                     = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "FALSE",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\neembuu\pfmap\win\x64                                                                                                 = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "FALSE",
+ "os64Bit"      : "TRUE",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\neembuu\jpfm_x86_rev113.dll                                                                                           = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "FALSE",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\sevenzipjbindingLinuxPPCVersion.jar                                                                                   = {
+ "arch"         : "PPC",
+ "bsd"          : "FALSE",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "TRUE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\sevenzipjbindingWin.jar                                                                                               = {
+ "arch"         : "X86",
+ "bsd"          : "FALSE",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "TRUE",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\irclib.jar                                                                                                            = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["chat"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\sevenzipjbindingLinuxArm64.jar                                                                                        = {
+ "arch"         : "ARM",
+ "bsd"          : "FALSE",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "TRUE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "FALSE",
+ "os64Bit"      : "TRUE",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf                                                                                                                   = null
+\root\libs\laf\syntheticaJDPlain.jar                                                                                             = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["theme-plain"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\syntheticaMauveMetallic.jar                                                                                       = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["synthetica-themes"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\syntheticaBlueSteel.jar                                                                                           = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["synthetica-themes"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\flatlaf.jar                                                                                                       = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["flatlaf-themes"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\syntheticaClassy.jar                                                                                              = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["synthetica-themes"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\syntheticaSilverMoon.jar                                                                                          = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["synthetica-themes"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\syntheticaBlackMoon.jar                                                                                           = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["synthetica-themes"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\syntheticaAluOxide.jar                                                                                            = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["synthetica-themes"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\syntheticaOrangeMetallic.jar                                                                                      = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["synthetica-themes"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\syntheticaBlueLight.jar                                                                                           = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["synthetica-themes"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\syntheticaBlueMoon.jar                                                                                            = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["synthetica-themes"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\syntheticaDark.jar                                                                                                = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["synthetica-themes"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\syntheticaBlackStar.jar                                                                                           = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["synthetica-themes"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\syntheticaWhiteVision.jar                                                                                         = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["synthetica-themes"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\syntheticaPlain.jar                                                                                               = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : [
+                   "theme-plain",
+                   "synthetica-themes"
+                  ],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\syntheticaBlueIce.jar                                                                                             = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["synthetica-themes"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\syntheticaGreenDream.jar                                                                                          = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["synthetica-themes"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\syntheticaBlackEye.jar                                                                                            = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["synthetica-themes"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\laf\syntheticaSkyMetallic.jar                                                                                         = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["synthetica-themes"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\swt                                                                                                                   = null
+\root\libs\swt\linux                                                                                                             = {
+ "arch"         : null,
+ "bsd"          : "FALSE",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\swt\linux\x86                                                                                                         = {
+ "arch"         : "X86",
+ "bsd"          : "FALSE",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "FALSE",
+ "os32Bit"      : "TRUE",
+ "os64Bit"      : "FALSE",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\swt\linux\x64                                                                                                         = {
+ "arch"         : "X86",
+ "bsd"          : "FALSE",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "FALSE",
+ "os32Bit"      : "FALSE",
+ "os64Bit"      : "TRUE",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\swt\windows                                                                                                           = {
+ "arch"         : null,
+ "bsd"          : "FALSE",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\swt\windows\x86                                                                                                       = {
+ "arch"         : null,
+ "bsd"          : "FALSE",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "FALSE",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\swt\windows\x64                                                                                                       = {
+ "arch"         : null,
+ "bsd"          : "FALSE",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "TRUE",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\swt\mac                                                                                                               = {
+ "arch"         : null,
+ "bsd"          : "FALSE",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\swt\mac\x86                                                                                                           = {
+ "arch"         : null,
+ "bsd"          : "FALSE",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "FALSE",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\swt\mac\x64                                                                                                           = {
+ "arch"         : null,
+ "bsd"          : "FALSE",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "TRUE",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\dbus                                                                                                                  = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\sequence-library.jar                                                                                                  = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["translator"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\svnkit.jar                                                                                                            = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["translator"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\sevenzipjbindingLinuxArmVersion.jar                                                                                   = {
+ "arch"         : "ARM",
+ "bsd"          : "FALSE",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "TRUE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "TRUE",
+ "os64Bit"      : "TRUE",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\sevenzipjbindingLinux.jar                                                                                             = {
+ "arch"         : "X86",
+ "bsd"          : "FALSE",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "TRUE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\jxbrowser                                                                                                             = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "NOTSET",
+ "mac"          : "NOTSET",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["jxbrowser"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "NOTSET",
+ "zipDelta"     : "NOTSET"
+}
+\root\libs\sevenzipjbindingMac.jar                                                                                               = {
+ "arch"         : null,
+ "bsd"          : "FALSE",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "TRUE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools                                                                                                                      = null
+\root\tools\linux                                                                                                                = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "TRUE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\linux\rtmpdump                                                                                                       = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "TRUE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\linux\rtmpdump\rtmpdump                                                                                              = {
+ "arch"         : "X86",
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "TRUE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\linux\ffmpeg                                                                                                         = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "TRUE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["ffmpeg"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\linux\ffmpeg\x64                                                                                                     = {
+ "arch"         : "X86",
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "TRUE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "FALSE",
+ "os64Bit"      : "TRUE",
+ "parentIDList" : ["ffmpeg"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\linux\ffmpeg\i386                                                                                                    = {
+ "arch"         : "X86",
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "TRUE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "TRUE",
+ "os64Bit"      : "FALSE",
+ "parentIDList" : ["ffmpeg"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\Windows                                                                                                              = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "TRUE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\Windows\ffmpeg                                                                                                       = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["ffmpeg"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "TRUE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\Windows\ffmpeg\x64                                                                                                   = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "FALSE",
+ "os64Bit"      : "TRUE",
+ "parentIDList" : ["ffmpeg"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "TRUE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\Windows\ffmpeg\i386                                                                                                  = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "TRUE",
+ "os64Bit"      : "FALSE",
+ "parentIDList" : ["ffmpeg"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "TRUE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\Windows\rtmpdump                                                                                                     = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "TRUE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\Windows\rtmpdump\NativeProcessx64.dll                                                                                = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "FALSE",
+ "jvm64Bit"     : "TRUE",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "TRUE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\Windows\rtmpdump\NativeProcessx86.dll                                                                                = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "TRUE",
+ "jvm64Bit"     : "FALSE",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "TRUE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\Windows\mediainfo                                                                                                    = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["streaming"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "TRUE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\Windows\mediainfo\x64                                                                                                = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "FALSE",
+ "os64Bit"      : "TRUE",
+ "parentIDList" : ["streaming"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "TRUE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\Windows\mediainfo\i386                                                                                               = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "TRUE",
+ "os64Bit"      : "FALSE",
+ "parentIDList" : ["streaming"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "TRUE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\Windows\elevate                                                                                                      = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "TRUE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\Windows\elevate\Elevate64.exe                                                                                        = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "FALSE",
+ "os64Bit"      : "TRUE",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "TRUE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\Windows\elevate\Elevate32.exe                                                                                        = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "FALSE",
+ "os32Bit"      : "TRUE",
+ "os64Bit"      : "FALSE",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "TRUE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\mac                                                                                                                  = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "TRUE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : null,
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\mac\ffmpeg_10.6+                                                                                                     = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "TRUE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["ffmpeg_10.6+"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\mac\ffmpeg_10.5.x-                                                                                                   = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "TRUE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["ffmpeg_10.5.x-"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+\root\tools\mac\ffmpeg_10.10+                                                                                                    = {
+ "arch"         : null,
+ "bsd"          : "NOTSET",
+ "dedupe"       : "NOTSET",
+ "jvm32Bit"     : "NOTSET",
+ "jvm64Bit"     : "NOTSET",
+ "linux"        : "FALSE",
+ "mac"          : "TRUE",
+ "os32Bit"      : "NOTSET",
+ "os64Bit"      : "NOTSET",
+ "parentIDList" : ["ffmpeg_10.10+"],
+ "raw"          : "NOTSET",
+ "targetBuilds" : null,
+ "windows"      : "FALSE",
+ "zipDelta"     : "NOTSET"
+}
+
+--ID:19TS:1695053380964-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.extensions.AbstractExtensionManager(runInstallation)] -> Modified/Added ServerOptions: 
+{}
+--ID:19TS:1695053380965-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.extensions.AbstractExtensionManager(runInstallation)] -> Removed ServerOptions: 
+{}
+------------------------Thread: 18:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:18TS:1695053380976-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList$5(execute)] ->  copy C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\update\versioninfo\JD\filelist.txt to C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\update\versioninfo\JD\filelist.txt.backup
+------------------------Thread: 19:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:19TS:1695053380984-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(removeFile)] -> Remove jd\plugins\hoster\DropboxCom.class.updRevertBackup1
+--ID:19TS:1695053380984-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(addFile)] -> add FileC:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\hoster\DropboxCom.class
+--ID:19TS:1695053380984-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(addFile)] -> add relativejd\plugins\hoster\DropboxCom.class
+--ID:19TS:1695053380984-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(addFile)] ->  Create new Outputstream: C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\update\versioninfo\JD\filelist.txt.tmp
+--ID:19TS:1695053380986-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(removeFile)] -> Remove jd\plugins\hoster\DropboxCom$DropboxAccountFactory$1.class.updRevertBackup1
+--ID:19TS:1695053380986-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(addFile)] -> add FileC:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\hoster\DropboxCom$DropboxAccountFactory$1.class
+--ID:19TS:1695053380986-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(addFile)] -> add relativejd\plugins\hoster\DropboxCom$DropboxAccountFactory$1.class
+--ID:19TS:1695053380986-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(removeFile)] -> Remove build.json.updRevertBackup1
+--ID:19TS:1695053380987-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(addFile)] -> add FileC:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\build.json
+--ID:19TS:1695053380987-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(addFile)] -> add relativebuild.json
+--ID:19TS:1695053380988-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(removeFile)] -> Remove jd\plugins\decrypter\SerienStreamTo$2.class.updRevertBackup1
+--ID:19TS:1695053380988-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(addFile)] -> add FileC:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\decrypter\SerienStreamTo$2.class
+--ID:19TS:1695053380988-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(addFile)] -> add relativejd\plugins\decrypter\SerienStreamTo$2.class
+--ID:19TS:1695053380988-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(removeFile)] -> Remove jd\plugins\decrypter\SerienStreamTo.class.updRevertBackup1
+--ID:19TS:1695053380988-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(addFile)] -> add FileC:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\decrypter\SerienStreamTo.class
+--ID:19TS:1695053380988-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(addFile)] -> add relativejd\plugins\decrypter\SerienStreamTo.class
+--ID:19TS:1695053380989-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(removeFile)] -> Remove jd\plugins\hoster\DropboxCom$DropboxAccountFactory.class.updRevertBackup1
+--ID:19TS:1695053380989-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(addFile)] -> add FileC:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\hoster\DropboxCom$DropboxAccountFactory.class
+--ID:19TS:1695053380989-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList(addFile)] -> add relativejd\plugins\hoster\DropboxCom$DropboxAccountFactory.class
+------------------------Thread: 18:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:18TS:1695053380989-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList$3(execute)] -> Merged. diff size: 6
+--ID:18TS:1695053380994-2023/9/19 上午 12:09:40 -  [org.appwork.updatesys.client.FileList$3(execute)] -> Merged. new listsize: 4000
+------------------------Thread: 19:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:19TS:1695053380995-2023/9/19 上午 12:09:40 -  [org.jdownloader.update.UpdateManager(log)] -> Write Revision: 16857
+
+--ID:19TS:1695053381000-2023/9/19 上午 12:09:41 -  [org.jdownloader.update.UpdateManager(log)] -> ----------------Plugins----------------
+
+--ID:19TS:1695053381000-2023/9/19 上午 12:09:41 -  [org.jdownloader.update.UpdateManager(log)] ->    jd/plugins/decrypter/SerienStreamTo$2.class
+
+--ID:19TS:1695053381000-2023/9/19 上午 12:09:41 -  [org.jdownloader.update.UpdateManager(log)] ->    jd/plugins/decrypter/SerienStreamTo.class
+
+--ID:19TS:1695053381000-2023/9/19 上午 12:09:41 -  [org.jdownloader.update.UpdateManager(log)] ->    jd/plugins/hoster/DropboxCom$DropboxAccountFactory$1.class
+
+--ID:19TS:1695053381000-2023/9/19 上午 12:09:41 -  [org.jdownloader.update.UpdateManager(log)] ->    jd/plugins/hoster/DropboxCom$DropboxAccountFactory.class
+
+--ID:19TS:1695053381000-2023/9/19 上午 12:09:41 -  [org.jdownloader.update.UpdateManager(log)] ->    jd/plugins/hoster/DropboxCom.class
+
+--ID:19TS:1695053381000-2023/9/19 上午 12:09:41 -  [org.jdownloader.update.UpdateManager(log)] -> ----------------Extensions----------------
+
+--ID:19TS:1695053381000-2023/9/19 上午 12:09:41 -  [org.jdownloader.update.UpdateManager(log)] -> ----------------Direct Files----------------
+
+--ID:19TS:1695053381000-2023/9/19 上午 12:09:41 -  [org.jdownloader.update.UpdateManager(log)] ->    build.json
+
+--ID:19TS:1695053381000-2023/9/19 上午 12:09:41 -  [org.jdownloader.update.UpdateManager(log)] -> ----------------Core Files----------------
+
+--ID:19TS:1695053381001-2023/9/19 上午 12:09:41 -  [org.jdownloader.update.UpdateManager(checkInstallLogForCacheInvalidation)] -> Invalidate plugin cache, update last modified:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\decrypter|true
+--ID:19TS:1695053381001-2023/9/19 上午 12:09:41 -  [org.jdownloader.update.UpdateManager(checkInstallLogForCacheInvalidation)] -> Invalidate plugin cache, update last modified:C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\jd\plugins\hoster|true
+--ID:19TS:1695053381001-2023/9/19 上午 12:09:41 -  [org.jdownloader.update.UpdateManager(deleteAllAwfs)] -> Delete all awf files
+--ID:19TS:1695053391005-2023/9/19 上午 12:09:51 -  [org.jdownloader.update.UpdateManager$8(run)] -> Done

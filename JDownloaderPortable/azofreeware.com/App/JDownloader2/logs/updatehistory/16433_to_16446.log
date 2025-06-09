@@ -1,0 +1,210 @@
+Sun Feb 05 20:09:04 CST 2023
+Package: package_1675598695987.awf
+Install
+Write Revision: 16446
+----------------Plugins----------------
+   jd/plugins/decrypter/AppleTrailer.class
+   jd/plugins/decrypter/ArchiveOrgCrawler.class
+   jd/plugins/decrypter/Ardmediathek$ArdMetadata.class
+   jd/plugins/decrypter/Ardmediathek$VideoResolution.class
+   jd/plugins/decrypter/Ardmediathek.class
+   jd/plugins/decrypter/ArtstationCom$1.class
+   jd/plugins/decrypter/ArtstationCom.class
+   jd/plugins/decrypter/AtakuAttitudeNet.class.removed
+   jd/plugins/decrypter/AventertainmentsComCrawler.class
+   jd/plugins/decrypter/BatoToCrawler.class
+   jd/plugins/decrypter/BiqleRu$1.class.removed
+   jd/plugins/decrypter/BiqleRu.class.removed
+   jd/plugins/decrypter/BiqleRuCrawler$1.class
+   jd/plugins/decrypter/BiqleRuCrawler.class
+   jd/plugins/decrypter/CouchTuner.class
+   jd/plugins/decrypter/DeviantArtComCrawler.class
+   jd/plugins/decrypter/DropBoxComCrawler$1.class
+   jd/plugins/decrypter/DropBoxComCrawler$2.class
+   jd/plugins/decrypter/DropBoxComCrawler.class
+   jd/plugins/decrypter/EmulatorgamesNet.class
+   jd/plugins/decrypter/EroVideoNet.class
+   jd/plugins/decrypter/EromeComCrawler.class
+   jd/plugins/decrypter/FaceBookComGallery$1.class
+   jd/plugins/decrypter/FaceBookComGallery.class
+   jd/plugins/decrypter/GenericM3u8Decrypter$1.class
+   jd/plugins/decrypter/GenericM3u8Decrypter.class
+   jd/plugins/decrypter/GenshinManga.class
+   jd/plugins/decrypter/GoProCloudDecrypter.class
+   jd/plugins/decrypter/InstaGramComDecrypter$InstagramMetadata.class
+   jd/plugins/decrypter/InstaGramComDecrypter.class
+   jd/plugins/decrypter/MajorgeeksComCrawler.class
+   jd/plugins/decrypter/OtakuAttitudeNet.class
+   jd/plugins/decrypter/PietsmietDe.class
+   jd/plugins/decrypter/SankakucomplexComCrawler.class
+   jd/plugins/decrypter/SerienStreamTo$1.class
+   jd/plugins/decrypter/SerienStreamTo$2.class
+   jd/plugins/decrypter/SerienStreamTo.class
+   jd/plugins/decrypter/SharezwebComCrawler.class
+   jd/plugins/decrypter/SharezwebComCrawlerShorturls.class
+   jd/plugins/decrypter/SoundCloudComDecrypter.class
+   jd/plugins/decrypter/SpankBangComCrawler.class
+   jd/plugins/decrypter/SrBox.class
+   jd/plugins/decrypter/SxyprnComCrawler.class
+   jd/plugins/decrypter/TwitterComCrawler.class
+   jd/plugins/decrypter/VoeSxCrawler.class
+   jd/plugins/decrypter/VscoCoCrawler.class
+   jd/plugins/hoster/BaseShareCom.class
+   jd/plugins/hoster/BatoTo.class
+   jd/plugins/hoster/CehennempassPw.class
+   jd/plugins/hoster/CopyCaseCom.class
+   jd/plugins/hoster/DailyleechCom.class
+   jd/plugins/hoster/DeviantArtCom.class
+   jd/plugins/hoster/DirectHTTP.class
+   jd/plugins/hoster/DoodstreamCom$1$1.class
+   jd/plugins/hoster/DoodstreamCom$1.class
+   jd/plugins/hoster/DoodstreamCom.class
+   jd/plugins/hoster/DropboxCom.class
+   jd/plugins/hoster/EfuktCom.class
+   jd/plugins/hoster/FaceBookComVideos.class
+   jd/plugins/hoster/FastShareCz.class
+   jd/plugins/hoster/Fastdownloader42webIo.class
+   jd/plugins/hoster/FileFactory.class
+   jd/plugins/hoster/FileJokerNet.class
+   jd/plugins/hoster/FilebitNet.class
+   jd/plugins/hoster/FilecadCom.class.removed
+   jd/plugins/hoster/GenericM3u8$1.class
+   jd/plugins/hoster/GenericM3u8.class
+   jd/plugins/hoster/GfileRo.class
+   jd/plugins/hoster/GfyCatCom.class
+   jd/plugins/hoster/GoogleDrive.class
+   jd/plugins/hoster/HotlinkCc.class
+   jd/plugins/hoster/ImageFap$1.class
+   jd/plugins/hoster/ImageFap$2.class
+   jd/plugins/hoster/ImageFap.class
+   jd/plugins/hoster/ImgSrcRu.class
+   jd/plugins/hoster/KenfilesCom.class
+   jd/plugins/hoster/KernelVideoSharingComV2$1.class
+   jd/plugins/hoster/KernelVideoSharingComV2.class
+   jd/plugins/hoster/KernelVideoSharingComV2HostsDefault.class
+   jd/plugins/hoster/MambahuyambaCom.class
+   jd/plugins/hoster/OdyseeCom$1.class
+   jd/plugins/hoster/OdyseeCom.class
+   jd/plugins/hoster/Offline.class
+   jd/plugins/hoster/OneFichierCom.class
+   jd/plugins/hoster/PornHubCom$BouncyCastleAESCounterModeDecrypt.class
+   jd/plugins/hoster/PornHubCom.class
+   jd/plugins/hoster/PornwildTo.class
+   jd/plugins/hoster/RedGifsCom.class
+   jd/plugins/hoster/RedditCom$1.class
+   jd/plugins/hoster/RedditCom$2.class
+   jd/plugins/hoster/RedditCom.class
+   jd/plugins/hoster/ReuploadLink.class
+   jd/plugins/hoster/RomHustler.class
+   jd/plugins/hoster/SankakucomplexCom.class
+   jd/plugins/hoster/SharezwebCom.class
+   jd/plugins/hoster/SpankBangCom.class
+   jd/plugins/hoster/SunPornoCom.class
+   jd/plugins/hoster/SxyprnCom.class
+   jd/plugins/hoster/UbiqfileCom.class
+   jd/plugins/hoster/UlozTo.class
+   jd/plugins/hoster/VKontakteRuHoster$1.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$1.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$2.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$3.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$4.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$5.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$6.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$7.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$8.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality.class
+   jd/plugins/hoster/VKontakteRuHoster$QualitySelectionMode$1.class
+   jd/plugins/hoster/VKontakteRuHoster$QualitySelectionMode$2.class
+   jd/plugins/hoster/VKontakteRuHoster$QualitySelectionMode$3.class
+   jd/plugins/hoster/VKontakteRuHoster$QualitySelectionMode$4.class
+   jd/plugins/hoster/VKontakteRuHoster$QualitySelectionMode.class
+   jd/plugins/hoster/VKontakteRuHoster.class
+   jd/plugins/hoster/VuploadCom.class.removed
+   jd/plugins/hoster/XHamsterCom$1.class
+   jd/plugins/hoster/XHamsterCom.class
+   jd/plugins/hoster/YourUploadCom.class
+   jd/plugins/hoster/YoutvDe.class
+   jd/plugins/hoster/ZapiszSe.class
+   jd/plugins/hoster/ZaycevNet.class
+   jd/plugins/hoster/ZeveraCore$1.class
+   jd/plugins/hoster/ZeveraCore$2.class
+   jd/plugins/hoster/ZeveraCore$3.class
+   jd/plugins/hoster/ZeveraCore.class
+----------------Extensions----------------
+   extensions/Extraction.jar
+----------------Direct Files----------------
+   build.json
+   translations/org/jdownloader/gui/translate/GuiTranslation.ru.lng
+----------------Core Files----------------
+   Core.jar
+   JD: Core.jar/jd/controlling/X11ClipboardSupport$X11Extended.class
+   JD: Core.jar/jd/controlling/X11ClipboardSupport.class
+   JD: Core.jar/jd/controlling/faviconcontroller/FavIcons.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler.class
+   JD: Core.jar/jd/controlling/reconnect/pluginsinc/upnp/UPNPReconnectInvoker.class
+   JD: Core.jar/jd/controlling/reconnect/pluginsinc/upnp/UPUPReconnectSettings.class
+   JD: Core.jar/jd/parser/html/HTMLParser$HexHtmlParserCharSequence.class
+   JD: Core.jar/jd/parser/html/HTMLParser$HtmlParserCharSequence.class
+   JD: Core.jar/jd/parser/html/HTMLParser$HtmlParserOptions.class
+   JD: Core.jar/jd/parser/html/HTMLParser$HtmlParserResultSet.class
+   JD: Core.jar/jd/parser/html/HTMLParser$Httppattern.class
+   JD: Core.jar/jd/parser/html/HTMLParser.class
+   JD: Core.jar/jd/plugins/Plugin$1.class
+   JD: Core.jar/jd/plugins/Plugin$2.class
+   JD: Core.jar/jd/plugins/Plugin$3.class
+   JD: Core.jar/jd/plugins/Plugin$4.class
+   JD: Core.jar/jd/plugins/Plugin.class
+   JD: Core.jar/org/jdownloader/controlling/hosterrule/HosterRuleConfig.class
+   JD: Core.jar/org/jdownloader/gui/toolbar/MenuManagerMainToolbar.class
+   JD: Core.jar/org/jdownloader/gui/views/DownloadFolderChooserDialog$1.class
+   JD: Core.jar/org/jdownloader/gui/views/DownloadFolderChooserDialog$2.class
+   JD: Core.jar/org/jdownloader/gui/views/DownloadFolderChooserDialog$3.class
+   JD: Core.jar/org/jdownloader/gui/views/DownloadFolderChooserDialog.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/MenuManagerDownloadTabBottomBar.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/action/ResumeAction.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/action/ResumeToolbarAction$1.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/action/ResumeToolbarAction$2.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/action/ResumeToolbarAction.class
+   JD: Core.jar/org/jdownloader/plugins/components/FilebitNetAccountFactory$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/FilebitNetAccountFactory.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$URL_TYPE.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$XFSApiAccountFactory$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$XFSApiAccountFactory.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/ArdConfigInterface.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/SankakucomplexComConfig$TRANSLATION.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/SankakucomplexComConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/TwitterConfigInterface$TRANSLATION.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/TwitterConfigInterface.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/XFSConfigVideoVuploadCom.class.removed
+   JD: Core.jar/org/jdownloader/plugins/components/config/YoutvDeConfig$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/YoutvDeConfig$PreferredQuality$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/YoutvDeConfig$PreferredQuality$2.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/YoutvDeConfig$PreferredQuality$3.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/YoutvDeConfig$PreferredQuality$4.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/YoutvDeConfig$PreferredQuality.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/YoutvDeConfig$TRANSLATION.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/YoutvDeConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/hls/HlsContainer$CODEC.class
+   JD: Core.jar/org/jdownloader/plugins/components/hls/HlsContainer$StreamCodec.class
+   JD: Core.jar/org/jdownloader/plugins/components/hls/HlsContainer.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/gui/ExtractionJobTableModel$1.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/gui/ExtractionJobTableModel$2.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/gui/ExtractionJobTableModel$3$1.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/gui/ExtractionJobTableModel$3$2.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/gui/ExtractionJobTableModel$3.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/gui/ExtractionJobTableModel$4.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/gui/ExtractionJobTableModel.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$1$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$2$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$2.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$3.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$4.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$5.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$6$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$6.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog.class
+   libs/JDGUI.jar
+   libs/laf/flatlaf.license

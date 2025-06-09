@@ -1,0 +1,14 @@
+Tue Sep 19 00:09:40 CST 2023
+Package: package_1695048855764.awf
+Install
+Write Revision: 16857
+----------------Plugins----------------
+   jd/plugins/decrypter/SerienStreamTo$2.class
+   jd/plugins/decrypter/SerienStreamTo.class
+   jd/plugins/hoster/DropboxCom$DropboxAccountFactory$1.class
+   jd/plugins/hoster/DropboxCom$DropboxAccountFactory.class
+   jd/plugins/hoster/DropboxCom.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------

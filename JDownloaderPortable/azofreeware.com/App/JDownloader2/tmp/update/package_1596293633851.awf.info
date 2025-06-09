@@ -1,0 +1,10 @@
+{
+  "appID" : "JD",
+  "destRevision" : 14100,
+  "sourceRevision" : 14024,
+  "timestamp" : 1596293633853,
+  "installExtensions" : [ ],
+  "uninstallExtensions" : [ ],
+  "file" : "package_1596293633851.awf",
+  "installedExtensions" : [ ]
+}

@@ -1,0 +1,3 @@
+------------------------Thread: 40:org.jdownloader.osevents.multios.SignalEventSource.log-----------------------
+--ID:40TS:1695042297678-2023/9/18 下午 09:04:57 -  [org.jdownloader.osevents.multios.SignalEventSource(reg)] -> register signal: INT->SIGINT
+--ID:40TS:1695042297679-2023/9/18 下午 09:04:57 -  [org.jdownloader.osevents.multios.SignalEventSource(reg)] -> register signal: TERM->SIGTERM

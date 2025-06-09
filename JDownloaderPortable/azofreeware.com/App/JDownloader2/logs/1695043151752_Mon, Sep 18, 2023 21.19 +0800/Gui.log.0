@@ -1,0 +1,28 @@
+------------------------Thread: 22:Gui.log-----------------------
+--ID:22TS:1695043153643-2023/9/18 下午 09:19:13 -  [jd.gui.swing.jdgui.JDGui(internalInitLocationAndDimension)] -> Check if Screen Location are ok java.awt.Point[x=597,y=318] - java.awt.Dimension[width=1430,height=728]
+------------------------Thread: 41:Gui.log-----------------------
+--ID:41TS:1695043153707-2023/9/18 下午 09:19:13 -  [jd.gui.swing.jdgui.JDGui$27(run)] -> Update bug Finder
+--ID:41TS:1695043153707-2023/9/18 下午 09:19:13 -  [jd.gui.swing.jdgui.JDGui$27(run)] -> Find Counter
+--ID:41TS:1695043153707-2023/9/18 下午 09:19:13 -  [jd.gui.swing.jdgui.JDGui$27(run)] -> C:\Users\User\Desktop\JDownloaderPortable\azofreeware.com\App\JDownloader2\JDownloader.jar
+--ID:41TS:1695043153707-2023/9/18 下午 09:19:13 -  [jd.gui.swing.jdgui.JDGui$27(run)] -> Done: 1
+--ID:41TS:1695043154710-2023/9/18 下午 09:19:14 -  [jd.gui.swing.jdgui.JDGui$27(run)] -> Gogogo 1
+------------------------Thread: 22:Gui.log-----------------------
+--ID:22TS:1695043156601-2023/9/18 下午 09:19:16 -  [jd.gui.swing.jdgui.JDGui$24(edtRun)] -> SilentMode: Mainframe has Focus: 
+--ID:22TS:1695043158282-2023/9/18 下午 09:19:18 -  [jd.gui.swing.jdgui.JDGui$24(edtRun)] -> SilentMode: Mainframe has Focus: 
+--ID:22TS:1695043158283-2023/9/18 下午 09:19:18 -  [jd.gui.swing.jdgui.JDGui$24(edtRun)] -> SilentMode: Mainframe has Focus: 
+--ID:22TS:1695043159500-2023/9/18 下午 09:19:19 -  [jd.gui.swing.jdgui.JDGui$24(edtRun)] -> SilentMode: No SilentMode. Active Window: org.appwork.utils.swing.dialog.AbstractDialog$10[正在爬行取得下載,897,622,383x121,invalid,layout=java.awt.BorderLayout,MODELESS,title=正在爬行取得下載,defaultCloseOperation=DO_NOTHING_ON_CLOSE,rootPane=javax.swing.JRootPane[,8,31,367x82,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.synth.SynthBorder@4b5986,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]
+--ID:22TS:1695043786360-2023/9/18 下午 09:29:46 -  [jd.gui.swing.jdgui.JDGui$24(edtRun)] -> SilentMode: Mainframe has Focus: 
+--ID:22TS:1695043788814-2023/9/18 下午 09:29:48 -  [jd.gui.swing.jdgui.JDGui$34(edtRun)] -> Reset frame to 
+{
+ "extendedState"  : "NORMAL",
+ "height"         : 728,
+ "screenID"       : "\\Display0",
+ "width"          : 1430,
+ "x"              : 597,
+ "y"              : 318,
+ "active"         : false,
+ "focus"          : false,
+ "locationSet"    : true,
+ "silentShutdown" : false,
+ "visible"        : true
+}
