@@ -1,0 +1,93 @@
+
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>選手報名查詢系統</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      margin: 0;
+      padding: 20px;
+      background: #f8f8f8;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+      background: #fff;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+    }
+    input {
+      width: 100%;
+      padding: 12px;
+      font-size: 1rem;
+      margin-bottom: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+    }
+    button {
+      width: 100%;
+      padding: 12px;
+      background: #007bff;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #0056b3;
+    }
+    #result {
+      margin-top: 1rem;
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      background: #f1f1f1;
+    }
+    p {
+      margin: 0.3rem 0;
+    }
+  </style>
+  <script>
+    const data = [
+      { "選手號碼": "57", "參賽選手姓名": "陳泮華", "學校名稱": "塗城國小", "性別": "男", "組別": "1年級", "項目": "200公尺計時賽" },
+      { "選手號碼": "142", "參賽選手姓名": "林沂樂", "學校名稱": "益民國小", "性別": "女", "組別": "1年級", "項目": "200公尺計時賽" },
+      { "選手號碼": "198", "參賽選手姓名": "吳秉均", "學校名稱": "忠孝國小", "性別": "男", "組別": "1年級", "項目": "200公尺計時賽" },
+      { "選手號碼": "206", "參賽選手姓名": "鄭士謙", "學校名稱": "內埔國小", "性別": "男", "組別": "1年級", "項目": "200公尺計時賽" }
+    ];
+
+    function search() {
+      const name = document.getElementById("nameInput").value.trim();
+      const result = data.find(entry => entry["參賽選手姓名"] === name);
+      const output = document.getElementById("result");
+
+      if (!name) {
+        output.innerHTML = "<p>請輸入姓名</p>";
+        return;
+      }
+
+      if (result) {
+        output.innerHTML = Object.entries(result).map(([k, v]) => `<p><strong>${k}</strong>: ${v}</p>`).join("");
+      } else {
+        output.innerHTML = "<p>查無資料</p>";
+      }
+    }
+  </script>
+</head>
+<body>
+  <div class="container">
+    <h1>選手報名查詢系統</h1>
+    <input id="nameInput" placeholder="請輸入選手姓名" />
+    <button onclick="search()">查詢</button>
+    <div id="result"></div>
+  </div>
+</body>
+</html>
